@@ -1,0 +1,97 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:is(.dark *));
+
+@theme {
+  --color-background: #ffffff;
+  --color-foreground: #0a0a0a;
+  --color-card: #ffffff;
+  --color-card-foreground: #0a0a0a;
+  --color-popover: #ffffff;
+  --color-popover-foreground: #0a0a0a;
+  --color-primary: #171717;
+  --color-primary-foreground: #fafafa;
+  --color-secondary: #f5f5f5;
+  --color-secondary-foreground: #171717;
+  --color-muted: #f5f5f5;
+  --color-muted-foreground: #737373;
+  --color-accent: #f5f5f5;
+  --color-accent-foreground: #171717;
+  --color-destructive: #ef4444;
+  --color-destructive-foreground: #fafafa;
+  --color-border: #e5e5e5;
+  --color-input: #e5e5e5;
+  --color-ring: #0a0a0a;
+  --radius: 0.5rem;
+  --color-chart-1: #e76e50;
+  --color-chart-2: #2a9d90;
+  --color-chart-3: #264653;
+  --color-chart-4: #e9c46a;
+  --color-chart-5: #f4a261;
+  --color-sidebar-background: #fafafa;
+  --color-sidebar-foreground: #0a0a0a;
+  --color-sidebar-primary: #171717;
+  --color-sidebar-primary-foreground: #fafafa;
+  --color-sidebar-accent: #f5f5f5;
+  --color-sidebar-accent-foreground: #171717;
+  --color-sidebar-border: #e5e5e5;
+  --color-sidebar-ring: #0a0a0a;
+
+  /* City colors */
+  --color-city-fort-sterling: #7dd3fc;
+  --color-city-lymhurst: #4ade80;
+  --color-city-bridgewatch: #fb923c;
+  --color-city-martlock: #a8a29e;
+  --color-city-thetford: #c084fc;
+  --color-city-caerleon: #f87171;
+  --color-city-brecilien: #22c55e;
+  --color-city-black-market: #fbbf24;
+
+  /* Profit colors */
+  --color-profit: #22c55e;
+  --color-loss: #ef4444;
+}
+
+.dark {
+  --color-background: #0a0a0a;
+  --color-foreground: #fafafa;
+  --color-card: #0a0a0a;
+  --color-card-foreground: #fafafa;
+  --color-popover: #0a0a0a;
+  --color-popover-foreground: #fafafa;
+  --color-primary: #fafafa;
+  --color-primary-foreground: #171717;
+  --color-secondary: #262626;
+  --color-secondary-foreground: #fafafa;
+  --color-muted: #262626;
+  --color-muted-foreground: #a3a3a3;
+  --color-accent: #262626;
+  --color-accent-foreground: #fafafa;
+  --color-destructive: #7f1d1d;
+  --color-destructive-foreground: #fafafa;
+  --color-border: #262626;
+  --color-input: #262626;
+  --color-ring: #d4d4d4;
+  --color-chart-1: #2563eb;
+  --color-chart-2: #16a34a;
+  --color-chart-3: #eab308;
+  --color-chart-4: #a855f7;
+  --color-chart-5: #f97316;
+  --color-sidebar-background: #111111;
+  --color-sidebar-foreground: #fafafa;
+  --color-sidebar-primary: #fafafa;
+  --color-sidebar-primary-foreground: #171717;
+  --color-sidebar-accent: #262626;
+  --color-sidebar-accent-foreground: #fafafa;
+  --color-sidebar-border: #262626;
+  --color-sidebar-ring: #d4d4d4;
+}
+
+* {
+  @apply border-border;
+}
+
+body {
+  @apply bg-background text-foreground;
+  font-feature-settings: "rlig" 1, "calt" 1;
+}

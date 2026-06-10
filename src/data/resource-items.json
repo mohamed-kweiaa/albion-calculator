@@ -1,0 +1,5812 @@
+[
+  {
+    "id": "T2_CLOTH",
+    "name": "Simple Cloth",
+    "tier": 2,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "refined"
+  },
+  {
+    "id": "T2_FIBER",
+    "name": "Cotton",
+    "tier": 2,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T2_FURNITUREITEM_TROPHY_FIBER",
+    "name": "Comfy Cotton Trophy",
+    "tier": 2,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T2_FURNITUREITEM_TROPHY_HIDE",
+    "name": "Stuffed Fox Head",
+    "tier": 2,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T2_FURNITUREITEM_TROPHY_ORE",
+    "name": "Copper Ore Sample",
+    "tier": 2,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T2_FURNITUREITEM_TROPHY_ROCK",
+    "name": "Limestone Fragment",
+    "tier": 2,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T2_FURNITUREITEM_TROPHY_WOOD",
+    "name": "Birch Bonsai",
+    "tier": 2,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T2_HIDE",
+    "name": "Rugged Hide",
+    "tier": 2,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T2_JOURNAL_FIBER",
+    "name": "Novice Cropper's Journal (Partially Full)",
+    "tier": 2,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T2_JOURNAL_FIBER_EMPTY",
+    "name": "Novice Cropper's Journal (Empty)",
+    "tier": 2,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T2_JOURNAL_FIBER_FULL",
+    "name": "Novice Cropper's Journal (Full)",
+    "tier": 2,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T2_JOURNAL_HIDE",
+    "name": "Novice Gamekeeper's Journal (Partially Full)",
+    "tier": 2,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T2_JOURNAL_HIDE_EMPTY",
+    "name": "Novice Gamekeeper's Journal (Empty)",
+    "tier": 2,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T2_JOURNAL_HIDE_FULL",
+    "name": "Novice Gamekeeper's Journal (Full)",
+    "tier": 2,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T2_JOURNAL_ORE",
+    "name": "Novice Prospector's Journal (Partially Full)",
+    "tier": 2,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T2_JOURNAL_ORE_EMPTY",
+    "name": "Novice Prospector's Journal (Empty)",
+    "tier": 2,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T2_JOURNAL_ORE_FULL",
+    "name": "Novice Prospector's Journal (Full)",
+    "tier": 2,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T2_JOURNAL_TROPHY_FIBER",
+    "name": "Novice Cropper's Trophy Journal (Partially Full)",
+    "tier": 2,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T2_JOURNAL_TROPHY_FIBER_EMPTY",
+    "name": "Novice Cropper's Trophy Journal (Empty)",
+    "tier": 2,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T2_JOURNAL_TROPHY_FIBER_FULL",
+    "name": "Novice Cropper's Trophy Journal (Full)",
+    "tier": 2,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T2_JOURNAL_TROPHY_HIDE",
+    "name": "Novice Gamekeeper's Trophy Journal (Partially Full)",
+    "tier": 2,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T2_JOURNAL_TROPHY_HIDE_EMPTY",
+    "name": "Novice Gamekeeper's Trophy Journal (Empty)",
+    "tier": 2,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T2_JOURNAL_TROPHY_HIDE_FULL",
+    "name": "Novice Gamekeeper's Trophy Journal (Full)",
+    "tier": 2,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T2_JOURNAL_TROPHY_ORE",
+    "name": "Novice Prospector's Trophy Journal (Partially Full)",
+    "tier": 2,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T2_JOURNAL_TROPHY_ORE_EMPTY",
+    "name": "Novice Prospector's Trophy Journal (Empty)",
+    "tier": 2,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T2_JOURNAL_TROPHY_ORE_FULL",
+    "name": "Novice Prospector's Trophy Journal (Full)",
+    "tier": 2,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T2_JOURNAL_TROPHY_WOOD",
+    "name": "Novice Lumberjack's Trophy Journal (Partially Full)",
+    "tier": 2,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T2_JOURNAL_TROPHY_WOOD_EMPTY",
+    "name": "Novice Lumberjack's Trophy Journal (Empty)",
+    "tier": 2,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T2_JOURNAL_TROPHY_WOOD_FULL",
+    "name": "Novice Lumberjack's Trophy Journal (Full)",
+    "tier": 2,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T2_JOURNAL_WOOD",
+    "name": "Novice Lumberjack's Journal (Partially Full)",
+    "tier": 2,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T2_JOURNAL_WOOD_EMPTY",
+    "name": "Novice Lumberjack's Journal (Empty)",
+    "tier": 2,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T2_JOURNAL_WOOD_FULL",
+    "name": "Novice Lumberjack's Journal (Full)",
+    "tier": 2,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T2_LABOURER_CONTRACT_FIBER",
+    "name": "Novice Cropper Contract",
+    "tier": 2,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T2_LABOURER_CONTRACT_HIDE",
+    "name": "Novice Gamekeeper Contract",
+    "tier": 2,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T2_LABOURER_CONTRACT_ORE",
+    "name": "Novice Prospector Contract",
+    "tier": 2,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T2_LABOURER_CONTRACT_WOOD",
+    "name": "Novice Lumberjack Contract",
+    "tier": 2,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T2_LEATHER",
+    "name": "Stiff Leather",
+    "tier": 2,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "refined"
+  },
+  {
+    "id": "T2_METALBAR",
+    "name": "Copper Bar",
+    "tier": 2,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "refined"
+  },
+  {
+    "id": "T2_ORE",
+    "name": "Copper Ore",
+    "tier": 2,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T2_PLANKS",
+    "name": "Birch Planks",
+    "tier": 2,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "refined"
+  },
+  {
+    "id": "T2_ROCK",
+    "name": "Limestone",
+    "tier": 2,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T2_STONEBLOCK",
+    "name": "Limestone Block",
+    "tier": 2,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "refined"
+  },
+  {
+    "id": "T2_WOOD",
+    "name": "Birch Logs",
+    "tier": 2,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T3_CLOTH",
+    "name": "Neat Cloth",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "refined"
+  },
+  {
+    "id": "T3_FIBER",
+    "name": "Flax",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T3_FURNITUREITEM_TROPHY_FIBER",
+    "name": "Fine Flax Trophy",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T3_FURNITUREITEM_TROPHY_HIDE",
+    "name": "Stuffed Wolf Head",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T3_FURNITUREITEM_TROPHY_ORE",
+    "name": "Tin Ore Sample",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T3_FURNITUREITEM_TROPHY_ROCK",
+    "name": "Sandstone Fragment",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T3_FURNITUREITEM_TROPHY_WOOD",
+    "name": "Chestnut Bonsai",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T3_HIDE",
+    "name": "Thin Hide",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T3_JOURNAL_FIBER",
+    "name": "Journeyman Cropper's Journal (Partially Full)",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T3_JOURNAL_FIBER_EMPTY",
+    "name": "Journeyman Cropper's Journal (Empty)",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T3_JOURNAL_FIBER_FULL",
+    "name": "Journeyman Cropper's Journal (Full)",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T3_JOURNAL_HIDE",
+    "name": "Journeyman Gamekeeper's Journal (Partially Full)",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T3_JOURNAL_HIDE_EMPTY",
+    "name": "Journeyman Gamekeeper's Journal (Empty)",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T3_JOURNAL_HIDE_FULL",
+    "name": "Journeyman Gamekeeper's Journal (Full)",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T3_JOURNAL_ORE",
+    "name": "Journeyman Prospector's Journal (Partially Full)",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T3_JOURNAL_ORE_EMPTY",
+    "name": "Journeyman Prospector's Journal (Empty)",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T3_JOURNAL_ORE_FULL",
+    "name": "Journeyman Prospector's Journal (Full)",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T3_JOURNAL_TROPHY_FIBER",
+    "name": "Journeyman Cropper's Trophy Journal (Partially Full)",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T3_JOURNAL_TROPHY_FIBER_EMPTY",
+    "name": "Journeyman Cropper's Trophy Journal (Empty)",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T3_JOURNAL_TROPHY_FIBER_FULL",
+    "name": "Journeyman Cropper's Trophy Journal (Full)",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T3_JOURNAL_TROPHY_HIDE",
+    "name": "Journeyman Gamekeeper's Trophy Journal (Partially Full)",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T3_JOURNAL_TROPHY_HIDE_EMPTY",
+    "name": "Journeyman Gamekeeper's Trophy Journal (Empty)",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T3_JOURNAL_TROPHY_HIDE_FULL",
+    "name": "Journeyman Gamekeeper's Trophy Journal (Full)",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T3_JOURNAL_TROPHY_ORE",
+    "name": "Journeyman Prospector's Trophy Journal (Partially Full)",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T3_JOURNAL_TROPHY_ORE_EMPTY",
+    "name": "Journeyman Prospector's Trophy Journal (Empty)",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T3_JOURNAL_TROPHY_ORE_FULL",
+    "name": "Journeyman Prospector's Trophy Journal (Full)",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T3_JOURNAL_TROPHY_WOOD",
+    "name": "Journeyman Lumberjack's Trophy Journal (Partially Full)",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T3_JOURNAL_TROPHY_WOOD_EMPTY",
+    "name": "Journeyman Lumberjack's Trophy Journal (Empty)",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T3_JOURNAL_TROPHY_WOOD_FULL",
+    "name": "Journeyman Lumberjack's Trophy Journal (Full)",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T3_JOURNAL_WOOD",
+    "name": "Journeyman Lumberjack's Journal (Partially Full)",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T3_JOURNAL_WOOD_EMPTY",
+    "name": "Journeyman Lumberjack's Journal (Empty)",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T3_JOURNAL_WOOD_FULL",
+    "name": "Journeyman Lumberjack's Journal (Full)",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T3_LABOURER_CONTRACT_FIBER",
+    "name": "Journeyman Cropper Contract",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T3_LABOURER_CONTRACT_HIDE",
+    "name": "Journeyman Gamekeeper Contract",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T3_LABOURER_CONTRACT_ORE",
+    "name": "Journeyman Prospector Contract",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T3_LABOURER_CONTRACT_WOOD",
+    "name": "Journeyman Lumberjack Contract",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T3_LEATHER",
+    "name": "Thick Leather",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "refined"
+  },
+  {
+    "id": "T3_METALBAR",
+    "name": "Bronze Bar",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "refined"
+  },
+  {
+    "id": "T3_ORE",
+    "name": "Tin Ore",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T3_PLANKS",
+    "name": "Chestnut Planks",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "refined"
+  },
+  {
+    "id": "T3_ROCK",
+    "name": "Sandstone",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T3_STONEBLOCK",
+    "name": "Sandstone Block",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "refined"
+  },
+  {
+    "id": "T3_WOOD",
+    "name": "Chestnut Logs",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T4_ARTEFACT_TOKEN_FAVOR_1",
+    "name": "Adept's Crystallized Spirit",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "artefact"
+  },
+  {
+    "id": "T4_ARTEFACT_TOKEN_FAVOR_2",
+    "name": "Adept's Crystallized Dread",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "artefact"
+  },
+  {
+    "id": "T4_ARTEFACT_TOKEN_FAVOR_3",
+    "name": "Adept's Crystallized Magic",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "artefact"
+  },
+  {
+    "id": "T4_ARTEFACT_TOKEN_FAVOR_4",
+    "name": "Adept's Crystallized Divinity",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "artefact"
+  },
+  {
+    "id": "T4_BACKPACK_GATHERER_FIBER",
+    "name": "Adept's Harvester Backpack",
+    "tier": 4,
+    "enchantments": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "maxEnchantment": 4,
+    "category": "raw"
+  },
+  {
+    "id": "T4_BACKPACK_GATHERER_HIDE",
+    "name": "Adept's Skinner Backpack",
+    "tier": 4,
+    "enchantments": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "maxEnchantment": 4,
+    "category": "raw"
+  },
+  {
+    "id": "T4_BACKPACK_GATHERER_ORE",
+    "name": "Adept's Miner Backpack",
+    "tier": 4,
+    "enchantments": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "maxEnchantment": 4,
+    "category": "raw"
+  },
+  {
+    "id": "T4_BACKPACK_GATHERER_ROCK",
+    "name": "Adept's Quarrier Backpack",
+    "tier": 4,
+    "enchantments": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "maxEnchantment": 4,
+    "category": "raw"
+  },
+  {
+    "id": "T4_BACKPACK_GATHERER_WOOD",
+    "name": "Adept's Lumberjack Backpack",
+    "tier": 4,
+    "enchantments": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "maxEnchantment": 4,
+    "category": "raw"
+  },
+  {
+    "id": "T4_CLOTH",
+    "name": "Fine Cloth",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "refined"
+  },
+  {
+    "id": "T4_CLOTH_LEVEL1",
+    "name": "Uncommon Fine Cloth",
+    "tier": 4,
+    "enchantments": [
+      1
+    ],
+    "maxEnchantment": 1,
+    "category": "refined"
+  },
+  {
+    "id": "T4_CLOTH_LEVEL2",
+    "name": "Rare Fine Cloth",
+    "tier": 4,
+    "enchantments": [
+      2
+    ],
+    "maxEnchantment": 2,
+    "category": "refined"
+  },
+  {
+    "id": "T4_CLOTH_LEVEL3",
+    "name": "Exceptional Fine Cloth",
+    "tier": 4,
+    "enchantments": [
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "refined"
+  },
+  {
+    "id": "T4_CLOTH_LEVEL4",
+    "name": "Pristine Fine Cloth",
+    "tier": 4,
+    "enchantments": [
+      4
+    ],
+    "maxEnchantment": 4,
+    "category": "refined"
+  },
+  {
+    "id": "T4_FIBER",
+    "name": "Hemp",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T4_FIBER_LEVEL1",
+    "name": "Uncommon Hemp",
+    "tier": 4,
+    "enchantments": [
+      1
+    ],
+    "maxEnchantment": 1,
+    "category": "raw"
+  },
+  {
+    "id": "T4_FIBER_LEVEL2",
+    "name": "Rare Hemp",
+    "tier": 4,
+    "enchantments": [
+      2
+    ],
+    "maxEnchantment": 2,
+    "category": "raw"
+  },
+  {
+    "id": "T4_FIBER_LEVEL3",
+    "name": "Exceptional Hemp",
+    "tier": 4,
+    "enchantments": [
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "raw"
+  },
+  {
+    "id": "T4_FIBER_LEVEL4",
+    "name": "Pristine Hemp",
+    "tier": 4,
+    "enchantments": [
+      4
+    ],
+    "maxEnchantment": 4,
+    "category": "raw"
+  },
+  {
+    "id": "T4_FURNITUREITEM_TROPHY_FIBER",
+    "name": "Exquisite Hemp Trophy",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T4_FURNITUREITEM_TROPHY_HIDE",
+    "name": "Stuffed Boar Head",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T4_FURNITUREITEM_TROPHY_ORE",
+    "name": "Iron Ore Sample",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T4_FURNITUREITEM_TROPHY_ROCK",
+    "name": "Travertine Fragment",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T4_FURNITUREITEM_TROPHY_WOOD",
+    "name": "Pine Bonsai",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T4_HIDE",
+    "name": "Medium Hide",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T4_HIDE_LEVEL1",
+    "name": "Uncommon Medium Hide",
+    "tier": 4,
+    "enchantments": [
+      1
+    ],
+    "maxEnchantment": 1,
+    "category": "raw"
+  },
+  {
+    "id": "T4_HIDE_LEVEL2",
+    "name": "Rare Medium Hide",
+    "tier": 4,
+    "enchantments": [
+      2
+    ],
+    "maxEnchantment": 2,
+    "category": "raw"
+  },
+  {
+    "id": "T4_HIDE_LEVEL3",
+    "name": "Exceptional Medium Hide",
+    "tier": 4,
+    "enchantments": [
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "raw"
+  },
+  {
+    "id": "T4_HIDE_LEVEL4",
+    "name": "Pristine Medium Hide",
+    "tier": 4,
+    "enchantments": [
+      4
+    ],
+    "maxEnchantment": 4,
+    "category": "raw"
+  },
+  {
+    "id": "T4_JOURNAL_FIBER",
+    "name": "Adept Cropper's Journal (Partially Full)",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T4_JOURNAL_FIBER_EMPTY",
+    "name": "Adept Cropper's Journal (Empty)",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T4_JOURNAL_FIBER_FULL",
+    "name": "Adept Cropper's Journal (Full)",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T4_JOURNAL_HIDE",
+    "name": "Adept Gamekeeper's Journal (Partially Full)",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T4_JOURNAL_HIDE_EMPTY",
+    "name": "Adept Gamekeeper's Journal (Empty)",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T4_JOURNAL_HIDE_FULL",
+    "name": "Adept Gamekeeper's Journal (Full)",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T4_JOURNAL_ORE",
+    "name": "Adept Prospector's Journal (Partially Full)",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T4_JOURNAL_ORE_EMPTY",
+    "name": "Adept Prospector's Journal (Empty)",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T4_JOURNAL_ORE_FULL",
+    "name": "Adept Prospector's Journal (Full)",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T4_JOURNAL_TROPHY_FIBER",
+    "name": "Adept Cropper's Trophy Journal (Partially Full)",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T4_JOURNAL_TROPHY_FIBER_EMPTY",
+    "name": "Adept Cropper's Trophy Journal (Empty)",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T4_JOURNAL_TROPHY_FIBER_FULL",
+    "name": "Adept Cropper's Trophy Journal (Full)",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T4_JOURNAL_TROPHY_HIDE",
+    "name": "Adept Gamekeeper's Trophy Journal (Partially Full)",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T4_JOURNAL_TROPHY_HIDE_EMPTY",
+    "name": "Adept Gamekeeper's Trophy Journal (Empty)",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T4_JOURNAL_TROPHY_HIDE_FULL",
+    "name": "Adept Gamekeeper's Trophy Journal (Full)",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T4_JOURNAL_TROPHY_ORE",
+    "name": "Adept Prospector's Trophy Journal (Partially Full)",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T4_JOURNAL_TROPHY_ORE_EMPTY",
+    "name": "Adept Prospector's Trophy Journal (Empty)",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T4_JOURNAL_TROPHY_ORE_FULL",
+    "name": "Adept Prospector's Trophy Journal (Full)",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T4_JOURNAL_TROPHY_WOOD",
+    "name": "Adept Lumberjack's Trophy Journal (Partially Full)",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T4_JOURNAL_TROPHY_WOOD_EMPTY",
+    "name": "Adept Lumberjack's Trophy Journal (Empty)",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T4_JOURNAL_TROPHY_WOOD_FULL",
+    "name": "Adept Lumberjack's Trophy Journal (Full)",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T4_JOURNAL_WOOD",
+    "name": "Adept Lumberjack's Journal (Partially Full)",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T4_JOURNAL_WOOD_EMPTY",
+    "name": "Adept Lumberjack's Journal (Empty)",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T4_JOURNAL_WOOD_FULL",
+    "name": "Adept Lumberjack's Journal (Full)",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T4_LABOURER_CONTRACT_FIBER",
+    "name": "Adept Cropper Contract",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T4_LABOURER_CONTRACT_HIDE",
+    "name": "Adept Gamekeeper Contract",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T4_LABOURER_CONTRACT_ORE",
+    "name": "Adept Prospector Contract",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T4_LABOURER_CONTRACT_WOOD",
+    "name": "Adept Lumberjack Contract",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T4_LEATHER",
+    "name": "Worked Leather",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "refined"
+  },
+  {
+    "id": "T4_LEATHER_LEVEL1",
+    "name": "Uncommon Worked Leather",
+    "tier": 4,
+    "enchantments": [
+      1
+    ],
+    "maxEnchantment": 1,
+    "category": "refined"
+  },
+  {
+    "id": "T4_LEATHER_LEVEL2",
+    "name": "Rare Worked Leather",
+    "tier": 4,
+    "enchantments": [
+      2
+    ],
+    "maxEnchantment": 2,
+    "category": "refined"
+  },
+  {
+    "id": "T4_LEATHER_LEVEL3",
+    "name": "Exceptional Worked Leather",
+    "tier": 4,
+    "enchantments": [
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "refined"
+  },
+  {
+    "id": "T4_LEATHER_LEVEL4",
+    "name": "Pristine Worked Leather",
+    "tier": 4,
+    "enchantments": [
+      4
+    ],
+    "maxEnchantment": 4,
+    "category": "refined"
+  },
+  {
+    "id": "T4_METALBAR",
+    "name": "Steel Bar",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "refined"
+  },
+  {
+    "id": "T4_METALBAR_LEVEL1",
+    "name": "Uncommon Steel Bar",
+    "tier": 4,
+    "enchantments": [
+      1
+    ],
+    "maxEnchantment": 1,
+    "category": "refined"
+  },
+  {
+    "id": "T4_METALBAR_LEVEL2",
+    "name": "Rare Steel Bar",
+    "tier": 4,
+    "enchantments": [
+      2
+    ],
+    "maxEnchantment": 2,
+    "category": "refined"
+  },
+  {
+    "id": "T4_METALBAR_LEVEL3",
+    "name": "Exceptional Steel Bar",
+    "tier": 4,
+    "enchantments": [
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "refined"
+  },
+  {
+    "id": "T4_METALBAR_LEVEL4",
+    "name": "Pristine Steel Bar",
+    "tier": 4,
+    "enchantments": [
+      4
+    ],
+    "maxEnchantment": 4,
+    "category": "refined"
+  },
+  {
+    "id": "T4_ORE",
+    "name": "Iron Ore",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T4_ORE_LEVEL1",
+    "name": "Uncommon Iron Ore",
+    "tier": 4,
+    "enchantments": [
+      1
+    ],
+    "maxEnchantment": 1,
+    "category": "raw"
+  },
+  {
+    "id": "T4_ORE_LEVEL2",
+    "name": "Rare Iron Ore",
+    "tier": 4,
+    "enchantments": [
+      2
+    ],
+    "maxEnchantment": 2,
+    "category": "raw"
+  },
+  {
+    "id": "T4_ORE_LEVEL3",
+    "name": "Exceptional Iron Ore",
+    "tier": 4,
+    "enchantments": [
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "raw"
+  },
+  {
+    "id": "T4_ORE_LEVEL4",
+    "name": "Pristine Iron Ore",
+    "tier": 4,
+    "enchantments": [
+      4
+    ],
+    "maxEnchantment": 4,
+    "category": "raw"
+  },
+  {
+    "id": "T4_PLANKS",
+    "name": "Pine Planks",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "refined"
+  },
+  {
+    "id": "T4_PLANKS_LEVEL1",
+    "name": "Uncommon Pine Planks",
+    "tier": 4,
+    "enchantments": [
+      1
+    ],
+    "maxEnchantment": 1,
+    "category": "refined"
+  },
+  {
+    "id": "T4_PLANKS_LEVEL2",
+    "name": "Rare Pine Planks",
+    "tier": 4,
+    "enchantments": [
+      2
+    ],
+    "maxEnchantment": 2,
+    "category": "refined"
+  },
+  {
+    "id": "T4_PLANKS_LEVEL3",
+    "name": "Exceptional Pine Planks",
+    "tier": 4,
+    "enchantments": [
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "refined"
+  },
+  {
+    "id": "T4_PLANKS_LEVEL4",
+    "name": "Pristine Pine Planks",
+    "tier": 4,
+    "enchantments": [
+      4
+    ],
+    "maxEnchantment": 4,
+    "category": "refined"
+  },
+  {
+    "id": "T4_RELIC",
+    "name": "Adept's Relic",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "resource"
+  },
+  {
+    "id": "T4_ROCK",
+    "name": "Travertine",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T4_ROCK_LEVEL1",
+    "name": "Uncommon Travertine",
+    "tier": 4,
+    "enchantments": [
+      1
+    ],
+    "maxEnchantment": 1,
+    "category": "raw"
+  },
+  {
+    "id": "T4_ROCK_LEVEL2",
+    "name": "Rare Travertine",
+    "tier": 4,
+    "enchantments": [
+      2
+    ],
+    "maxEnchantment": 2,
+    "category": "raw"
+  },
+  {
+    "id": "T4_ROCK_LEVEL3",
+    "name": "Exceptional Travertine",
+    "tier": 4,
+    "enchantments": [
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "raw"
+  },
+  {
+    "id": "T4_RUNE",
+    "name": "Adept's Rune",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "resource"
+  },
+  {
+    "id": "T4_SHARD_AVALONIAN",
+    "name": "Adept's Avalonian Shard",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "resource"
+  },
+  {
+    "id": "T4_SHARD_CRYSTAL",
+    "name": "Adept's Crystal Shard",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "resource"
+  },
+  {
+    "id": "T4_SKILLBOOK_GATHER_FIBER",
+    "name": "Adept Fiber Harvester Tome",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T4_SKILLBOOK_GATHER_HIDE",
+    "name": "Adept Animal Skinner Tome",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T4_SKILLBOOK_GATHER_ORE",
+    "name": "Adept Ore Miner Tome",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T4_SKILLBOOK_GATHER_ROCK",
+    "name": "Adept Quarrier Tome",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T4_SKILLBOOK_GATHER_WOOD",
+    "name": "Adept Lumberjack Tome",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T4_SOUL",
+    "name": "Adept's Soul",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "resource"
+  },
+  {
+    "id": "T4_STONEBLOCK",
+    "name": "Travertine Block",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "refined"
+  },
+  {
+    "id": "T4_WOOD",
+    "name": "Pine Logs",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T4_WOOD_LEVEL1",
+    "name": "Uncommon Pine Logs",
+    "tier": 4,
+    "enchantments": [
+      1
+    ],
+    "maxEnchantment": 1,
+    "category": "raw"
+  },
+  {
+    "id": "T4_WOOD_LEVEL2",
+    "name": "Rare Pine Logs",
+    "tier": 4,
+    "enchantments": [
+      2
+    ],
+    "maxEnchantment": 2,
+    "category": "raw"
+  },
+  {
+    "id": "T4_WOOD_LEVEL3",
+    "name": "Exceptional Pine Logs",
+    "tier": 4,
+    "enchantments": [
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "raw"
+  },
+  {
+    "id": "T4_WOOD_LEVEL4",
+    "name": "Pristine Pine Logs",
+    "tier": 4,
+    "enchantments": [
+      4
+    ],
+    "maxEnchantment": 4,
+    "category": "raw"
+  },
+  {
+    "id": "T5_ARTEFACT_TOKEN_FAVOR_1",
+    "name": "Expert's Crystallized Spirit",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "artefact"
+  },
+  {
+    "id": "T5_ARTEFACT_TOKEN_FAVOR_2",
+    "name": "Expert's Crystallized Dread",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "artefact"
+  },
+  {
+    "id": "T5_ARTEFACT_TOKEN_FAVOR_3",
+    "name": "Expert's Crystallized Magic",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "artefact"
+  },
+  {
+    "id": "T5_ARTEFACT_TOKEN_FAVOR_4",
+    "name": "Expert's Crystallized Divinity",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "artefact"
+  },
+  {
+    "id": "T5_BACKPACK_GATHERER_FIBER",
+    "name": "Expert's Harvester Backpack",
+    "tier": 5,
+    "enchantments": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "maxEnchantment": 4,
+    "category": "raw"
+  },
+  {
+    "id": "T5_BACKPACK_GATHERER_HIDE",
+    "name": "Expert's Skinner Backpack",
+    "tier": 5,
+    "enchantments": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "maxEnchantment": 4,
+    "category": "raw"
+  },
+  {
+    "id": "T5_BACKPACK_GATHERER_ORE",
+    "name": "Expert's Miner Backpack",
+    "tier": 5,
+    "enchantments": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "maxEnchantment": 4,
+    "category": "raw"
+  },
+  {
+    "id": "T5_BACKPACK_GATHERER_ROCK",
+    "name": "Expert's Quarrier Backpack",
+    "tier": 5,
+    "enchantments": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "maxEnchantment": 4,
+    "category": "raw"
+  },
+  {
+    "id": "T5_BACKPACK_GATHERER_WOOD",
+    "name": "Expert's Lumberjack Backpack",
+    "tier": 5,
+    "enchantments": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "maxEnchantment": 4,
+    "category": "raw"
+  },
+  {
+    "id": "T5_CLOTH",
+    "name": "Ornate Cloth",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "refined"
+  },
+  {
+    "id": "T5_CLOTH_LEVEL1",
+    "name": "Uncommon Ornate Cloth",
+    "tier": 5,
+    "enchantments": [
+      1
+    ],
+    "maxEnchantment": 1,
+    "category": "refined"
+  },
+  {
+    "id": "T5_CLOTH_LEVEL2",
+    "name": "Rare Ornate Cloth",
+    "tier": 5,
+    "enchantments": [
+      2
+    ],
+    "maxEnchantment": 2,
+    "category": "refined"
+  },
+  {
+    "id": "T5_CLOTH_LEVEL3",
+    "name": "Exceptional Ornate Cloth",
+    "tier": 5,
+    "enchantments": [
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "refined"
+  },
+  {
+    "id": "T5_CLOTH_LEVEL4",
+    "name": "Pristine Ornate Cloth",
+    "tier": 5,
+    "enchantments": [
+      4
+    ],
+    "maxEnchantment": 4,
+    "category": "refined"
+  },
+  {
+    "id": "T5_FIBER",
+    "name": "Skyflower",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T5_FIBER_LEVEL1",
+    "name": "Uncommon Skyflower",
+    "tier": 5,
+    "enchantments": [
+      1
+    ],
+    "maxEnchantment": 1,
+    "category": "raw"
+  },
+  {
+    "id": "T5_FIBER_LEVEL2",
+    "name": "Rare Skyflower",
+    "tier": 5,
+    "enchantments": [
+      2
+    ],
+    "maxEnchantment": 2,
+    "category": "raw"
+  },
+  {
+    "id": "T5_FIBER_LEVEL3",
+    "name": "Exceptional Skyflower",
+    "tier": 5,
+    "enchantments": [
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "raw"
+  },
+  {
+    "id": "T5_FIBER_LEVEL4",
+    "name": "Pristine Skyflower",
+    "tier": 5,
+    "enchantments": [
+      4
+    ],
+    "maxEnchantment": 4,
+    "category": "raw"
+  },
+  {
+    "id": "T5_FURNITUREITEM_TROPHY_FIBER",
+    "name": "Soft Skyflower Trophy",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T5_FURNITUREITEM_TROPHY_HIDE",
+    "name": "Stuffed Bear Head",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T5_FURNITUREITEM_TROPHY_ORE",
+    "name": "Titanium Ore Sample",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T5_FURNITUREITEM_TROPHY_ROCK",
+    "name": "Granite Fragment",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T5_FURNITUREITEM_TROPHY_WOOD",
+    "name": "Cedar Bonsai",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T5_HIDE",
+    "name": "Heavy Hide",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T5_HIDE_LEVEL1",
+    "name": "Uncommon Heavy Hide",
+    "tier": 5,
+    "enchantments": [
+      1
+    ],
+    "maxEnchantment": 1,
+    "category": "raw"
+  },
+  {
+    "id": "T5_HIDE_LEVEL2",
+    "name": "Rare Heavy Hide",
+    "tier": 5,
+    "enchantments": [
+      2
+    ],
+    "maxEnchantment": 2,
+    "category": "raw"
+  },
+  {
+    "id": "T5_HIDE_LEVEL3",
+    "name": "Exceptional Heavy Hide",
+    "tier": 5,
+    "enchantments": [
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "raw"
+  },
+  {
+    "id": "T5_HIDE_LEVEL4",
+    "name": "Pristine Heavy Hide",
+    "tier": 5,
+    "enchantments": [
+      4
+    ],
+    "maxEnchantment": 4,
+    "category": "raw"
+  },
+  {
+    "id": "T5_JOURNAL_FIBER",
+    "name": "Expert Cropper's Journal (Partially Full)",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T5_JOURNAL_FIBER_EMPTY",
+    "name": "Expert Cropper's Journal (Empty)",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T5_JOURNAL_FIBER_FULL",
+    "name": "Expert Cropper's Journal (Full)",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T5_JOURNAL_HIDE",
+    "name": "Expert Gamekeeper's Journal (Partially Full)",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T5_JOURNAL_HIDE_EMPTY",
+    "name": "Expert Gamekeeper's Journal (Empty)",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T5_JOURNAL_HIDE_FULL",
+    "name": "Expert Gamekeeper's Journal (Full)",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T5_JOURNAL_ORE",
+    "name": "Expert Prospector's Journal (Partially Full)",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T5_JOURNAL_ORE_EMPTY",
+    "name": "Expert Prospector's Journal (Empty)",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T5_JOURNAL_ORE_FULL",
+    "name": "Expert Prospector's Journal (Full)",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T5_JOURNAL_TROPHY_FIBER",
+    "name": "Expert Cropper's Trophy Journal (Partially Full)",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T5_JOURNAL_TROPHY_FIBER_EMPTY",
+    "name": "Expert Cropper's Trophy Journal (Empty)",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T5_JOURNAL_TROPHY_FIBER_FULL",
+    "name": "Expert Cropper's Trophy Journal (Full)",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T5_JOURNAL_TROPHY_HIDE",
+    "name": "Expert Gamekeeper's Trophy Journal (Partially Full)",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T5_JOURNAL_TROPHY_HIDE_EMPTY",
+    "name": "Expert Gamekeeper's Trophy Journal (Empty)",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T5_JOURNAL_TROPHY_HIDE_FULL",
+    "name": "Expert Gamekeeper's Trophy Journal (Full)",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T5_JOURNAL_TROPHY_ORE",
+    "name": "Expert Prospector's Trophy Journal (Partially Full)",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T5_JOURNAL_TROPHY_ORE_EMPTY",
+    "name": "Expert Prospector's Trophy Journal (Empty)",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T5_JOURNAL_TROPHY_ORE_FULL",
+    "name": "Expert Prospector's Trophy Journal (Full)",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T5_JOURNAL_TROPHY_WOOD",
+    "name": "Expert Lumberjack's Trophy Journal (Partially Full)",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T5_JOURNAL_TROPHY_WOOD_EMPTY",
+    "name": "Expert Lumberjack's Trophy Journal (Empty)",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T5_JOURNAL_TROPHY_WOOD_FULL",
+    "name": "Expert Lumberjack's Trophy Journal (Full)",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T5_JOURNAL_WOOD",
+    "name": "Expert Lumberjack's Journal (Partially Full)",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T5_JOURNAL_WOOD_EMPTY",
+    "name": "Expert Lumberjack's Journal (Empty)",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T5_JOURNAL_WOOD_FULL",
+    "name": "Expert Lumberjack's Journal (Full)",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T5_LABOURER_CONTRACT_FIBER",
+    "name": "Expert Cropper Contract",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T5_LABOURER_CONTRACT_HIDE",
+    "name": "Expert Gamekeeper Contract",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T5_LABOURER_CONTRACT_ORE",
+    "name": "Expert Prospector Contract",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T5_LABOURER_CONTRACT_WOOD",
+    "name": "Expert Lumberjack Contract",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T5_LEATHER",
+    "name": "Cured Leather",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "refined"
+  },
+  {
+    "id": "T5_LEATHER_LEVEL1",
+    "name": "Uncommon Cured Leather",
+    "tier": 5,
+    "enchantments": [
+      1
+    ],
+    "maxEnchantment": 1,
+    "category": "refined"
+  },
+  {
+    "id": "T5_LEATHER_LEVEL2",
+    "name": "Rare Cured Leather",
+    "tier": 5,
+    "enchantments": [
+      2
+    ],
+    "maxEnchantment": 2,
+    "category": "refined"
+  },
+  {
+    "id": "T5_LEATHER_LEVEL3",
+    "name": "Exceptional Cured Leather",
+    "tier": 5,
+    "enchantments": [
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "refined"
+  },
+  {
+    "id": "T5_LEATHER_LEVEL4",
+    "name": "Pristine Cured Leather",
+    "tier": 5,
+    "enchantments": [
+      4
+    ],
+    "maxEnchantment": 4,
+    "category": "refined"
+  },
+  {
+    "id": "T5_METALBAR",
+    "name": "Titanium Steel Bar",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "refined"
+  },
+  {
+    "id": "T5_METALBAR_LEVEL1",
+    "name": "Uncommon Titanium Steel Bar",
+    "tier": 5,
+    "enchantments": [
+      1
+    ],
+    "maxEnchantment": 1,
+    "category": "refined"
+  },
+  {
+    "id": "T5_METALBAR_LEVEL2",
+    "name": "Rare Titanium Steel Bar",
+    "tier": 5,
+    "enchantments": [
+      2
+    ],
+    "maxEnchantment": 2,
+    "category": "refined"
+  },
+  {
+    "id": "T5_METALBAR_LEVEL3",
+    "name": "Exceptional Titanium Steel Bar",
+    "tier": 5,
+    "enchantments": [
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "refined"
+  },
+  {
+    "id": "T5_METALBAR_LEVEL4",
+    "name": "Pristine Titanium Steel Bar",
+    "tier": 5,
+    "enchantments": [
+      4
+    ],
+    "maxEnchantment": 4,
+    "category": "refined"
+  },
+  {
+    "id": "T5_ORE",
+    "name": "Titanium Ore",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T5_ORE_LEVEL1",
+    "name": "Uncommon Titanium Ore",
+    "tier": 5,
+    "enchantments": [
+      1
+    ],
+    "maxEnchantment": 1,
+    "category": "raw"
+  },
+  {
+    "id": "T5_ORE_LEVEL2",
+    "name": "Rare Titanium Ore",
+    "tier": 5,
+    "enchantments": [
+      2
+    ],
+    "maxEnchantment": 2,
+    "category": "raw"
+  },
+  {
+    "id": "T5_ORE_LEVEL3",
+    "name": "Exceptional Titanium Ore",
+    "tier": 5,
+    "enchantments": [
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "raw"
+  },
+  {
+    "id": "T5_ORE_LEVEL4",
+    "name": "Pristine Titanium Ore",
+    "tier": 5,
+    "enchantments": [
+      4
+    ],
+    "maxEnchantment": 4,
+    "category": "raw"
+  },
+  {
+    "id": "T5_PLANKS",
+    "name": "Cedar Planks",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "refined"
+  },
+  {
+    "id": "T5_PLANKS_LEVEL1",
+    "name": "Uncommon Cedar Planks",
+    "tier": 5,
+    "enchantments": [
+      1
+    ],
+    "maxEnchantment": 1,
+    "category": "refined"
+  },
+  {
+    "id": "T5_PLANKS_LEVEL2",
+    "name": "Rare Cedar Planks",
+    "tier": 5,
+    "enchantments": [
+      2
+    ],
+    "maxEnchantment": 2,
+    "category": "refined"
+  },
+  {
+    "id": "T5_PLANKS_LEVEL3",
+    "name": "Exceptional Cedar Planks",
+    "tier": 5,
+    "enchantments": [
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "refined"
+  },
+  {
+    "id": "T5_PLANKS_LEVEL4",
+    "name": "Pristine Cedar Planks",
+    "tier": 5,
+    "enchantments": [
+      4
+    ],
+    "maxEnchantment": 4,
+    "category": "refined"
+  },
+  {
+    "id": "T5_RELIC",
+    "name": "Expert's Relic",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "resource"
+  },
+  {
+    "id": "T5_ROCK",
+    "name": "Granite",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T5_ROCK_LEVEL1",
+    "name": "Uncommon Granite",
+    "tier": 5,
+    "enchantments": [
+      1
+    ],
+    "maxEnchantment": 1,
+    "category": "raw"
+  },
+  {
+    "id": "T5_ROCK_LEVEL2",
+    "name": "Rare Granite",
+    "tier": 5,
+    "enchantments": [
+      2
+    ],
+    "maxEnchantment": 2,
+    "category": "raw"
+  },
+  {
+    "id": "T5_ROCK_LEVEL3",
+    "name": "Exceptional Granite",
+    "tier": 5,
+    "enchantments": [
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "raw"
+  },
+  {
+    "id": "T5_RUNE",
+    "name": "Expert's Rune",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "resource"
+  },
+  {
+    "id": "T5_SHARD_AVALONIAN",
+    "name": "Expert's Avalonian Shard",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "resource"
+  },
+  {
+    "id": "T5_SHARD_CRYSTAL",
+    "name": "Expert's Crystal Shard",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "resource"
+  },
+  {
+    "id": "T5_SKILLBOOK_GATHER_FIBER",
+    "name": "Expert Fiber Harvester Tome",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T5_SKILLBOOK_GATHER_HIDE",
+    "name": "Expert Animal Skinner Tome",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T5_SKILLBOOK_GATHER_ORE",
+    "name": "Expert Ore Miner Tome",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T5_SKILLBOOK_GATHER_ROCK",
+    "name": "Expert Quarrier Tome",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T5_SKILLBOOK_GATHER_WOOD",
+    "name": "Expert Lumberjack Tome",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T5_SOUL",
+    "name": "Expert's Soul",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "resource"
+  },
+  {
+    "id": "T5_STONEBLOCK",
+    "name": "Granite Block",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "refined"
+  },
+  {
+    "id": "T5_WOOD",
+    "name": "Cedar Logs",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T5_WOOD_LEVEL1",
+    "name": "Uncommon Cedar Logs",
+    "tier": 5,
+    "enchantments": [
+      1
+    ],
+    "maxEnchantment": 1,
+    "category": "raw"
+  },
+  {
+    "id": "T5_WOOD_LEVEL2",
+    "name": "Rare Cedar Logs",
+    "tier": 5,
+    "enchantments": [
+      2
+    ],
+    "maxEnchantment": 2,
+    "category": "raw"
+  },
+  {
+    "id": "T5_WOOD_LEVEL3",
+    "name": "Exceptional Cedar Logs",
+    "tier": 5,
+    "enchantments": [
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "raw"
+  },
+  {
+    "id": "T5_WOOD_LEVEL4",
+    "name": "Pristine Cedar Logs",
+    "tier": 5,
+    "enchantments": [
+      4
+    ],
+    "maxEnchantment": 4,
+    "category": "raw"
+  },
+  {
+    "id": "T6_ARTEFACT_TOKEN_FAVOR_1",
+    "name": "Master's Crystallized Spirit",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "artefact"
+  },
+  {
+    "id": "T6_ARTEFACT_TOKEN_FAVOR_2",
+    "name": "Master's Crystallized Dread",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "artefact"
+  },
+  {
+    "id": "T6_ARTEFACT_TOKEN_FAVOR_3",
+    "name": "Master's Crystallized Magic",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "artefact"
+  },
+  {
+    "id": "T6_ARTEFACT_TOKEN_FAVOR_4",
+    "name": "Master's Crystallized Divinity",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "artefact"
+  },
+  {
+    "id": "T6_BACKPACK_GATHERER_FIBER",
+    "name": "Master's Harvester Backpack",
+    "tier": 6,
+    "enchantments": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "maxEnchantment": 4,
+    "category": "raw"
+  },
+  {
+    "id": "T6_BACKPACK_GATHERER_HIDE",
+    "name": "Master's Skinner Backpack",
+    "tier": 6,
+    "enchantments": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "maxEnchantment": 4,
+    "category": "raw"
+  },
+  {
+    "id": "T6_BACKPACK_GATHERER_ORE",
+    "name": "Master's Miner Backpack",
+    "tier": 6,
+    "enchantments": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "maxEnchantment": 4,
+    "category": "raw"
+  },
+  {
+    "id": "T6_BACKPACK_GATHERER_ROCK",
+    "name": "Master's Quarrier Backpack",
+    "tier": 6,
+    "enchantments": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "maxEnchantment": 4,
+    "category": "raw"
+  },
+  {
+    "id": "T6_BACKPACK_GATHERER_WOOD",
+    "name": "Master's Lumberjack Backpack",
+    "tier": 6,
+    "enchantments": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "maxEnchantment": 4,
+    "category": "raw"
+  },
+  {
+    "id": "T6_CLOTH",
+    "name": "Lavish Cloth",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "refined"
+  },
+  {
+    "id": "T6_CLOTH_LEVEL1",
+    "name": "Uncommon Lavish Cloth",
+    "tier": 6,
+    "enchantments": [
+      1
+    ],
+    "maxEnchantment": 1,
+    "category": "refined"
+  },
+  {
+    "id": "T6_CLOTH_LEVEL2",
+    "name": "Rare Lavish Cloth",
+    "tier": 6,
+    "enchantments": [
+      2
+    ],
+    "maxEnchantment": 2,
+    "category": "refined"
+  },
+  {
+    "id": "T6_CLOTH_LEVEL3",
+    "name": "Exceptional Lavish Cloth",
+    "tier": 6,
+    "enchantments": [
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "refined"
+  },
+  {
+    "id": "T6_CLOTH_LEVEL4",
+    "name": "Pristine Lavish Cloth",
+    "tier": 6,
+    "enchantments": [
+      4
+    ],
+    "maxEnchantment": 4,
+    "category": "refined"
+  },
+  {
+    "id": "T6_FIBER",
+    "name": "Amberleaf Cotton",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T6_FIBER_LEVEL1",
+    "name": "Uncommon Amberleaf Cotton",
+    "tier": 6,
+    "enchantments": [
+      1
+    ],
+    "maxEnchantment": 1,
+    "category": "raw"
+  },
+  {
+    "id": "T6_FIBER_LEVEL2",
+    "name": "Rare Amberleaf Cotton",
+    "tier": 6,
+    "enchantments": [
+      2
+    ],
+    "maxEnchantment": 2,
+    "category": "raw"
+  },
+  {
+    "id": "T6_FIBER_LEVEL3",
+    "name": "Exceptional Amberleaf Cotton",
+    "tier": 6,
+    "enchantments": [
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "raw"
+  },
+  {
+    "id": "T6_FIBER_LEVEL4",
+    "name": "Pristine Amberleaf Cotton",
+    "tier": 6,
+    "enchantments": [
+      4
+    ],
+    "maxEnchantment": 4,
+    "category": "raw"
+  },
+  {
+    "id": "T6_FURNITUREITEM_TROPHY_FIBER",
+    "name": "Comfy Amberleaf Cotton Trophy",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T6_FURNITUREITEM_TROPHY_HIDE",
+    "name": "Stuffed Direwolf Head",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T6_FURNITUREITEM_TROPHY_ORE",
+    "name": "Runite Ore Sample",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T6_FURNITUREITEM_TROPHY_ROCK",
+    "name": "Slate Fragment",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T6_FURNITUREITEM_TROPHY_WOOD",
+    "name": "Bloodoak Bonsai",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T6_HIDE",
+    "name": "Robust Hide",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T6_HIDE_LEVEL1",
+    "name": "Uncommon Robust Hide",
+    "tier": 6,
+    "enchantments": [
+      1
+    ],
+    "maxEnchantment": 1,
+    "category": "raw"
+  },
+  {
+    "id": "T6_HIDE_LEVEL2",
+    "name": "Rare Robust Hide",
+    "tier": 6,
+    "enchantments": [
+      2
+    ],
+    "maxEnchantment": 2,
+    "category": "raw"
+  },
+  {
+    "id": "T6_HIDE_LEVEL3",
+    "name": "Exceptional Robust Hide",
+    "tier": 6,
+    "enchantments": [
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "raw"
+  },
+  {
+    "id": "T6_HIDE_LEVEL4",
+    "name": "Pristine Robust Hide",
+    "tier": 6,
+    "enchantments": [
+      4
+    ],
+    "maxEnchantment": 4,
+    "category": "raw"
+  },
+  {
+    "id": "T6_JOURNAL_FIBER",
+    "name": "Master Cropper's Journal (Partially Full)",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T6_JOURNAL_FIBER_EMPTY",
+    "name": "Master Cropper's Journal (Empty)",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T6_JOURNAL_FIBER_FULL",
+    "name": "Master Cropper's Journal (Full)",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T6_JOURNAL_HIDE",
+    "name": "Master Gamekeeper's Journal (Partially Full)",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T6_JOURNAL_HIDE_EMPTY",
+    "name": "Master Gamekeeper's Journal (Empty)",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T6_JOURNAL_HIDE_FULL",
+    "name": "Master Gamekeeper's Journal (Full)",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T6_JOURNAL_ORE",
+    "name": "Master Prospector's Journal (Partially Full)",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T6_JOURNAL_ORE_EMPTY",
+    "name": "Master Prospector's Journal (Empty)",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T6_JOURNAL_ORE_FULL",
+    "name": "Master Prospector's Journal (Full)",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T6_JOURNAL_TROPHY_FIBER",
+    "name": "Master Cropper's Trophy Journal (Partially Full)",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T6_JOURNAL_TROPHY_FIBER_EMPTY",
+    "name": "Master Cropper's Trophy Journal (Empty)",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T6_JOURNAL_TROPHY_FIBER_FULL",
+    "name": "Master Cropper's Trophy Journal (Full)",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T6_JOURNAL_TROPHY_HIDE",
+    "name": "Master Gamekeeper's Trophy Journal (Partially Full)",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T6_JOURNAL_TROPHY_HIDE_EMPTY",
+    "name": "Master Gamekeeper's Trophy Journal (Empty)",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T6_JOURNAL_TROPHY_HIDE_FULL",
+    "name": "Master Gamekeeper's Trophy Journal (Full)",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T6_JOURNAL_TROPHY_ORE",
+    "name": "Master Prospector's Trophy Journal (Partially Full)",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T6_JOURNAL_TROPHY_ORE_EMPTY",
+    "name": "Master Prospector's Trophy Journal (Empty)",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T6_JOURNAL_TROPHY_ORE_FULL",
+    "name": "Master Prospector's Trophy Journal (Full)",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T6_JOURNAL_TROPHY_WOOD",
+    "name": "Master Lumberjack's Trophy Journal (Partially Full)",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T6_JOURNAL_TROPHY_WOOD_EMPTY",
+    "name": "Master Lumberjack's Trophy Journal (Empty)",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T6_JOURNAL_TROPHY_WOOD_FULL",
+    "name": "Master Lumberjack's Trophy Journal (Full)",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T6_JOURNAL_WOOD",
+    "name": "Master Lumberjack's Journal (Partially Full)",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T6_JOURNAL_WOOD_EMPTY",
+    "name": "Master Lumberjack's Journal (Empty)",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T6_JOURNAL_WOOD_FULL",
+    "name": "Master Lumberjack's Journal (Full)",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T6_LABOURER_CONTRACT_FIBER",
+    "name": "Master Cropper Contract",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T6_LABOURER_CONTRACT_HIDE",
+    "name": "Master Gamekeeper Contract",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T6_LABOURER_CONTRACT_ORE",
+    "name": "Master Prospector Contract",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T6_LABOURER_CONTRACT_WOOD",
+    "name": "Master Lumberjack Contract",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T6_LEATHER",
+    "name": "Hardened Leather",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "refined"
+  },
+  {
+    "id": "T6_LEATHER_LEVEL1",
+    "name": "Uncommon Hardened Leather",
+    "tier": 6,
+    "enchantments": [
+      1
+    ],
+    "maxEnchantment": 1,
+    "category": "refined"
+  },
+  {
+    "id": "T6_LEATHER_LEVEL2",
+    "name": "Rare Hardened Leather",
+    "tier": 6,
+    "enchantments": [
+      2
+    ],
+    "maxEnchantment": 2,
+    "category": "refined"
+  },
+  {
+    "id": "T6_LEATHER_LEVEL3",
+    "name": "Exceptional Hardened Leather",
+    "tier": 6,
+    "enchantments": [
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "refined"
+  },
+  {
+    "id": "T6_LEATHER_LEVEL4",
+    "name": "Pristine Hardened Leather",
+    "tier": 6,
+    "enchantments": [
+      4
+    ],
+    "maxEnchantment": 4,
+    "category": "refined"
+  },
+  {
+    "id": "T6_METALBAR",
+    "name": "Runite Steel Bar",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "refined"
+  },
+  {
+    "id": "T6_METALBAR_LEVEL1",
+    "name": "Uncommon Runite Steel Bar",
+    "tier": 6,
+    "enchantments": [
+      1
+    ],
+    "maxEnchantment": 1,
+    "category": "refined"
+  },
+  {
+    "id": "T6_METALBAR_LEVEL2",
+    "name": "Rare Runite Steel Bar",
+    "tier": 6,
+    "enchantments": [
+      2
+    ],
+    "maxEnchantment": 2,
+    "category": "refined"
+  },
+  {
+    "id": "T6_METALBAR_LEVEL3",
+    "name": "Exceptional Runite Steel Bar",
+    "tier": 6,
+    "enchantments": [
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "refined"
+  },
+  {
+    "id": "T6_METALBAR_LEVEL4",
+    "name": "Pristine Runite Steel Bar",
+    "tier": 6,
+    "enchantments": [
+      4
+    ],
+    "maxEnchantment": 4,
+    "category": "refined"
+  },
+  {
+    "id": "T6_ORE",
+    "name": "Runite Ore",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T6_ORE_LEVEL1",
+    "name": "Uncommon Runite Ore",
+    "tier": 6,
+    "enchantments": [
+      1
+    ],
+    "maxEnchantment": 1,
+    "category": "raw"
+  },
+  {
+    "id": "T6_ORE_LEVEL2",
+    "name": "Rare Runite Ore",
+    "tier": 6,
+    "enchantments": [
+      2
+    ],
+    "maxEnchantment": 2,
+    "category": "raw"
+  },
+  {
+    "id": "T6_ORE_LEVEL3",
+    "name": "Exceptional Runite Ore",
+    "tier": 6,
+    "enchantments": [
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "raw"
+  },
+  {
+    "id": "T6_ORE_LEVEL4",
+    "name": "Pristine Runite Ore",
+    "tier": 6,
+    "enchantments": [
+      4
+    ],
+    "maxEnchantment": 4,
+    "category": "raw"
+  },
+  {
+    "id": "T6_PLANKS",
+    "name": "Bloodoak Planks",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "refined"
+  },
+  {
+    "id": "T6_PLANKS_LEVEL1",
+    "name": "Uncommon Bloodoak Planks",
+    "tier": 6,
+    "enchantments": [
+      1
+    ],
+    "maxEnchantment": 1,
+    "category": "refined"
+  },
+  {
+    "id": "T6_PLANKS_LEVEL2",
+    "name": "Rare Bloodoak Planks",
+    "tier": 6,
+    "enchantments": [
+      2
+    ],
+    "maxEnchantment": 2,
+    "category": "refined"
+  },
+  {
+    "id": "T6_PLANKS_LEVEL3",
+    "name": "Exceptional Bloodoak Planks",
+    "tier": 6,
+    "enchantments": [
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "refined"
+  },
+  {
+    "id": "T6_PLANKS_LEVEL4",
+    "name": "Pristine Bloodoak Planks",
+    "tier": 6,
+    "enchantments": [
+      4
+    ],
+    "maxEnchantment": 4,
+    "category": "refined"
+  },
+  {
+    "id": "T6_RELIC",
+    "name": "Master's Relic",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "resource"
+  },
+  {
+    "id": "T6_ROCK",
+    "name": "Slate",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T6_ROCK_LEVEL1",
+    "name": "Uncommon Slate",
+    "tier": 6,
+    "enchantments": [
+      1
+    ],
+    "maxEnchantment": 1,
+    "category": "raw"
+  },
+  {
+    "id": "T6_ROCK_LEVEL2",
+    "name": "Rare Slate",
+    "tier": 6,
+    "enchantments": [
+      2
+    ],
+    "maxEnchantment": 2,
+    "category": "raw"
+  },
+  {
+    "id": "T6_ROCK_LEVEL3",
+    "name": "Exceptional Slate",
+    "tier": 6,
+    "enchantments": [
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "raw"
+  },
+  {
+    "id": "T6_RUNE",
+    "name": "Master's Rune",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "resource"
+  },
+  {
+    "id": "T6_SHARD_AVALONIAN",
+    "name": "Master's Avalonian Shard",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "resource"
+  },
+  {
+    "id": "T6_SHARD_CRYSTAL",
+    "name": "Master's Crystal Shard",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "resource"
+  },
+  {
+    "id": "T6_SKILLBOOK_GATHER_FIBER",
+    "name": "Master Fiber Harvester Tome",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T6_SKILLBOOK_GATHER_HIDE",
+    "name": "Master Animal Skinner Tome",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T6_SKILLBOOK_GATHER_ORE",
+    "name": "Master Ore Miner Tome",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T6_SKILLBOOK_GATHER_ROCK",
+    "name": "Master Quarrier Tome",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T6_SKILLBOOK_GATHER_WOOD",
+    "name": "Master Lumberjack Tome",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T6_SOUL",
+    "name": "Master's Soul",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "resource"
+  },
+  {
+    "id": "T6_STONEBLOCK",
+    "name": "Slate Block",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "refined"
+  },
+  {
+    "id": "T6_WOOD",
+    "name": "Bloodoak Logs",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T6_WOOD_LEVEL1",
+    "name": "Uncommon Bloodoak Logs",
+    "tier": 6,
+    "enchantments": [
+      1
+    ],
+    "maxEnchantment": 1,
+    "category": "raw"
+  },
+  {
+    "id": "T6_WOOD_LEVEL2",
+    "name": "Rare Bloodoak Logs",
+    "tier": 6,
+    "enchantments": [
+      2
+    ],
+    "maxEnchantment": 2,
+    "category": "raw"
+  },
+  {
+    "id": "T6_WOOD_LEVEL3",
+    "name": "Exceptional Bloodoak Logs",
+    "tier": 6,
+    "enchantments": [
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "raw"
+  },
+  {
+    "id": "T6_WOOD_LEVEL4",
+    "name": "Pristine Bloodoak Logs",
+    "tier": 6,
+    "enchantments": [
+      4
+    ],
+    "maxEnchantment": 4,
+    "category": "raw"
+  },
+  {
+    "id": "T7_ARTEFACT_TOKEN_FAVOR_1",
+    "name": "Grandmaster's Crystallized Spirit",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "artefact"
+  },
+  {
+    "id": "T7_ARTEFACT_TOKEN_FAVOR_2",
+    "name": "Grandmaster's Crystallized Dread",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "artefact"
+  },
+  {
+    "id": "T7_ARTEFACT_TOKEN_FAVOR_3",
+    "name": "Grandmaster's Crystallized Magic",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "artefact"
+  },
+  {
+    "id": "T7_ARTEFACT_TOKEN_FAVOR_4",
+    "name": "Grandmaster's Crystallized Divinity",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "artefact"
+  },
+  {
+    "id": "T7_BACKPACK_GATHERER_FIBER",
+    "name": "Grandmaster's Harvester Backpack",
+    "tier": 7,
+    "enchantments": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "maxEnchantment": 4,
+    "category": "raw"
+  },
+  {
+    "id": "T7_BACKPACK_GATHERER_HIDE",
+    "name": "Grandmaster's Skinner Backpack",
+    "tier": 7,
+    "enchantments": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "maxEnchantment": 4,
+    "category": "raw"
+  },
+  {
+    "id": "T7_BACKPACK_GATHERER_ORE",
+    "name": "Grandmaster's Miner Backpack",
+    "tier": 7,
+    "enchantments": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "maxEnchantment": 4,
+    "category": "raw"
+  },
+  {
+    "id": "T7_BACKPACK_GATHERER_ROCK",
+    "name": "Grandmaster's Quarrier Backpack",
+    "tier": 7,
+    "enchantments": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "maxEnchantment": 4,
+    "category": "raw"
+  },
+  {
+    "id": "T7_BACKPACK_GATHERER_WOOD",
+    "name": "Grandmaster's Lumberjack Backpack",
+    "tier": 7,
+    "enchantments": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "maxEnchantment": 4,
+    "category": "raw"
+  },
+  {
+    "id": "T7_CLOTH",
+    "name": "Opulent Cloth",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "refined"
+  },
+  {
+    "id": "T7_CLOTH_LEVEL1",
+    "name": "Uncommon Opulent Cloth",
+    "tier": 7,
+    "enchantments": [
+      1
+    ],
+    "maxEnchantment": 1,
+    "category": "refined"
+  },
+  {
+    "id": "T7_CLOTH_LEVEL2",
+    "name": "Rare Opulent Cloth",
+    "tier": 7,
+    "enchantments": [
+      2
+    ],
+    "maxEnchantment": 2,
+    "category": "refined"
+  },
+  {
+    "id": "T7_CLOTH_LEVEL3",
+    "name": "Exceptional Opulent Cloth",
+    "tier": 7,
+    "enchantments": [
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "refined"
+  },
+  {
+    "id": "T7_CLOTH_LEVEL4",
+    "name": "Pristine Opulent Cloth",
+    "tier": 7,
+    "enchantments": [
+      4
+    ],
+    "maxEnchantment": 4,
+    "category": "refined"
+  },
+  {
+    "id": "T7_FIBER",
+    "name": "Sunflax",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T7_FIBER_LEVEL1",
+    "name": "Uncommon Sunflax",
+    "tier": 7,
+    "enchantments": [
+      1
+    ],
+    "maxEnchantment": 1,
+    "category": "raw"
+  },
+  {
+    "id": "T7_FIBER_LEVEL2",
+    "name": "Rare Sunflax",
+    "tier": 7,
+    "enchantments": [
+      2
+    ],
+    "maxEnchantment": 2,
+    "category": "raw"
+  },
+  {
+    "id": "T7_FIBER_LEVEL3",
+    "name": "Exceptional Sunflax",
+    "tier": 7,
+    "enchantments": [
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "raw"
+  },
+  {
+    "id": "T7_FIBER_LEVEL4",
+    "name": "Pristine Sunflax",
+    "tier": 7,
+    "enchantments": [
+      4
+    ],
+    "maxEnchantment": 4,
+    "category": "raw"
+  },
+  {
+    "id": "T7_FURNITUREITEM_TROPHY_FIBER",
+    "name": "Fine Sunflax Trophy",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T7_FURNITUREITEM_TROPHY_HIDE",
+    "name": "Stuffed Direboar Head",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T7_FURNITUREITEM_TROPHY_ORE",
+    "name": "Meteorite Ore Sample",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T7_FURNITUREITEM_TROPHY_ROCK",
+    "name": "Basalt Fragment",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T7_FURNITUREITEM_TROPHY_WOOD",
+    "name": "Ashenbark Bonsai",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T7_HIDE",
+    "name": "Thick Hide",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T7_HIDE_LEVEL1",
+    "name": "Uncommon Thick Hide",
+    "tier": 7,
+    "enchantments": [
+      1
+    ],
+    "maxEnchantment": 1,
+    "category": "raw"
+  },
+  {
+    "id": "T7_HIDE_LEVEL2",
+    "name": "Rare Thick Hide",
+    "tier": 7,
+    "enchantments": [
+      2
+    ],
+    "maxEnchantment": 2,
+    "category": "raw"
+  },
+  {
+    "id": "T7_HIDE_LEVEL3",
+    "name": "Exceptional Thick Hide",
+    "tier": 7,
+    "enchantments": [
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "raw"
+  },
+  {
+    "id": "T7_HIDE_LEVEL4",
+    "name": "Pristine Thick Hide",
+    "tier": 7,
+    "enchantments": [
+      4
+    ],
+    "maxEnchantment": 4,
+    "category": "raw"
+  },
+  {
+    "id": "T7_JOURNAL_FIBER",
+    "name": "Grandmaster Cropper's Journal (Partially Full)",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T7_JOURNAL_FIBER_EMPTY",
+    "name": "Grandmaster Cropper's Journal (Empty)",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T7_JOURNAL_FIBER_FULL",
+    "name": "Grandmaster Cropper's Journal (Full)",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T7_JOURNAL_HIDE",
+    "name": "Grandmaster Gamekeeper's Journal (Partially Full)",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T7_JOURNAL_HIDE_EMPTY",
+    "name": "Grandmaster Gamekeeper's Journal (Empty)",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T7_JOURNAL_HIDE_FULL",
+    "name": "Grandmaster Gamekeeper's Journal (Full)",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T7_JOURNAL_ORE",
+    "name": "Grandmaster Prospector's Journal (Partially Full)",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T7_JOURNAL_ORE_EMPTY",
+    "name": "Grandmaster Prospector's Journal (Empty)",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T7_JOURNAL_ORE_FULL",
+    "name": "Grandmaster Prospector's Journal (Full)",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T7_JOURNAL_TROPHY_FIBER",
+    "name": "Grandmaster Cropper's Trophy Journal (Partially Full)",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T7_JOURNAL_TROPHY_FIBER_EMPTY",
+    "name": "Grandmaster Cropper's Trophy Journal (Empty)",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T7_JOURNAL_TROPHY_FIBER_FULL",
+    "name": "Grandmaster Cropper's Trophy Journal (Full)",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T7_JOURNAL_TROPHY_HIDE",
+    "name": "Grandmaster Gamekeeper's Trophy Journal (Partially Full)",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T7_JOURNAL_TROPHY_HIDE_EMPTY",
+    "name": "Grandmaster Gamekeeper's Trophy Journal (Empty)",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T7_JOURNAL_TROPHY_HIDE_FULL",
+    "name": "Grandmaster Gamekeeper's Trophy Journal (Full)",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T7_JOURNAL_TROPHY_ORE",
+    "name": "Grandmaster Prospector's Trophy Journal (Partially Full)",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T7_JOURNAL_TROPHY_ORE_EMPTY",
+    "name": "Grandmaster Prospector's Trophy Journal (Empty)",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T7_JOURNAL_TROPHY_ORE_FULL",
+    "name": "Grandmaster Prospector's Trophy Journal (Full)",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T7_JOURNAL_TROPHY_WOOD",
+    "name": "Grandmaster Lumberjack's Trophy Journal (Partially Full)",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T7_JOURNAL_TROPHY_WOOD_EMPTY",
+    "name": "Grandmaster Lumberjack's Trophy Journal (Empty)",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T7_JOURNAL_TROPHY_WOOD_FULL",
+    "name": "Grandmaster Lumberjack's Trophy Journal (Full)",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T7_JOURNAL_WOOD",
+    "name": "Grandmaster Lumberjack's Journal (Partially Full)",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T7_JOURNAL_WOOD_EMPTY",
+    "name": "Grandmaster Lumberjack's Journal (Empty)",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T7_JOURNAL_WOOD_FULL",
+    "name": "Grandmaster Lumberjack's Journal (Full)",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T7_LABOURER_CONTRACT_FIBER",
+    "name": "Grandmaster Cropper Contract",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T7_LABOURER_CONTRACT_HIDE",
+    "name": "Grandmaster Gamekeeper Contract",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T7_LABOURER_CONTRACT_ORE",
+    "name": "Grandmaster Prospector Contract",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T7_LABOURER_CONTRACT_WOOD",
+    "name": "Grandmaster Lumberjack Contract",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T7_LEATHER",
+    "name": "Reinforced Leather",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "refined"
+  },
+  {
+    "id": "T7_LEATHER_LEVEL1",
+    "name": "Uncommon Reinforced Leather",
+    "tier": 7,
+    "enchantments": [
+      1
+    ],
+    "maxEnchantment": 1,
+    "category": "refined"
+  },
+  {
+    "id": "T7_LEATHER_LEVEL2",
+    "name": "Rare Reinforced Leather",
+    "tier": 7,
+    "enchantments": [
+      2
+    ],
+    "maxEnchantment": 2,
+    "category": "refined"
+  },
+  {
+    "id": "T7_LEATHER_LEVEL3",
+    "name": "Exceptional Reinforced Leather",
+    "tier": 7,
+    "enchantments": [
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "refined"
+  },
+  {
+    "id": "T7_LEATHER_LEVEL4",
+    "name": "Pristine Reinforced Leather",
+    "tier": 7,
+    "enchantments": [
+      4
+    ],
+    "maxEnchantment": 4,
+    "category": "refined"
+  },
+  {
+    "id": "T7_METALBAR",
+    "name": "Meteorite Steel Bar",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "refined"
+  },
+  {
+    "id": "T7_METALBAR_LEVEL1",
+    "name": "Uncommon Meteorite Steel Bar",
+    "tier": 7,
+    "enchantments": [
+      1
+    ],
+    "maxEnchantment": 1,
+    "category": "refined"
+  },
+  {
+    "id": "T7_METALBAR_LEVEL2",
+    "name": "Rare Meteorite Steel Bar",
+    "tier": 7,
+    "enchantments": [
+      2
+    ],
+    "maxEnchantment": 2,
+    "category": "refined"
+  },
+  {
+    "id": "T7_METALBAR_LEVEL3",
+    "name": "Exceptional Meteorite Steel Bar",
+    "tier": 7,
+    "enchantments": [
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "refined"
+  },
+  {
+    "id": "T7_METALBAR_LEVEL4",
+    "name": "Pristine Meteorite Steel Bar",
+    "tier": 7,
+    "enchantments": [
+      4
+    ],
+    "maxEnchantment": 4,
+    "category": "refined"
+  },
+  {
+    "id": "T7_ORE",
+    "name": "Meteorite Ore",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T7_ORE_LEVEL1",
+    "name": "Uncommon Meteorite Ore",
+    "tier": 7,
+    "enchantments": [
+      1
+    ],
+    "maxEnchantment": 1,
+    "category": "raw"
+  },
+  {
+    "id": "T7_ORE_LEVEL2",
+    "name": "Rare Meteorite Ore",
+    "tier": 7,
+    "enchantments": [
+      2
+    ],
+    "maxEnchantment": 2,
+    "category": "raw"
+  },
+  {
+    "id": "T7_ORE_LEVEL3",
+    "name": "Exceptional Meteorite Ore",
+    "tier": 7,
+    "enchantments": [
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "raw"
+  },
+  {
+    "id": "T7_ORE_LEVEL4",
+    "name": "Pristine Meteorite Ore",
+    "tier": 7,
+    "enchantments": [
+      4
+    ],
+    "maxEnchantment": 4,
+    "category": "raw"
+  },
+  {
+    "id": "T7_PLANKS",
+    "name": "Ashenbark Planks",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "refined"
+  },
+  {
+    "id": "T7_PLANKS_LEVEL1",
+    "name": "Uncommon Ashenbark Planks",
+    "tier": 7,
+    "enchantments": [
+      1
+    ],
+    "maxEnchantment": 1,
+    "category": "refined"
+  },
+  {
+    "id": "T7_PLANKS_LEVEL2",
+    "name": "Rare Ashenbark Planks",
+    "tier": 7,
+    "enchantments": [
+      2
+    ],
+    "maxEnchantment": 2,
+    "category": "refined"
+  },
+  {
+    "id": "T7_PLANKS_LEVEL3",
+    "name": "Exceptional Ashenbark Planks",
+    "tier": 7,
+    "enchantments": [
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "refined"
+  },
+  {
+    "id": "T7_PLANKS_LEVEL4",
+    "name": "Pristine Ashenbark Planks",
+    "tier": 7,
+    "enchantments": [
+      4
+    ],
+    "maxEnchantment": 4,
+    "category": "refined"
+  },
+  {
+    "id": "T7_RELIC",
+    "name": "Grandmaster's Relic",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "resource"
+  },
+  {
+    "id": "T7_ROCK",
+    "name": "Basalt",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T7_ROCK_LEVEL1",
+    "name": "Uncommon Basalt",
+    "tier": 7,
+    "enchantments": [
+      1
+    ],
+    "maxEnchantment": 1,
+    "category": "raw"
+  },
+  {
+    "id": "T7_ROCK_LEVEL2",
+    "name": "Rare Basalt",
+    "tier": 7,
+    "enchantments": [
+      2
+    ],
+    "maxEnchantment": 2,
+    "category": "raw"
+  },
+  {
+    "id": "T7_ROCK_LEVEL3",
+    "name": "Exceptional Basalt",
+    "tier": 7,
+    "enchantments": [
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "raw"
+  },
+  {
+    "id": "T7_RUNE",
+    "name": "Grandmaster's Rune",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "resource"
+  },
+  {
+    "id": "T7_SHARD_AVALONIAN",
+    "name": "Grandmaster's Avalonian Shard",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "resource"
+  },
+  {
+    "id": "T7_SHARD_CRYSTAL",
+    "name": "Grandmaster's Crystal Shard",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "resource"
+  },
+  {
+    "id": "T7_SKILLBOOK_GATHER_FIBER",
+    "name": "Grandmaster Fiber Harvester Tome",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T7_SKILLBOOK_GATHER_HIDE",
+    "name": "Grandmaster Animal Skinner Tome",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T7_SKILLBOOK_GATHER_ORE",
+    "name": "Grandmaster Ore Miner Tome",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T7_SKILLBOOK_GATHER_ROCK",
+    "name": "Grandmaster Quarrier Tome",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T7_SKILLBOOK_GATHER_WOOD",
+    "name": "Grandmaster Lumberjack Tome",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T7_SOUL",
+    "name": "Grandmaster's Soul",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "resource"
+  },
+  {
+    "id": "T7_STONEBLOCK",
+    "name": "Basalt Block",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "refined"
+  },
+  {
+    "id": "T7_WOOD",
+    "name": "Ashenbark Logs",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T7_WOOD_LEVEL1",
+    "name": "Uncommon Ashenbark Logs",
+    "tier": 7,
+    "enchantments": [
+      1
+    ],
+    "maxEnchantment": 1,
+    "category": "raw"
+  },
+  {
+    "id": "T7_WOOD_LEVEL2",
+    "name": "Rare Ashenbark Logs",
+    "tier": 7,
+    "enchantments": [
+      2
+    ],
+    "maxEnchantment": 2,
+    "category": "raw"
+  },
+  {
+    "id": "T7_WOOD_LEVEL3",
+    "name": "Exceptional Ashenbark Logs",
+    "tier": 7,
+    "enchantments": [
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "raw"
+  },
+  {
+    "id": "T7_WOOD_LEVEL4",
+    "name": "Pristine Ashenbark Logs",
+    "tier": 7,
+    "enchantments": [
+      4
+    ],
+    "maxEnchantment": 4,
+    "category": "raw"
+  },
+  {
+    "id": "T8_ARTEFACT_TOKEN_FAVOR_1",
+    "name": "Elder's Crystallized Spirit",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "artefact"
+  },
+  {
+    "id": "T8_ARTEFACT_TOKEN_FAVOR_2",
+    "name": "Elder's Crystallized Dread",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "artefact"
+  },
+  {
+    "id": "T8_ARTEFACT_TOKEN_FAVOR_3",
+    "name": "Elder's Crystallized Magic",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "artefact"
+  },
+  {
+    "id": "T8_ARTEFACT_TOKEN_FAVOR_4",
+    "name": "Elder's Crystallized Divinity",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "artefact"
+  },
+  {
+    "id": "T8_BACKPACK_GATHERER_FIBER",
+    "name": "Elder's Harvester Backpack",
+    "tier": 8,
+    "enchantments": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "maxEnchantment": 4,
+    "category": "raw"
+  },
+  {
+    "id": "T8_BACKPACK_GATHERER_HIDE",
+    "name": "Elder's Skinner Backpack",
+    "tier": 8,
+    "enchantments": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "maxEnchantment": 4,
+    "category": "raw"
+  },
+  {
+    "id": "T8_BACKPACK_GATHERER_ORE",
+    "name": "Elder's Miner Backpack",
+    "tier": 8,
+    "enchantments": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "maxEnchantment": 4,
+    "category": "raw"
+  },
+  {
+    "id": "T8_BACKPACK_GATHERER_ROCK",
+    "name": "Elder's Quarrier Backpack",
+    "tier": 8,
+    "enchantments": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "maxEnchantment": 4,
+    "category": "raw"
+  },
+  {
+    "id": "T8_BACKPACK_GATHERER_WOOD",
+    "name": "Elder's Lumberjack Backpack",
+    "tier": 8,
+    "enchantments": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "maxEnchantment": 4,
+    "category": "raw"
+  },
+  {
+    "id": "T8_CLOTH",
+    "name": "Baroque Cloth",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "refined"
+  },
+  {
+    "id": "T8_CLOTH_LEVEL1",
+    "name": "Uncommon Baroque Cloth",
+    "tier": 8,
+    "enchantments": [
+      1
+    ],
+    "maxEnchantment": 1,
+    "category": "refined"
+  },
+  {
+    "id": "T8_CLOTH_LEVEL2",
+    "name": "Rare Baroque Cloth",
+    "tier": 8,
+    "enchantments": [
+      2
+    ],
+    "maxEnchantment": 2,
+    "category": "refined"
+  },
+  {
+    "id": "T8_CLOTH_LEVEL3",
+    "name": "Exceptional Baroque Cloth",
+    "tier": 8,
+    "enchantments": [
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "refined"
+  },
+  {
+    "id": "T8_CLOTH_LEVEL4",
+    "name": "Pristine Baroque Cloth",
+    "tier": 8,
+    "enchantments": [
+      4
+    ],
+    "maxEnchantment": 4,
+    "category": "refined"
+  },
+  {
+    "id": "T8_FIBER",
+    "name": "Ghost Hemp",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T8_FIBER_LEVEL1",
+    "name": "Uncommon Ghost Hemp",
+    "tier": 8,
+    "enchantments": [
+      1
+    ],
+    "maxEnchantment": 1,
+    "category": "raw"
+  },
+  {
+    "id": "T8_FIBER_LEVEL2",
+    "name": "Rare Ghost Hemp",
+    "tier": 8,
+    "enchantments": [
+      2
+    ],
+    "maxEnchantment": 2,
+    "category": "raw"
+  },
+  {
+    "id": "T8_FIBER_LEVEL3",
+    "name": "Exceptional Ghost Hemp",
+    "tier": 8,
+    "enchantments": [
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "raw"
+  },
+  {
+    "id": "T8_FIBER_LEVEL4",
+    "name": "Pristine Ghost Hemp",
+    "tier": 8,
+    "enchantments": [
+      4
+    ],
+    "maxEnchantment": 4,
+    "category": "raw"
+  },
+  {
+    "id": "T8_FURNITUREITEM_TROPHY_FIBER",
+    "name": "Exquisite Ghost Hemp Trophy",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T8_FURNITUREITEM_TROPHY_HIDE",
+    "name": "Stuffed Direbear Head",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T8_FURNITUREITEM_TROPHY_ORE",
+    "name": "Adamantium Ore Sample",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T8_FURNITUREITEM_TROPHY_ROCK",
+    "name": "Marble Fragment",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T8_FURNITUREITEM_TROPHY_WOOD",
+    "name": "Whitewood Bonsai",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T8_HIDE",
+    "name": "Resilient Hide",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T8_HIDE_LEVEL1",
+    "name": "Uncommon Resilient Hide",
+    "tier": 8,
+    "enchantments": [
+      1
+    ],
+    "maxEnchantment": 1,
+    "category": "raw"
+  },
+  {
+    "id": "T8_HIDE_LEVEL2",
+    "name": "Rare Resilient Hide",
+    "tier": 8,
+    "enchantments": [
+      2
+    ],
+    "maxEnchantment": 2,
+    "category": "raw"
+  },
+  {
+    "id": "T8_HIDE_LEVEL3",
+    "name": "Exceptional Resilient Hide",
+    "tier": 8,
+    "enchantments": [
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "raw"
+  },
+  {
+    "id": "T8_HIDE_LEVEL4",
+    "name": "Pristine Resilient Hide",
+    "tier": 8,
+    "enchantments": [
+      4
+    ],
+    "maxEnchantment": 4,
+    "category": "raw"
+  },
+  {
+    "id": "T8_JOURNAL_FIBER",
+    "name": "Elder Cropper's Journal (Partially Full)",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T8_JOURNAL_FIBER_EMPTY",
+    "name": "Elder Cropper's Journal (Empty)",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T8_JOURNAL_FIBER_FULL",
+    "name": "Elder Cropper's Journal (Full)",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T8_JOURNAL_HIDE",
+    "name": "Elder Gamekeeper's Journal (Partially Full)",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T8_JOURNAL_HIDE_EMPTY",
+    "name": "Elder Gamekeeper's Journal (Empty)",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T8_JOURNAL_HIDE_FULL",
+    "name": "Elder Gamekeeper's Journal (Full)",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T8_JOURNAL_ORE",
+    "name": "Elder Prospector's Journal (Partially Full)",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T8_JOURNAL_ORE_EMPTY",
+    "name": "Elder Prospector's Journal (Empty)",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T8_JOURNAL_ORE_FULL",
+    "name": "Elder Prospector's Journal (Full)",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T8_JOURNAL_TROPHY_FIBER",
+    "name": "Elder Cropper's Trophy Journal (Partially Full)",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T8_JOURNAL_TROPHY_FIBER_EMPTY",
+    "name": "Elder Cropper's Trophy Journal (Empty)",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T8_JOURNAL_TROPHY_FIBER_FULL",
+    "name": "Elder Cropper's Trophy Journal (Full)",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T8_JOURNAL_TROPHY_HIDE",
+    "name": "Elder Gamekeeper's Trophy Journal (Partially Full)",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T8_JOURNAL_TROPHY_HIDE_EMPTY",
+    "name": "Elder Gamekeeper's Trophy Journal (Empty)",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T8_JOURNAL_TROPHY_HIDE_FULL",
+    "name": "Elder Gamekeeper's Trophy Journal (Full)",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T8_JOURNAL_TROPHY_ORE",
+    "name": "Elder Prospector's Trophy Journal (Partially Full)",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T8_JOURNAL_TROPHY_ORE_EMPTY",
+    "name": "Elder Prospector's Trophy Journal (Empty)",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T8_JOURNAL_TROPHY_ORE_FULL",
+    "name": "Elder Prospector's Trophy Journal (Full)",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T8_JOURNAL_TROPHY_WOOD",
+    "name": "Elder Lumberjack's Trophy Journal (Partially Full)",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T8_JOURNAL_TROPHY_WOOD_EMPTY",
+    "name": "Elder Lumberjack's Trophy Journal (Empty)",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T8_JOURNAL_TROPHY_WOOD_FULL",
+    "name": "Elder Lumberjack's Trophy Journal (Full)",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T8_JOURNAL_WOOD",
+    "name": "Elder Lumberjack's Journal (Partially Full)",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T8_JOURNAL_WOOD_EMPTY",
+    "name": "Elder Lumberjack's Journal (Empty)",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T8_JOURNAL_WOOD_FULL",
+    "name": "Elder Lumberjack's Journal (Full)",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T8_LABOURER_CONTRACT_FIBER",
+    "name": "Elder Cropper Contract",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T8_LABOURER_CONTRACT_HIDE",
+    "name": "Elder Gamekeeper Contract",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T8_LABOURER_CONTRACT_ORE",
+    "name": "Elder Prospector Contract",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T8_LABOURER_CONTRACT_WOOD",
+    "name": "Elder Lumberjack Contract",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T8_LEATHER",
+    "name": "Fortified Leather",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "refined"
+  },
+  {
+    "id": "T8_LEATHER_LEVEL1",
+    "name": "Uncommon Fortified Leather",
+    "tier": 8,
+    "enchantments": [
+      1
+    ],
+    "maxEnchantment": 1,
+    "category": "refined"
+  },
+  {
+    "id": "T8_LEATHER_LEVEL2",
+    "name": "Rare Fortified Leather",
+    "tier": 8,
+    "enchantments": [
+      2
+    ],
+    "maxEnchantment": 2,
+    "category": "refined"
+  },
+  {
+    "id": "T8_LEATHER_LEVEL3",
+    "name": "Exceptional Fortified Leather",
+    "tier": 8,
+    "enchantments": [
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "refined"
+  },
+  {
+    "id": "T8_LEATHER_LEVEL4",
+    "name": "Pristine Fortified Leather",
+    "tier": 8,
+    "enchantments": [
+      4
+    ],
+    "maxEnchantment": 4,
+    "category": "refined"
+  },
+  {
+    "id": "T8_METALBAR",
+    "name": "Adamantium Steel Bar",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "refined"
+  },
+  {
+    "id": "T8_METALBAR_LEVEL1",
+    "name": "Uncommon Adamantium Steel Bar",
+    "tier": 8,
+    "enchantments": [
+      1
+    ],
+    "maxEnchantment": 1,
+    "category": "refined"
+  },
+  {
+    "id": "T8_METALBAR_LEVEL2",
+    "name": "Rare Adamantium Steel Bar",
+    "tier": 8,
+    "enchantments": [
+      2
+    ],
+    "maxEnchantment": 2,
+    "category": "refined"
+  },
+  {
+    "id": "T8_METALBAR_LEVEL3",
+    "name": "Exceptional Adamantium Steel Bar",
+    "tier": 8,
+    "enchantments": [
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "refined"
+  },
+  {
+    "id": "T8_METALBAR_LEVEL4",
+    "name": "Pristine Adamantium Steel Bar",
+    "tier": 8,
+    "enchantments": [
+      4
+    ],
+    "maxEnchantment": 4,
+    "category": "refined"
+  },
+  {
+    "id": "T8_ORE",
+    "name": "Adamantium Ore",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T8_ORE_LEVEL1",
+    "name": "Uncommon Adamantium Ore",
+    "tier": 8,
+    "enchantments": [
+      1
+    ],
+    "maxEnchantment": 1,
+    "category": "raw"
+  },
+  {
+    "id": "T8_ORE_LEVEL2",
+    "name": "Rare Adamantium Ore",
+    "tier": 8,
+    "enchantments": [
+      2
+    ],
+    "maxEnchantment": 2,
+    "category": "raw"
+  },
+  {
+    "id": "T8_ORE_LEVEL3",
+    "name": "Exceptional Adamantium Ore",
+    "tier": 8,
+    "enchantments": [
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "raw"
+  },
+  {
+    "id": "T8_ORE_LEVEL4",
+    "name": "Pristine Adamantium Ore",
+    "tier": 8,
+    "enchantments": [
+      4
+    ],
+    "maxEnchantment": 4,
+    "category": "raw"
+  },
+  {
+    "id": "T8_PLANKS",
+    "name": "Whitewood Planks",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "refined"
+  },
+  {
+    "id": "T8_PLANKS_LEVEL1",
+    "name": "Uncommon Whitewood Planks",
+    "tier": 8,
+    "enchantments": [
+      1
+    ],
+    "maxEnchantment": 1,
+    "category": "refined"
+  },
+  {
+    "id": "T8_PLANKS_LEVEL2",
+    "name": "Rare Whitewood Planks",
+    "tier": 8,
+    "enchantments": [
+      2
+    ],
+    "maxEnchantment": 2,
+    "category": "refined"
+  },
+  {
+    "id": "T8_PLANKS_LEVEL3",
+    "name": "Exceptional Whitewood Planks",
+    "tier": 8,
+    "enchantments": [
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "refined"
+  },
+  {
+    "id": "T8_PLANKS_LEVEL4",
+    "name": "Pristine Whitewood Planks",
+    "tier": 8,
+    "enchantments": [
+      4
+    ],
+    "maxEnchantment": 4,
+    "category": "refined"
+  },
+  {
+    "id": "T8_RELIC",
+    "name": "Elder's Relic",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "resource"
+  },
+  {
+    "id": "T8_ROCK",
+    "name": "Marble",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T8_ROCK_LEVEL1",
+    "name": "Uncommon Marble",
+    "tier": 8,
+    "enchantments": [
+      1
+    ],
+    "maxEnchantment": 1,
+    "category": "raw"
+  },
+  {
+    "id": "T8_ROCK_LEVEL2",
+    "name": "Rare Marble",
+    "tier": 8,
+    "enchantments": [
+      2
+    ],
+    "maxEnchantment": 2,
+    "category": "raw"
+  },
+  {
+    "id": "T8_ROCK_LEVEL3",
+    "name": "Exceptional Marble",
+    "tier": 8,
+    "enchantments": [
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "raw"
+  },
+  {
+    "id": "T8_RUNE",
+    "name": "Elder's Rune",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "resource"
+  },
+  {
+    "id": "T8_SHARD_AVALONIAN",
+    "name": "Elder's Avalonian Shard",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "resource"
+  },
+  {
+    "id": "T8_SHARD_CRYSTAL",
+    "name": "Elder's Crystal Shard",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "resource"
+  },
+  {
+    "id": "T8_SKILLBOOK_GATHER_FIBER",
+    "name": "Elder Fiber Harvester Tome",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T8_SKILLBOOK_GATHER_HIDE",
+    "name": "Elder Animal Skinner Tome",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T8_SKILLBOOK_GATHER_ORE",
+    "name": "Elder Ore Miner Tome",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T8_SKILLBOOK_GATHER_ROCK",
+    "name": "Elder Quarrier Tome",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T8_SKILLBOOK_GATHER_WOOD",
+    "name": "Elder Lumberjack Tome",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T8_SOUL",
+    "name": "Elder's Soul",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "resource"
+  },
+  {
+    "id": "T8_STONEBLOCK",
+    "name": "Marble Block",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "refined"
+  },
+  {
+    "id": "T8_WOOD",
+    "name": "Whitewood Logs",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "raw"
+  },
+  {
+    "id": "T8_WOOD_LEVEL1",
+    "name": "Uncommon Whitewood Logs",
+    "tier": 8,
+    "enchantments": [
+      1
+    ],
+    "maxEnchantment": 1,
+    "category": "raw"
+  },
+  {
+    "id": "T8_WOOD_LEVEL2",
+    "name": "Rare Whitewood Logs",
+    "tier": 8,
+    "enchantments": [
+      2
+    ],
+    "maxEnchantment": 2,
+    "category": "raw"
+  },
+  {
+    "id": "T8_WOOD_LEVEL3",
+    "name": "Exceptional Whitewood Logs",
+    "tier": 8,
+    "enchantments": [
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "raw"
+  },
+  {
+    "id": "T8_WOOD_LEVEL4",
+    "name": "Pristine Whitewood Logs",
+    "tier": 8,
+    "enchantments": [
+      4
+    ],
+    "maxEnchantment": 4,
+    "category": "raw"
+  }
+]

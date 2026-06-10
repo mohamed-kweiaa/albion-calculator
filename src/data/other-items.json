@@ -1,0 +1,7579 @@
+[
+  {
+    "id": "T2_AGARIC",
+    "name": "Arcane Agaric",
+    "tier": 2,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T2_BEAN",
+    "name": "Beans",
+    "tier": 2,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T2_FARM_AGARIC_SEED",
+    "name": "Arcane Agaric Seeds",
+    "tier": 2,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "farming"
+  },
+  {
+    "id": "T2_FARM_BEAN_SEED",
+    "name": "Bean Seeds",
+    "tier": 2,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "farming"
+  },
+  {
+    "id": "T2_FISH_FRESHWATER_ALL_COMMON",
+    "name": "Striped Carp",
+    "tier": 2,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "fish"
+  },
+  {
+    "id": "T2_FISH_SALTWATER_ALL_COMMON",
+    "name": "Striped Mackerel",
+    "tier": 2,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "fish"
+  },
+  {
+    "id": "T2_FURNITUREITEM_BED",
+    "name": "Novice's Bed",
+    "tier": 2,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T2_FURNITUREITEM_CHEST",
+    "name": "Novice's Chest",
+    "tier": 2,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T2_FURNITUREITEM_GUILDBANNER_FABRIC",
+    "name": "Guild Banner on Fabric",
+    "tier": 2,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T2_FURNITUREITEM_GUILDBANNER_SHIELD",
+    "name": "Guild Banner on Shield",
+    "tier": 2,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T2_FURNITUREITEM_TABLE",
+    "name": "Novice's Table",
+    "tier": 2,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T2_FURNITUREITEM_TROPHY_FISH",
+    "name": "Carp Trophy",
+    "tier": 2,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T2_FURNITUREITEM_TROPHY_GENERAL",
+    "name": "Adventurer's Handbook",
+    "tier": 2,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T2_FURNITUREITEM_TROPHY_MERCENARY",
+    "name": "Novice Mercenary's Trophy",
+    "tier": 2,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T2_JOURNAL_FISHING",
+    "name": "Novice Fisherman's Journal (Partially Full)",
+    "tier": 2,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T2_JOURNAL_FISHING_EMPTY",
+    "name": "Novice Fisherman's Journal (Empty)",
+    "tier": 2,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T2_JOURNAL_FISHING_FULL",
+    "name": "Novice Fisherman's Journal (Full)",
+    "tier": 2,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T2_JOURNAL_HUNTER",
+    "name": "Novice Fletcher's Journal (Partially Full)",
+    "tier": 2,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T2_JOURNAL_HUNTER_EMPTY",
+    "name": "Novice Fletcher's Journal (Empty)",
+    "tier": 2,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T2_JOURNAL_HUNTER_FULL",
+    "name": "Novice Fletcher's Journal (Full)",
+    "tier": 2,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T2_JOURNAL_MAGE",
+    "name": "Novice Imbuer's Journal (Partially Full)",
+    "tier": 2,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T2_JOURNAL_MAGE_EMPTY",
+    "name": "Novice Imbuer's Journal (Empty)",
+    "tier": 2,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T2_JOURNAL_MAGE_FULL",
+    "name": "Novice Imbuer's Journal (Full)",
+    "tier": 2,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T2_JOURNAL_MERCENARY",
+    "name": "Novice Mercenary's Journal (Partially Full)",
+    "tier": 2,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T2_JOURNAL_MERCENARY_EMPTY",
+    "name": "Novice Mercenary's Journal (Empty)",
+    "tier": 2,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T2_JOURNAL_MERCENARY_FULL",
+    "name": "Novice Mercenary's Journal (Full)",
+    "tier": 2,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T2_JOURNAL_STONE",
+    "name": "Novice Stonecutter's Journal (Partially Full)",
+    "tier": 2,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T2_JOURNAL_STONE_EMPTY",
+    "name": "Novice Stonecutter's Journal (Empty)",
+    "tier": 2,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T2_JOURNAL_STONE_FULL",
+    "name": "Novice Stonecutter's Journal (Full)",
+    "tier": 2,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T2_JOURNAL_TOOLMAKER",
+    "name": "Novice Tinker's Journal (Partially Full)",
+    "tier": 2,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T2_JOURNAL_TOOLMAKER_EMPTY",
+    "name": "Novice Tinker's Journal (Empty)",
+    "tier": 2,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T2_JOURNAL_TOOLMAKER_FULL",
+    "name": "Novice Tinker's Journal (Full)",
+    "tier": 2,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T2_JOURNAL_TROPHY_FISHING",
+    "name": "Novice Fisherman's Trophy Journal (Partially Full)",
+    "tier": 2,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T2_JOURNAL_TROPHY_FISHING_EMPTY",
+    "name": "Novice Fisherman's Trophy Journal (Empty)",
+    "tier": 2,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T2_JOURNAL_TROPHY_FISHING_FULL",
+    "name": "Novice Fisherman's Trophy Journal (Full)",
+    "tier": 2,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T2_JOURNAL_TROPHY_GENERAL",
+    "name": "Novice's Generalist Trophy Journal (Partially Full)",
+    "tier": 2,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T2_JOURNAL_TROPHY_GENERAL_EMPTY",
+    "name": "Novice's Generalist Trophy Journal (Empty)",
+    "tier": 2,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T2_JOURNAL_TROPHY_GENERAL_FULL",
+    "name": "Novice's Generalist Trophy Journal (Full)",
+    "tier": 2,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T2_JOURNAL_TROPHY_MERCENARY",
+    "name": "Novice Mercenary's Trophy Journal (Partially Full)",
+    "tier": 2,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T2_JOURNAL_TROPHY_MERCENARY_EMPTY",
+    "name": "Novice Mercenary's Trophy Journal (Empty)",
+    "tier": 2,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T2_JOURNAL_TROPHY_MERCENARY_FULL",
+    "name": "Novice Mercenary's Trophy Journal (Full)",
+    "tier": 2,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T2_JOURNAL_TROPHY_STONE",
+    "name": "Novice Stonecutter's Trophy Journal (Partially Full)",
+    "tier": 2,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T2_JOURNAL_TROPHY_STONE_EMPTY",
+    "name": "Novice Stonecutter's Trophy Journal (Empty)",
+    "tier": 2,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T2_JOURNAL_TROPHY_STONE_FULL",
+    "name": "Novice Stonecutter's Trophy Journal (Full)",
+    "tier": 2,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T2_JOURNAL_WARRIOR",
+    "name": "Novice Blacksmith's Journal (Partially Full)",
+    "tier": 2,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T2_JOURNAL_WARRIOR_EMPTY",
+    "name": "Novice Blacksmith's Journal (Empty)",
+    "tier": 2,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T2_JOURNAL_WARRIOR_FULL",
+    "name": "Novice Blacksmith's Journal (Full)",
+    "tier": 2,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T2_LABOURER_CONTRACT_FISHERMAN",
+    "name": "Novice Fisherman Contract",
+    "tier": 2,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T2_LABOURER_CONTRACT_HUNTER",
+    "name": "Novice Fletcher Contract",
+    "tier": 2,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T2_LABOURER_CONTRACT_MAGE",
+    "name": "Novice Imbuer Contract",
+    "tier": 2,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T2_LABOURER_CONTRACT_MERCENARY",
+    "name": "Novice Mercenary Contract",
+    "tier": 2,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T2_LABOURER_CONTRACT_STONE",
+    "name": "Novice Stonecutter Contract",
+    "tier": 2,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T2_LABOURER_CONTRACT_TOOLMAKER",
+    "name": "Novice Tinker Contract",
+    "tier": 2,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T2_LABOURER_CONTRACT_WARRIOR",
+    "name": "Novice Blacksmith Contract",
+    "tier": 2,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T2_MEAL_SALAD",
+    "name": "Bean Salad",
+    "tier": 2,
+    "enchantments": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "meal"
+  },
+  {
+    "id": "T2_MEAL_SALAD_FISH",
+    "name": "Shallowshore Squid Salad",
+    "tier": 2,
+    "enchantments": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "meal"
+  },
+  {
+    "id": "T2_POTION_ENERGY",
+    "name": "Minor Energy Potion",
+    "tier": 2,
+    "enchantments": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "potion"
+  },
+  {
+    "id": "T2_POTION_HEAL",
+    "name": "Minor Healing Potion",
+    "tier": 2,
+    "enchantments": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "potion"
+  },
+  {
+    "id": "T2_TRASH",
+    "name": "Trash",
+    "tier": 2,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T3_ALCHEMY_RARE_DIREBEAR",
+    "name": "Rugged Spirit Paws",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T3_ALCHEMY_RARE_EAGLE",
+    "name": "Rugged Dawnfeather",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T3_ALCHEMY_RARE_ELEMENTAL",
+    "name": "Rugged Runestone Tooth",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T3_ALCHEMY_RARE_ENT",
+    "name": "Rugged Sylvian Root",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T3_ALCHEMY_RARE_IMP",
+    "name": "Rugged Imp's Horn",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T3_ALCHEMY_RARE_PANTHER",
+    "name": "Rugged Shadow Claws",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T3_ALCHEMY_RARE_WEREWOLF",
+    "name": "Rugged Werewolf Fangs",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T3_COMFREY",
+    "name": "Brightleaf Comfrey",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T3_EGG",
+    "name": "Hen Eggs",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T3_FARM_CHICKEN_BABY",
+    "name": "Baby Chickens",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "farming"
+  },
+  {
+    "id": "T3_FARM_CHICKEN_GROWN",
+    "name": "Chicken",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "farming"
+  },
+  {
+    "id": "T3_FARM_COMFREY_SEED",
+    "name": "Brightleaf Comfrey Seeds",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "farming"
+  },
+  {
+    "id": "T3_FARM_HORSE_BABY",
+    "name": "Journeyman's Foal",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "farming"
+  },
+  {
+    "id": "T3_FARM_HORSE_GROWN",
+    "name": "Journeyman's Horse",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "farming"
+  },
+  {
+    "id": "T3_FARM_OX_BABY",
+    "name": "Journeyman's Ox Calf",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "farming"
+  },
+  {
+    "id": "T3_FARM_OX_GROWN",
+    "name": "Journeyman's Ox",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "farming"
+  },
+  {
+    "id": "T3_FARM_WHEAT_SEED",
+    "name": "Wheat Seeds",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "farming"
+  },
+  {
+    "id": "T3_FISH_FRESHWATER_ALL_COMMON",
+    "name": "Albion Perch",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "fish"
+  },
+  {
+    "id": "T3_FISH_FRESHWATER_AVALON_RARE",
+    "name": "Whitefog Snapper",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "fish"
+  },
+  {
+    "id": "T3_FISH_FRESHWATER_FOREST_RARE",
+    "name": "Greenriver Eel",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "fish"
+  },
+  {
+    "id": "T3_FISH_FRESHWATER_HIGHLANDS_RARE",
+    "name": "Stonestream Lurcher",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "fish"
+  },
+  {
+    "id": "T3_FISH_FRESHWATER_MOUNTAIN_RARE",
+    "name": "Upland Coldeye",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "fish"
+  },
+  {
+    "id": "T3_FISH_FRESHWATER_STEPPE_RARE",
+    "name": "Lowriver Crab",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "fish"
+  },
+  {
+    "id": "T3_FISH_FRESHWATER_SWAMP_RARE",
+    "name": "Greenmoor Clam",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "fish"
+  },
+  {
+    "id": "T3_FISH_SALTWATER_ALL_COMMON",
+    "name": "Flatshore Plaice",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "fish"
+  },
+  {
+    "id": "T3_FISH_SALTWATER_ALL_RARE",
+    "name": "Shallowshore Squid",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "fish"
+  },
+  {
+    "id": "T3_FISHINGBAIT",
+    "name": "Fancy Fish Bait",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T3_FLOUR",
+    "name": "Flour",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T3_FURNITUREITEM_ANNIVERSARYBANNER",
+    "name": "Anniversary Banner - White",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T3_FURNITUREITEM_ANNIVERSARYBANNER_2020",
+    "name": "Anniversary Banner - Red",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T3_FURNITUREITEM_ANNIVERSARYBANNER_2021",
+    "name": "Anniversary Banner - Blue",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T3_FURNITUREITEM_ANNIVERSARYBANNER_2022",
+    "name": "Anniversary Banner - Turquoise",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T3_FURNITUREITEM_ANNIVERSARYBANNER_2023",
+    "name": "Anniversary Banner - Orange",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T3_FURNITUREITEM_ANNIVERSARYBANNER_2024",
+    "name": "Anniversary Banner - Purple",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T3_FURNITUREITEM_ANNIVERSARYBANNER_2025",
+    "name": "Anniversary Banner - Light Blue",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T3_FURNITUREITEM_BED",
+    "name": "Journeyman's Bed",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T3_FURNITUREITEM_CHEST",
+    "name": "Journeyman's Chest",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T3_FURNITUREITEM_GUILDBANNER_FABRIC",
+    "name": "Guild Banner on Fabric",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T3_FURNITUREITEM_GUILDBANNER_SHIELD",
+    "name": "Guild Banner on Shield",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T3_FURNITUREITEM_TABLE",
+    "name": "Journeyman's Table",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T3_FURNITUREITEM_TROPHY_FISH",
+    "name": "Perch Trophy",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T3_FURNITUREITEM_TROPHY_GENERAL",
+    "name": "Magical Tome",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T3_FURNITUREITEM_TROPHY_MERCENARY",
+    "name": "Journeyman Mercenary's Trophy",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T3_JOURNAL_FISHING",
+    "name": "Journeyman Fisherman's Journal (Partially Full)",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T3_JOURNAL_FISHING_EMPTY",
+    "name": "Journeyman Fisherman's Journal (Empty)",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T3_JOURNAL_FISHING_FULL",
+    "name": "Journeyman Fisherman's Journal (Full)",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T3_JOURNAL_HUNTER",
+    "name": "Journeyman Fletcher's Journal (Partially Full)",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T3_JOURNAL_HUNTER_EMPTY",
+    "name": "Journeyman Fletcher's Journal (Empty)",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T3_JOURNAL_HUNTER_FULL",
+    "name": "Journeyman Fletcher's Journal (Full)",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T3_JOURNAL_MAGE",
+    "name": "Journeyman Imbuer's Journal (Partially Full)",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T3_JOURNAL_MAGE_EMPTY",
+    "name": "Journeyman Imbuer's Journal (Empty)",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T3_JOURNAL_MAGE_FULL",
+    "name": "Journeyman Imbuer's Journal (Full)",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T3_JOURNAL_MERCENARY",
+    "name": "Journeyman Mercenary's Journal (Partially Full)",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T3_JOURNAL_MERCENARY_EMPTY",
+    "name": "Journeyman Mercenary's Journal (Empty)",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T3_JOURNAL_MERCENARY_FULL",
+    "name": "Journeyman Mercenary's Journal (Full)",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T3_JOURNAL_STONE",
+    "name": "Journeyman Stonecutter's Journal (Partially Full)",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T3_JOURNAL_STONE_EMPTY",
+    "name": "Journeyman Stonecutter's Journal (Empty)",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T3_JOURNAL_STONE_FULL",
+    "name": "Journeyman Stonecutter's Journal (Full)",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T3_JOURNAL_TOOLMAKER",
+    "name": "Journeyman Tinker's Journal (Partially Full)",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T3_JOURNAL_TOOLMAKER_EMPTY",
+    "name": "Journeyman Tinker's Journal (Empty)",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T3_JOURNAL_TOOLMAKER_FULL",
+    "name": "Journeyman Tinker's Journal (Full)",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T3_JOURNAL_TROPHY_FISHING",
+    "name": "Journeyman Fisherman's Trophy Journal (Partially Full)",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T3_JOURNAL_TROPHY_FISHING_EMPTY",
+    "name": "Journeyman Fisherman's Trophy Journal (Empty)",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T3_JOURNAL_TROPHY_FISHING_FULL",
+    "name": "Journeyman Fisherman's Trophy Journal (Full)",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T3_JOURNAL_TROPHY_GENERAL",
+    "name": "Journeyman's Generalist Trophy Journal (Partially Full)",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T3_JOURNAL_TROPHY_GENERAL_EMPTY",
+    "name": "Journeyman's Generalist Trophy Journal (Empty)",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T3_JOURNAL_TROPHY_GENERAL_FULL",
+    "name": "Journeyman's Generalist Trophy Journal (Full)",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T3_JOURNAL_TROPHY_MERCENARY",
+    "name": "Journeyman Mercenary's Trophy Journal (Partially Full)",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T3_JOURNAL_TROPHY_MERCENARY_EMPTY",
+    "name": "Journeyman Mercenary's Trophy Journal (Empty)",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T3_JOURNAL_TROPHY_MERCENARY_FULL",
+    "name": "Journeyman Mercenary's Trophy Journal (Full)",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T3_JOURNAL_TROPHY_STONE",
+    "name": "Journeyman Stonecutter's Trophy Journal (Partially Full)",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T3_JOURNAL_TROPHY_STONE_EMPTY",
+    "name": "Journeyman Stonecutter's Trophy Journal (Empty)",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T3_JOURNAL_TROPHY_STONE_FULL",
+    "name": "Journeyman Stonecutter's Trophy Journal (Full)",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T3_JOURNAL_WARRIOR",
+    "name": "Journeyman Blacksmith's Journal (Partially Full)",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T3_JOURNAL_WARRIOR_EMPTY",
+    "name": "Journeyman Blacksmith's Journal (Empty)",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T3_JOURNAL_WARRIOR_FULL",
+    "name": "Journeyman Blacksmith's Journal (Full)",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T3_LABOURER_CONTRACT_FISHERMAN",
+    "name": "Journeyman Fisherman Contract",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T3_LABOURER_CONTRACT_HUNTER",
+    "name": "Journeyman Fletcher Contract",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T3_LABOURER_CONTRACT_MAGE",
+    "name": "Journeyman Imbuer Contract",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T3_LABOURER_CONTRACT_MERCENARY",
+    "name": "Journeyman Mercenary Contract",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T3_LABOURER_CONTRACT_STONE",
+    "name": "Journeyman Stonecutter Contract",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T3_LABOURER_CONTRACT_TOOLMAKER",
+    "name": "Journeyman Tinker Contract",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T3_LABOURER_CONTRACT_WARRIOR",
+    "name": "Journeyman Blacksmith Contract",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T3_MEAL_OMELETTE",
+    "name": "Chicken Omelette",
+    "tier": 3,
+    "enchantments": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "meal"
+  },
+  {
+    "id": "T3_MEAL_OMELETTE_AVALON",
+    "name": "Avalonian Chicken Omelette",
+    "tier": 3,
+    "enchantments": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "meal"
+  },
+  {
+    "id": "T3_MEAL_OMELETTE_FISH",
+    "name": "Lowriver Crab Omelette",
+    "tier": 3,
+    "enchantments": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "meal"
+  },
+  {
+    "id": "T3_MEAL_PIE",
+    "name": "Chicken Pie",
+    "tier": 3,
+    "enchantments": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "meal"
+  },
+  {
+    "id": "T3_MEAL_PIE_FISH",
+    "name": "Upland Coldeye Pie",
+    "tier": 3,
+    "enchantments": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "meal"
+  },
+  {
+    "id": "T3_MEAL_ROAST",
+    "name": "Roast Chicken",
+    "tier": 3,
+    "enchantments": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "meal"
+  },
+  {
+    "id": "T3_MEAL_ROAST_FISH",
+    "name": "Roasted Whitefog Snapper",
+    "tier": 3,
+    "enchantments": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "meal"
+  },
+  {
+    "id": "T3_MEAL_SOUP",
+    "name": "Wheat Soup",
+    "tier": 3,
+    "enchantments": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "meal"
+  },
+  {
+    "id": "T3_MEAL_SOUP_FISH",
+    "name": "Murkwater Clam Soup",
+    "tier": 3,
+    "enchantments": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "meal"
+  },
+  {
+    "id": "T3_MEAT",
+    "name": "Raw Chicken",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T3_POTION_ACID",
+    "name": "Minor Acid Potion",
+    "tier": 3,
+    "enchantments": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "potion"
+  },
+  {
+    "id": "T3_POTION_CLEANSE2",
+    "name": "Minor Cleansing Potion",
+    "tier": 3,
+    "enchantments": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "potion"
+  },
+  {
+    "id": "T3_POTION_MOB_RESET",
+    "name": "Minor Calming Potion",
+    "tier": 3,
+    "enchantments": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "potion"
+  },
+  {
+    "id": "T3_POTION_REVIVE",
+    "name": "Minor Gigantify Potion",
+    "tier": 3,
+    "enchantments": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "potion"
+  },
+  {
+    "id": "T3_POTION_SLOWFIELD",
+    "name": "Minor Sticky Potion",
+    "tier": 3,
+    "enchantments": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "potion"
+  },
+  {
+    "id": "T3_POTION_STONESKIN",
+    "name": "Minor Resistance Potion",
+    "tier": 3,
+    "enchantments": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "potion"
+  },
+  {
+    "id": "T3_RANDOM_DUNGEON_SOLO_TOKEN_1",
+    "name": "Journeyman's Dungeon Map (Solo)",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T3_TRASH",
+    "name": "Trash",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T3_VANITY_CONSUMABLE_FIREWORKS_BLUE",
+    "name": "Royal Blue Fireworks",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T3_VANITY_CONSUMABLE_FIREWORKS_GREEN",
+    "name": "Royal Green Fireworks",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T3_VANITY_CONSUMABLE_FIREWORKS_RED",
+    "name": "Royal Red Fireworks",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T3_VANITY_CONSUMABLE_FIREWORKS_YELLOW",
+    "name": "Royal Yellow Fireworks",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T3_WHEAT",
+    "name": "Sheaf of Wheat",
+    "tier": 3,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T4_BACKPACK_GATHERER_FISH",
+    "name": "Adept's Fisherman Backpack",
+    "tier": 4,
+    "enchantments": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "maxEnchantment": 4,
+    "category": "other"
+  },
+  {
+    "id": "T4_BREAD",
+    "name": "Bread",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T4_BURDOCK",
+    "name": "Crenellated Burdock",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T4_BUTTER",
+    "name": "Goat's Butter",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T4_ESSENCE",
+    "name": "Adept's Faded Essence",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T4_ESSENCE_POTION",
+    "name": "Adept's Arcane Essence",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T4_FARM_BURDOCK_SEED",
+    "name": "Crenellated Burdock Seeds",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "farming"
+  },
+  {
+    "id": "T4_FARM_GIANTSTAG_BABY",
+    "name": "Adept's Fawn",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "farming"
+  },
+  {
+    "id": "T4_FARM_GIANTSTAG_GROWN",
+    "name": "Adept's Tame Giant Stag",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "farming"
+  },
+  {
+    "id": "T4_FARM_GOAT_BABY",
+    "name": "Kid",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "farming"
+  },
+  {
+    "id": "T4_FARM_GOAT_GROWN",
+    "name": "Goat",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "farming"
+  },
+  {
+    "id": "T4_FARM_HORSE_BABY",
+    "name": "Adept's Foal",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "farming"
+  },
+  {
+    "id": "T4_FARM_HORSE_GROWN",
+    "name": "Adept's Horse",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "farming"
+  },
+  {
+    "id": "T4_FARM_OX_BABY",
+    "name": "Adept's Ox Calf",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "farming"
+  },
+  {
+    "id": "T4_FARM_OX_GROWN",
+    "name": "Adept's Ox",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "farming"
+  },
+  {
+    "id": "T4_FARM_TURNIP_SEED",
+    "name": "Turnip Seeds",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "farming"
+  },
+  {
+    "id": "T4_FISH_FRESHWATER_ALL_COMMON",
+    "name": "Bluescale Pike",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "fish"
+  },
+  {
+    "id": "T4_FISH_SALTWATER_ALL_COMMON",
+    "name": "Bluescale Cod",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "fish"
+  },
+  {
+    "id": "T4_FURNITUREITEM_BED",
+    "name": "Adept's Bed",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T4_FURNITUREITEM_CHEST",
+    "name": "Adept's Chest",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T4_FURNITUREITEM_GUILDBANNER_FABRIC",
+    "name": "Guild Banner on Fabric",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T4_FURNITUREITEM_GUILDBANNER_SHIELD",
+    "name": "Guild Banner on Shield",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T4_FURNITUREITEM_REPAIRKIT",
+    "name": "Adept's Repair Kit",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T4_FURNITUREITEM_TABLE",
+    "name": "Adept's Table",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T4_FURNITUREITEM_TROPHY_FISH",
+    "name": "Pike Trophy",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T4_FURNITUREITEM_TROPHY_GENERAL",
+    "name": "Ancient Scripture",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T4_FURNITUREITEM_TROPHY_MERCENARY",
+    "name": "Adept Mercenary's Trophy",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T4_GVGSEASONREWARD_FAMEBUFF",
+    "name": "Adept's Knight's Vow",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T4_JOURNAL_FISHING",
+    "name": "Adept Fisherman's Journal (Partially Full)",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T4_JOURNAL_FISHING_EMPTY",
+    "name": "Adept Fisherman's Journal (Empty)",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T4_JOURNAL_FISHING_FULL",
+    "name": "Adept Fisherman's Journal (Full)",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T4_JOURNAL_HUNTER",
+    "name": "Adept Fletcher's Journal (Partially Full)",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T4_JOURNAL_HUNTER_EMPTY",
+    "name": "Adept Fletcher's Journal (Empty)",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T4_JOURNAL_HUNTER_FULL",
+    "name": "Adept Fletcher's Journal (Full)",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T4_JOURNAL_MAGE",
+    "name": "Adept Imbuer's Journal (Partially Full)",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T4_JOURNAL_MAGE_EMPTY",
+    "name": "Adept Imbuer's Journal (Empty)",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T4_JOURNAL_MAGE_FULL",
+    "name": "Adept Imbuer's Journal (Full)",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T4_JOURNAL_MERCENARY",
+    "name": "Adept Mercenary's Journal (Partially Full)",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T4_JOURNAL_MERCENARY_EMPTY",
+    "name": "Adept Mercenary's Journal (Empty)",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T4_JOURNAL_MERCENARY_FULL",
+    "name": "Adept Mercenary's Journal (Full)",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T4_JOURNAL_STONE",
+    "name": "Adept Stonecutter's Journal (Partially Full)",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T4_JOURNAL_STONE_EMPTY",
+    "name": "Adept Stonecutter's Journal (Empty)",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T4_JOURNAL_STONE_FULL",
+    "name": "Adept Stonecutter's Journal (Full)",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T4_JOURNAL_TOOLMAKER",
+    "name": "Adept Tinker's Journal (Partially Full)",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T4_JOURNAL_TOOLMAKER_EMPTY",
+    "name": "Adept Tinker's Journal (Empty)",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T4_JOURNAL_TOOLMAKER_FULL",
+    "name": "Adept Tinker's Journal (Full)",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T4_JOURNAL_TROPHY_FISHING",
+    "name": "Adept Fisherman's Trophy Journal (Partially Full)",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T4_JOURNAL_TROPHY_FISHING_EMPTY",
+    "name": "Adept Fisherman's Trophy Journal (Empty)",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T4_JOURNAL_TROPHY_FISHING_FULL",
+    "name": "Adept Fisherman's Trophy Journal (Full)",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T4_JOURNAL_TROPHY_GENERAL",
+    "name": "Adept's Generalist Trophy Journal (Partially Full)",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T4_JOURNAL_TROPHY_GENERAL_EMPTY",
+    "name": "Adept's Generalist Trophy Journal (Empty)",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T4_JOURNAL_TROPHY_GENERAL_FULL",
+    "name": "Adept's Generalist Trophy Journal (Full)",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T4_JOURNAL_TROPHY_MERCENARY",
+    "name": "Adept Mercenary's Trophy Journal (Partially Full)",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T4_JOURNAL_TROPHY_MERCENARY_EMPTY",
+    "name": "Adept Mercenary's Trophy Journal (Empty)",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T4_JOURNAL_TROPHY_MERCENARY_FULL",
+    "name": "Adept Mercenary's Trophy Journal (Full)",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T4_JOURNAL_TROPHY_STONE",
+    "name": "Adept Stonecutter's Trophy Journal (Partially Full)",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T4_JOURNAL_TROPHY_STONE_EMPTY",
+    "name": "Adept Stonecutter's Trophy Journal (Empty)",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T4_JOURNAL_TROPHY_STONE_FULL",
+    "name": "Adept Stonecutter's Trophy Journal (Full)",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T4_JOURNAL_WARRIOR",
+    "name": "Adept Blacksmith's Journal (Partially Full)",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T4_JOURNAL_WARRIOR_EMPTY",
+    "name": "Adept Blacksmith's Journal (Empty)",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T4_JOURNAL_WARRIOR_FULL",
+    "name": "Adept Blacksmith's Journal (Full)",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T4_LABOURER_CONTRACT_FISHERMAN",
+    "name": "Adept Fisherman Contract",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T4_LABOURER_CONTRACT_HUNTER",
+    "name": "Adept Fletcher Contract",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T4_LABOURER_CONTRACT_MAGE",
+    "name": "Adept Imbuer Contract",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T4_LABOURER_CONTRACT_MERCENARY",
+    "name": "Adept Mercenary Contract",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T4_LABOURER_CONTRACT_STONE",
+    "name": "Adept Stonecutter Contract",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T4_LABOURER_CONTRACT_TOOLMAKER",
+    "name": "Adept Tinker Contract",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T4_LABOURER_CONTRACT_WARRIOR",
+    "name": "Adept Blacksmith Contract",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T4_LOOTCHEST_CRYSTAL_LEAGUE",
+    "name": "Adept's Crystal League Chest",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T4_MEAL_SALAD",
+    "name": "Turnip Salad",
+    "tier": 4,
+    "enchantments": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "meal"
+  },
+  {
+    "id": "T4_MEAL_SALAD_FISH",
+    "name": "Midwater Octopus Salad",
+    "tier": 4,
+    "enchantments": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "meal"
+  },
+  {
+    "id": "T4_MEAL_SANDWICH",
+    "name": "Goat Sandwich",
+    "tier": 4,
+    "enchantments": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "meal"
+  },
+  {
+    "id": "T4_MEAL_SANDWICH_AVALON",
+    "name": "Avalonian Goat Sandwich",
+    "tier": 4,
+    "enchantments": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "meal"
+  },
+  {
+    "id": "T4_MEAL_SANDWICH_FISH",
+    "name": "Stonestream Lurcher Sandwich",
+    "tier": 4,
+    "enchantments": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "meal"
+  },
+  {
+    "id": "T4_MEAL_STEW",
+    "name": "Goat Stew",
+    "tier": 4,
+    "enchantments": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "meal"
+  },
+  {
+    "id": "T4_MEAL_STEW_AVALON",
+    "name": "Avalonian Goat Stew",
+    "tier": 4,
+    "enchantments": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "meal"
+  },
+  {
+    "id": "T4_MEAL_STEW_FISH",
+    "name": "Greenriver Eel Stew",
+    "tier": 4,
+    "enchantments": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "meal"
+  },
+  {
+    "id": "T4_MEAT",
+    "name": "Raw Goat",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T4_MILK",
+    "name": "Goat's Milk",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T4_POTION_BERSERK",
+    "name": "Minor Berserk Potion",
+    "tier": 4,
+    "enchantments": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "potion"
+  },
+  {
+    "id": "T4_POTION_COOLDOWN",
+    "name": "Minor Poison Potion",
+    "tier": 4,
+    "enchantments": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "potion"
+  },
+  {
+    "id": "T4_POTION_ENERGY",
+    "name": "Energy Potion",
+    "tier": 4,
+    "enchantments": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "potion"
+  },
+  {
+    "id": "T4_POTION_GATHER",
+    "name": "Minor Gathering Potion",
+    "tier": 4,
+    "enchantments": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "potion"
+  },
+  {
+    "id": "T4_POTION_HEAL",
+    "name": "Healing Potion",
+    "tier": 4,
+    "enchantments": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "potion"
+  },
+  {
+    "id": "T4_POTION_LAVA",
+    "name": "Minor Hellfire Potion",
+    "tier": 4,
+    "enchantments": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "potion"
+  },
+  {
+    "id": "T4_POTION_TORNADO",
+    "name": "Minor Tornado in a Bottle",
+    "tier": 4,
+    "enchantments": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "potion"
+  },
+  {
+    "id": "T4_RANDOM_DUNGEON_SOLO_TOKEN_1",
+    "name": "Adept's Dungeon Map (Solo)",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T4_RANDOM_DUNGEON_SOLO_TOKEN_2",
+    "name": "Uncommon Adept's Dungeon Map (Solo)",
+    "tier": 4,
+    "enchantments": [
+      1
+    ],
+    "maxEnchantment": 1,
+    "category": "other"
+  },
+  {
+    "id": "T4_RANDOM_DUNGEON_SOLO_TOKEN_3",
+    "name": "Rare Adept's Dungeon Map (Solo)",
+    "tier": 4,
+    "enchantments": [
+      2
+    ],
+    "maxEnchantment": 2,
+    "category": "other"
+  },
+  {
+    "id": "T4_RANDOM_DUNGEON_SOLO_TOKEN_4",
+    "name": "Exceptional Adept's Dungeon Map (Solo)",
+    "tier": 4,
+    "enchantments": [
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "other"
+  },
+  {
+    "id": "T4_RANDOM_DUNGEON_TOKEN_1",
+    "name": "Adept's Dungeon Map (Group)",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T4_RANDOM_DUNGEON_TOKEN_2",
+    "name": "Uncommon Adept's Dungeon Map (Group)",
+    "tier": 4,
+    "enchantments": [
+      1
+    ],
+    "maxEnchantment": 1,
+    "category": "other"
+  },
+  {
+    "id": "T4_RANDOM_DUNGEON_TOKEN_3",
+    "name": "Rare Adept's Dungeon Map (Group)",
+    "tier": 4,
+    "enchantments": [
+      2
+    ],
+    "maxEnchantment": 2,
+    "category": "other"
+  },
+  {
+    "id": "T4_RANDOM_DUNGEON_TOKEN_4",
+    "name": "Exceptional Adept's Dungeon Map (Group)",
+    "tier": 4,
+    "enchantments": [
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "other"
+  },
+  {
+    "id": "T4_SIEGE_BANNER",
+    "name": "Adept's Siege Banner",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T4_SKILLBOOK_STANDARD",
+    "name": "Adept's Tome of Insight",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "skillbook"
+  },
+  {
+    "id": "T4_TRASH",
+    "name": "Trash",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T4_TURNIP",
+    "name": "Turnips",
+    "tier": 4,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T5_ALCHEMY_RARE_DIREBEAR",
+    "name": "Fine Spirit Paws",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T5_ALCHEMY_RARE_EAGLE",
+    "name": "Fine Dawnfeather",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T5_ALCHEMY_RARE_ELEMENTAL",
+    "name": "Fine Runestone Tooth",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T5_ALCHEMY_RARE_ENT",
+    "name": "Fine Sylvian Root",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T5_ALCHEMY_RARE_IMP",
+    "name": "Fine Imp's Horn",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T5_ALCHEMY_RARE_PANTHER",
+    "name": "Fine Shadow Claws",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T5_ALCHEMY_RARE_WEREWOLF",
+    "name": "Fine Werewolf Fangs",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T5_BACKPACK_GATHERER_FISH",
+    "name": "Expert's Fisherman Backpack",
+    "tier": 5,
+    "enchantments": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "maxEnchantment": 4,
+    "category": "other"
+  },
+  {
+    "id": "T5_CORRUPTED_NONLETHAL_MAP",
+    "name": "Corrupted Dungeon Map (Hunter)",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T5_EGG",
+    "name": "Goose Eggs",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T5_ESSENCE",
+    "name": "Expert's Faded Essence",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T5_ESSENCE_POTION",
+    "name": "Expert's Arcane Essence",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T5_FARM_COUGAR_BABY",
+    "name": "Swiftclaw Cub",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "farming"
+  },
+  {
+    "id": "T5_FARM_COUGAR_GROWN",
+    "name": "Tame Swiftclaw",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "farming"
+  },
+  {
+    "id": "T5_FARM_DIREBEAR_FW_FORTSTERLING_BABY",
+    "name": "Winter Bear Cub",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "farming"
+  },
+  {
+    "id": "T5_FARM_DIREBEAR_FW_FORTSTERLING_GROWN",
+    "name": "Tame Winter Bear",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "farming"
+  },
+  {
+    "id": "T5_FARM_DIREBOAR_FW_LYMHURST_BABY",
+    "name": "Wild Boarlet",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "farming"
+  },
+  {
+    "id": "T5_FARM_DIREBOAR_FW_LYMHURST_GROWN",
+    "name": "Tame Wild Boar",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "farming"
+  },
+  {
+    "id": "T5_FARM_GOOSE_BABY",
+    "name": "Gosling",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "farming"
+  },
+  {
+    "id": "T5_FARM_GOOSE_GROWN",
+    "name": "Goose",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "farming"
+  },
+  {
+    "id": "T5_FARM_GREYWOLF_FW_CAERLEON_BABY",
+    "name": "Caerleon Greywolf Pup",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "farming"
+  },
+  {
+    "id": "T5_FARM_GREYWOLF_FW_CAERLEON_GROWN",
+    "name": "Tame Greywolf",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "farming"
+  },
+  {
+    "id": "T5_FARM_HORSE_BABY",
+    "name": "Expert's Foal",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "farming"
+  },
+  {
+    "id": "T5_FARM_HORSE_GROWN",
+    "name": "Expert's Horse",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "farming"
+  },
+  {
+    "id": "T5_FARM_MOABIRD_FW_BRIDGEWATCH_BABY",
+    "name": "Baby Moabird",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "farming"
+  },
+  {
+    "id": "T5_FARM_MOABIRD_FW_BRIDGEWATCH_GROWN",
+    "name": "Tame Moabird",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "farming"
+  },
+  {
+    "id": "T5_FARM_OWL_FW_BRECILIEN_BABY",
+    "name": "Mystic Owlet",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "farming"
+  },
+  {
+    "id": "T5_FARM_OWL_FW_BRECILIEN_GROWN",
+    "name": "Tame Mystic Owl",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "farming"
+  },
+  {
+    "id": "T5_FARM_OX_BABY",
+    "name": "Expert's Ox Calf",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "farming"
+  },
+  {
+    "id": "T5_FARM_OX_GROWN",
+    "name": "Expert's Ox",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "farming"
+  },
+  {
+    "id": "T5_FARM_RAM_FW_MARTLOCK_BABY",
+    "name": "Bighorn Ram Lamb",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "farming"
+  },
+  {
+    "id": "T5_FARM_RAM_FW_MARTLOCK_GROWN",
+    "name": "Tame Bighorn Ram",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "farming"
+  },
+  {
+    "id": "T5_FARM_SPIDER_HELL_BABY",
+    "name": "Hellspinner Baby",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "farming"
+  },
+  {
+    "id": "T5_FARM_SPIDER_HELL_GROWN",
+    "name": "Tame Hellspinner",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "farming"
+  },
+  {
+    "id": "T5_FARM_SWAMPDRAGON_FW_THETFORD_BABY",
+    "name": "Baby Swamp Salamander",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "farming"
+  },
+  {
+    "id": "T5_FARM_SWAMPDRAGON_FW_THETFORD_GROWN",
+    "name": "Tame Swamp Salamander",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "farming"
+  },
+  {
+    "id": "T5_FARM_TEASEL_SEED",
+    "name": "Dragon Teasel Seeds",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "farming"
+  },
+  {
+    "id": "T5_FISH_FRESHWATER_ALL_COMMON",
+    "name": "Spotted Trout",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "fish"
+  },
+  {
+    "id": "T5_FISH_FRESHWATER_AVALON_RARE",
+    "name": "Clearhaze Snapper",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "fish"
+  },
+  {
+    "id": "T5_FISH_FRESHWATER_FOREST_RARE",
+    "name": "Redspring Eel",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "fish"
+  },
+  {
+    "id": "T5_FISH_FRESHWATER_HIGHLANDS_RARE",
+    "name": "Rushwater Lurcher",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "fish"
+  },
+  {
+    "id": "T5_FISH_FRESHWATER_MOUNTAIN_RARE",
+    "name": "Mountain Blindeye",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "fish"
+  },
+  {
+    "id": "T5_FISH_FRESHWATER_STEPPE_RARE",
+    "name": "Drybrook Crab",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "fish"
+  },
+  {
+    "id": "T5_FISH_FRESHWATER_SWAMP_RARE",
+    "name": "Murkwater Clam",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "fish"
+  },
+  {
+    "id": "T5_FISH_SALTWATER_ALL_COMMON",
+    "name": "Spotted Wolffish",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "fish"
+  },
+  {
+    "id": "T5_FISH_SALTWATER_ALL_RARE",
+    "name": "Midwater Octopus",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "fish"
+  },
+  {
+    "id": "T5_FISHINGBAIT",
+    "name": "Special Fish Bait",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T5_FURNITUREITEM_BED",
+    "name": "Expert's Bed",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T5_FURNITUREITEM_CHEST",
+    "name": "Expert's Chest",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T5_FURNITUREITEM_GUILDBANNER_FABRIC",
+    "name": "Guild Banner on Fabric",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T5_FURNITUREITEM_GUILDBANNER_SHIELD",
+    "name": "Guild Banner on Shield",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T5_FURNITUREITEM_REPAIRKIT",
+    "name": "Expert's Repair Kit",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T5_FURNITUREITEM_TABLE",
+    "name": "Expert's Table",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T5_FURNITUREITEM_TROPHY_FISH",
+    "name": "Trout Trophy",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T5_FURNITUREITEM_TROPHY_GENERAL",
+    "name": "Tome of Knowledge",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T5_FURNITUREITEM_TROPHY_MERCENARY",
+    "name": "Expert Mercenary's Trophy",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T5_GVGSEASONREWARD_FAMEBUFF",
+    "name": "Expert's Knight's Vow",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T5_HELLGATE_10V10_NON_LETHAL_1_MAP",
+    "name": "Expert's Hellgate Ritual (10v10 - Nonlethal)",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T5_HELLGATE_2V2_NON_LETHAL_1_MAP",
+    "name": "Expert's Hellgate Ritual (2v2 - Nonlethal)",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T5_HELLGATE_5V5_NON_LETHAL_1_MAP",
+    "name": "Expert's Hellgate Ritual (5v5 - Nonlethal)",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T5_JOURNAL_FISHING",
+    "name": "Expert Fisherman's Journal (Partially Full)",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T5_JOURNAL_FISHING_EMPTY",
+    "name": "Expert Fisherman's Journal (Empty)",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T5_JOURNAL_FISHING_FULL",
+    "name": "Expert Fisherman's Journal (Full)",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T5_JOURNAL_HUNTER",
+    "name": "Expert Fletcher's Journal (Partially Full)",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T5_JOURNAL_HUNTER_EMPTY",
+    "name": "Expert Fletcher's Journal (Empty)",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T5_JOURNAL_HUNTER_FULL",
+    "name": "Expert Fletcher's Journal (Full)",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T5_JOURNAL_MAGE",
+    "name": "Expert Imbuer's Journal (Partially Full)",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T5_JOURNAL_MAGE_EMPTY",
+    "name": "Expert Imbuer's Journal (Empty)",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T5_JOURNAL_MAGE_FULL",
+    "name": "Expert Imbuer's Journal (Full)",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T5_JOURNAL_MERCENARY",
+    "name": "Expert Mercenary's Journal (Partially Full)",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T5_JOURNAL_MERCENARY_EMPTY",
+    "name": "Expert Mercenary's Journal (Empty)",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T5_JOURNAL_MERCENARY_FULL",
+    "name": "Expert Mercenary's Journal (Full)",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T5_JOURNAL_STONE",
+    "name": "Expert Stonecutter's Journal (Partially Full)",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T5_JOURNAL_STONE_EMPTY",
+    "name": "Expert Stonecutter's Journal (Empty)",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T5_JOURNAL_STONE_FULL",
+    "name": "Expert Stonecutter's Journal (Full)",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T5_JOURNAL_TOOLMAKER",
+    "name": "Expert Tinker's Journal (Partially Full)",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T5_JOURNAL_TOOLMAKER_EMPTY",
+    "name": "Expert Tinker's Journal (Empty)",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T5_JOURNAL_TOOLMAKER_FULL",
+    "name": "Expert Tinker's Journal (Full)",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T5_JOURNAL_TROPHY_FISHING",
+    "name": "Expert Fisherman's Trophy Journal (Partially Full)",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T5_JOURNAL_TROPHY_FISHING_EMPTY",
+    "name": "Expert Fisherman's Trophy Journal (Empty)",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T5_JOURNAL_TROPHY_FISHING_FULL",
+    "name": "Expert Fisherman's Trophy Journal (Full)",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T5_JOURNAL_TROPHY_GENERAL",
+    "name": "Expert's Generalist Trophy Journal (Partially Full)",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T5_JOURNAL_TROPHY_GENERAL_EMPTY",
+    "name": "Expert's Generalist Trophy Journal (Empty)",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T5_JOURNAL_TROPHY_GENERAL_FULL",
+    "name": "Expert's Generalist Trophy Journal (Full)",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T5_JOURNAL_TROPHY_MERCENARY",
+    "name": "Expert Mercenary's Trophy Journal (Partially Full)",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T5_JOURNAL_TROPHY_MERCENARY_EMPTY",
+    "name": "Expert Mercenary's Trophy Journal (Empty)",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T5_JOURNAL_TROPHY_MERCENARY_FULL",
+    "name": "Expert Mercenary's Trophy Journal (Full)",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T5_JOURNAL_TROPHY_STONE",
+    "name": "Expert Stonecutter's Trophy Journal (Partially Full)",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T5_JOURNAL_TROPHY_STONE_EMPTY",
+    "name": "Expert Stonecutter's Trophy Journal (Empty)",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T5_JOURNAL_TROPHY_STONE_FULL",
+    "name": "Expert Stonecutter's Trophy Journal (Full)",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T5_JOURNAL_WARRIOR",
+    "name": "Expert Blacksmith's Journal (Partially Full)",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T5_JOURNAL_WARRIOR_EMPTY",
+    "name": "Expert Blacksmith's Journal (Empty)",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T5_JOURNAL_WARRIOR_FULL",
+    "name": "Expert Blacksmith's Journal (Full)",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T5_LABOURER_CONTRACT_FISHERMAN",
+    "name": "Expert Fisherman Contract",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T5_LABOURER_CONTRACT_HUNTER",
+    "name": "Expert Fletcher Contract",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T5_LABOURER_CONTRACT_MAGE",
+    "name": "Expert Imbuer Contract",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T5_LABOURER_CONTRACT_MERCENARY",
+    "name": "Expert Mercenary Contract",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T5_LABOURER_CONTRACT_STONE",
+    "name": "Expert Stonecutter Contract",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T5_LABOURER_CONTRACT_TOOLMAKER",
+    "name": "Expert Tinker Contract",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T5_LABOURER_CONTRACT_WARRIOR",
+    "name": "Expert Blacksmith Contract",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T5_LOOTCHEST_CRYSTAL_LEAGUE",
+    "name": "Expert's Crystal League Chest",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T5_MEAL_OMELETTE",
+    "name": "Goose Omelette",
+    "tier": 5,
+    "enchantments": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "meal"
+  },
+  {
+    "id": "T5_MEAL_OMELETTE_AVALON",
+    "name": "Avalonian Goose Omelette",
+    "tier": 5,
+    "enchantments": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "meal"
+  },
+  {
+    "id": "T5_MEAL_OMELETTE_FISH",
+    "name": "Drybrook Crab Omelette",
+    "tier": 5,
+    "enchantments": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "meal"
+  },
+  {
+    "id": "T5_MEAL_PIE",
+    "name": "Goose Pie",
+    "tier": 5,
+    "enchantments": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "meal"
+  },
+  {
+    "id": "T5_MEAL_PIE_FISH",
+    "name": "Mountain Blindeye Pie",
+    "tier": 5,
+    "enchantments": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "meal"
+  },
+  {
+    "id": "T5_MEAL_ROAST",
+    "name": "Roast Goose",
+    "tier": 5,
+    "enchantments": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "meal"
+  },
+  {
+    "id": "T5_MEAL_ROAST_FISH",
+    "name": "Roasted Clearhaze Snapper",
+    "tier": 5,
+    "enchantments": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "meal"
+  },
+  {
+    "id": "T5_MEAL_SOUP",
+    "name": "Cabbage Soup",
+    "tier": 5,
+    "enchantments": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "meal"
+  },
+  {
+    "id": "T5_MEAL_SOUP_FISH",
+    "name": "Blackbog Clam Soup",
+    "tier": 5,
+    "enchantments": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "meal"
+  },
+  {
+    "id": "T5_MEAT",
+    "name": "Raw Goose",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T5_POTION_ACID",
+    "name": "Acid Potion",
+    "tier": 5,
+    "enchantments": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "potion"
+  },
+  {
+    "id": "T5_POTION_CLEANSE2",
+    "name": "Cleansing Potion",
+    "tier": 5,
+    "enchantments": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "potion"
+  },
+  {
+    "id": "T5_POTION_MOB_RESET",
+    "name": "Calming Potion",
+    "tier": 5,
+    "enchantments": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "potion"
+  },
+  {
+    "id": "T5_POTION_REVIVE",
+    "name": "Gigantify Potion",
+    "tier": 5,
+    "enchantments": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "potion"
+  },
+  {
+    "id": "T5_POTION_SLOWFIELD",
+    "name": "Sticky Potion",
+    "tier": 5,
+    "enchantments": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "potion"
+  },
+  {
+    "id": "T5_POTION_STONESKIN",
+    "name": "Resistance Potion",
+    "tier": 5,
+    "enchantments": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "potion"
+  },
+  {
+    "id": "T5_RANDOM_DUNGEON_SOLO_TOKEN_1",
+    "name": "Expert's Dungeon Map (Solo)",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T5_RANDOM_DUNGEON_SOLO_TOKEN_2",
+    "name": "Uncommon Expert's Dungeon Map (Solo)",
+    "tier": 5,
+    "enchantments": [
+      1
+    ],
+    "maxEnchantment": 1,
+    "category": "other"
+  },
+  {
+    "id": "T5_RANDOM_DUNGEON_SOLO_TOKEN_3",
+    "name": "Rare Expert's Dungeon Map (Solo)",
+    "tier": 5,
+    "enchantments": [
+      2
+    ],
+    "maxEnchantment": 2,
+    "category": "other"
+  },
+  {
+    "id": "T5_RANDOM_DUNGEON_SOLO_TOKEN_4",
+    "name": "Exceptional Expert's Dungeon Map (Solo)",
+    "tier": 5,
+    "enchantments": [
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "other"
+  },
+  {
+    "id": "T5_RANDOM_DUNGEON_TOKEN_1",
+    "name": "Expert's Dungeon Map (Group)",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T5_RANDOM_DUNGEON_TOKEN_2",
+    "name": "Uncommon Expert's Dungeon Map (Group)",
+    "tier": 5,
+    "enchantments": [
+      1
+    ],
+    "maxEnchantment": 1,
+    "category": "other"
+  },
+  {
+    "id": "T5_RANDOM_DUNGEON_TOKEN_3",
+    "name": "Rare Expert's Dungeon Map (Group)",
+    "tier": 5,
+    "enchantments": [
+      2
+    ],
+    "maxEnchantment": 2,
+    "category": "other"
+  },
+  {
+    "id": "T5_RANDOM_DUNGEON_TOKEN_4",
+    "name": "Exceptional Expert's Dungeon Map (Group)",
+    "tier": 5,
+    "enchantments": [
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "other"
+  },
+  {
+    "id": "T5_SIEGE_BANNER",
+    "name": "Expert's Siege Banner",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T5_TEASEL",
+    "name": "Dragon Teasel",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T5_TRASH",
+    "name": "Trash",
+    "tier": 5,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T6_ALCOHOL",
+    "name": "Potato Schnapps",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T6_BACKPACK_GATHERER_FISH",
+    "name": "Master's Fisherman Backpack",
+    "tier": 6,
+    "enchantments": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "maxEnchantment": 4,
+    "category": "other"
+  },
+  {
+    "id": "T6_BUTTER",
+    "name": "Sheep's Butter",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T6_CORRUPTED_LETHAL_MAP",
+    "name": "Corrupted Dungeon Map (Stalker/Slayer)",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T6_ESSENCE",
+    "name": "Master's Faded Essence",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T6_ESSENCE_POTION",
+    "name": "Master's Arcane Essence",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T6_FARM_DIREWOLF_BABY",
+    "name": "Direwolf Pup",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "farming"
+  },
+  {
+    "id": "T6_FARM_DIREWOLF_GROWN",
+    "name": "Tame Direwolf",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "farming"
+  },
+  {
+    "id": "T6_FARM_FOXGLOVE_SEED",
+    "name": "Elusive Foxglove Seeds",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "farming"
+  },
+  {
+    "id": "T6_FARM_GIANTSTAG_BABY",
+    "name": "Master's Fawn",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "farming"
+  },
+  {
+    "id": "T6_FARM_GIANTSTAG_GROWN",
+    "name": "Master's Tame Giant Stag",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "farming"
+  },
+  {
+    "id": "T6_FARM_GIANTSTAG_MOOSE_BABY",
+    "name": "Moose Calf",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "farming"
+  },
+  {
+    "id": "T6_FARM_GIANTSTAG_MOOSE_GROWN",
+    "name": "Tame Moose",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "farming"
+  },
+  {
+    "id": "T6_FARM_HORSE_BABY",
+    "name": "Master's Foal",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "farming"
+  },
+  {
+    "id": "T6_FARM_HORSE_GROWN",
+    "name": "Master's Horse",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "farming"
+  },
+  {
+    "id": "T6_FARM_OX_BABY",
+    "name": "Master's Ox Calf",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "farming"
+  },
+  {
+    "id": "T6_FARM_OX_GROWN",
+    "name": "Master's Ox",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "farming"
+  },
+  {
+    "id": "T6_FARM_POTATO_SEED",
+    "name": "Potato Seeds",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "farming"
+  },
+  {
+    "id": "T6_FARM_SHEEP_BABY",
+    "name": "Lamb",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "farming"
+  },
+  {
+    "id": "T6_FARM_SHEEP_GROWN",
+    "name": "Sheep",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "farming"
+  },
+  {
+    "id": "T6_FISH_FRESHWATER_ALL_COMMON",
+    "name": "Brightscale Zander",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "fish"
+  },
+  {
+    "id": "T6_FISH_SALTWATER_ALL_COMMON",
+    "name": "Strongfin Salmon",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "fish"
+  },
+  {
+    "id": "T6_FOXGLOVE",
+    "name": "Elusive Foxglove",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T6_FURNITUREITEM_BED",
+    "name": "Master's Bed",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T6_FURNITUREITEM_REPAIRKIT",
+    "name": "Master's Repair Kit",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T6_FURNITUREITEM_TABLE",
+    "name": "Master's Table",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T6_FURNITUREITEM_TROPHY_FISH",
+    "name": "Zander Trophy",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T6_FURNITUREITEM_TROPHY_GENERAL",
+    "name": "Encyclopedia of Power",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T6_FURNITUREITEM_TROPHY_MERCENARY",
+    "name": "Master Mercenary's Trophy",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T6_GENERAL_FAMEBUFF",
+    "name": "Scroll of Fame",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T6_GVGSEASONREWARD_FAMEBUFF",
+    "name": "Master's Knight's Vow",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T6_HELLGATE_2V2_LETHAL_1_MAP",
+    "name": "Master's Hellgate Ritual (2v2 - Lethal)",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T6_JOURNAL_FISHING",
+    "name": "Master Fisherman's Journal (Partially Full)",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T6_JOURNAL_FISHING_EMPTY",
+    "name": "Master Fisherman's Journal (Empty)",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T6_JOURNAL_FISHING_FULL",
+    "name": "Master Fisherman's Journal (Full)",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T6_JOURNAL_HUNTER",
+    "name": "Master Fletcher's Journal (Partially Full)",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T6_JOURNAL_HUNTER_EMPTY",
+    "name": "Master Fletcher's Journal (Empty)",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T6_JOURNAL_HUNTER_FULL",
+    "name": "Master Fletcher's Journal (Full)",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T6_JOURNAL_MAGE",
+    "name": "Master Imbuer's Journal (Partially Full)",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T6_JOURNAL_MAGE_EMPTY",
+    "name": "Master Imbuer's Journal (Empty)",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T6_JOURNAL_MAGE_FULL",
+    "name": "Master Imbuer's Journal (Full)",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T6_JOURNAL_MERCENARY",
+    "name": "Master Mercenary's Journal (Partially Full)",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T6_JOURNAL_MERCENARY_EMPTY",
+    "name": "Master Mercenary's Journal (Empty)",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T6_JOURNAL_MERCENARY_FULL",
+    "name": "Master Mercenary's Journal (Full)",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T6_JOURNAL_STONE",
+    "name": "Master Stonecutter's Journal (Partially Full)",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T6_JOURNAL_STONE_EMPTY",
+    "name": "Master Stonecutter's Journal (Empty)",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T6_JOURNAL_STONE_FULL",
+    "name": "Master Stonecutter's Journal (Full)",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T6_JOURNAL_TOOLMAKER",
+    "name": "Master Tinker's Journal (Partially Full)",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T6_JOURNAL_TOOLMAKER_EMPTY",
+    "name": "Master Tinker's Journal (Empty)",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T6_JOURNAL_TOOLMAKER_FULL",
+    "name": "Master Tinker's Journal (Full)",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T6_JOURNAL_TROPHY_FISHING",
+    "name": "Master Fisherman's Trophy Journal (Partially Full)",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T6_JOURNAL_TROPHY_FISHING_EMPTY",
+    "name": "Master Fisherman's Trophy Journal (Empty)",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T6_JOURNAL_TROPHY_FISHING_FULL",
+    "name": "Master Fisherman's Trophy Journal (Full)",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T6_JOURNAL_TROPHY_GENERAL",
+    "name": "Master's Generalist Trophy Journal (Partially Full)",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T6_JOURNAL_TROPHY_GENERAL_EMPTY",
+    "name": "Master's Generalist Trophy Journal (Empty)",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T6_JOURNAL_TROPHY_GENERAL_FULL",
+    "name": "Master's Generalist Trophy Journal (Full)",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T6_JOURNAL_TROPHY_MERCENARY",
+    "name": "Master Mercenary's Trophy Journal (Partially Full)",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T6_JOURNAL_TROPHY_MERCENARY_EMPTY",
+    "name": "Master Mercenary's Trophy Journal (Empty)",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T6_JOURNAL_TROPHY_MERCENARY_FULL",
+    "name": "Master Mercenary's Trophy Journal (Full)",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T6_JOURNAL_TROPHY_STONE",
+    "name": "Master Stonecutter's Trophy Journal (Partially Full)",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T6_JOURNAL_TROPHY_STONE_EMPTY",
+    "name": "Master Stonecutter's Trophy Journal (Empty)",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T6_JOURNAL_TROPHY_STONE_FULL",
+    "name": "Master Stonecutter's Trophy Journal (Full)",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T6_JOURNAL_WARRIOR",
+    "name": "Master Blacksmith's Journal (Partially Full)",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T6_JOURNAL_WARRIOR_EMPTY",
+    "name": "Master Blacksmith's Journal (Empty)",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T6_JOURNAL_WARRIOR_FULL",
+    "name": "Master Blacksmith's Journal (Full)",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T6_LABOURER_CONTRACT_FISHERMAN",
+    "name": "Master Fisherman Contract",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T6_LABOURER_CONTRACT_HUNTER",
+    "name": "Master Fletcher Contract",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T6_LABOURER_CONTRACT_MAGE",
+    "name": "Master Imbuer Contract",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T6_LABOURER_CONTRACT_MERCENARY",
+    "name": "Master Mercenary Contract",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T6_LABOURER_CONTRACT_STONE",
+    "name": "Master Stonecutter Contract",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T6_LABOURER_CONTRACT_TOOLMAKER",
+    "name": "Master Tinker Contract",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T6_LABOURER_CONTRACT_WARRIOR",
+    "name": "Master Blacksmith Contract",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T6_LOOTCHEST_CRYSTAL_LEAGUE",
+    "name": "Master's Crystal League Chest",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T6_MEAL_SALAD",
+    "name": "Potato Salad",
+    "tier": 6,
+    "enchantments": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "meal"
+  },
+  {
+    "id": "T6_MEAL_SALAD_FISH",
+    "name": "Deepwater Kraken Salad",
+    "tier": 6,
+    "enchantments": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "meal"
+  },
+  {
+    "id": "T6_MEAL_SANDWICH",
+    "name": "Mutton Sandwich",
+    "tier": 6,
+    "enchantments": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "meal"
+  },
+  {
+    "id": "T6_MEAL_SANDWICH_AVALON",
+    "name": "Avalonian Mutton Sandwich",
+    "tier": 6,
+    "enchantments": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "meal"
+  },
+  {
+    "id": "T6_MEAL_SANDWICH_FISH",
+    "name": "Rushwater Lurcher Sandwich",
+    "tier": 6,
+    "enchantments": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "meal"
+  },
+  {
+    "id": "T6_MEAL_STEW",
+    "name": "Mutton Stew",
+    "tier": 6,
+    "enchantments": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "meal"
+  },
+  {
+    "id": "T6_MEAL_STEW_AVALON",
+    "name": "Avalonian Mutton Stew",
+    "tier": 6,
+    "enchantments": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "meal"
+  },
+  {
+    "id": "T6_MEAL_STEW_FISH",
+    "name": "Redspring Eel Stew",
+    "tier": 6,
+    "enchantments": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "meal"
+  },
+  {
+    "id": "T6_MEAT",
+    "name": "Raw Mutton",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T6_MILK",
+    "name": "Sheep's Milk",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T6_POTATO",
+    "name": "Potatoes",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T6_POTION_BERSERK",
+    "name": "Berserk Potion",
+    "tier": 6,
+    "enchantments": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "potion"
+  },
+  {
+    "id": "T6_POTION_COOLDOWN",
+    "name": "Poison Potion",
+    "tier": 6,
+    "enchantments": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "potion"
+  },
+  {
+    "id": "T6_POTION_ENERGY",
+    "name": "Major Energy Potion",
+    "tier": 6,
+    "enchantments": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "potion"
+  },
+  {
+    "id": "T6_POTION_GATHER",
+    "name": "Gathering Potion",
+    "tier": 6,
+    "enchantments": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "potion"
+  },
+  {
+    "id": "T6_POTION_HEAL",
+    "name": "Major Healing Potion",
+    "tier": 6,
+    "enchantments": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "potion"
+  },
+  {
+    "id": "T6_POTION_LAVA",
+    "name": "Hellfire Potion",
+    "tier": 6,
+    "enchantments": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "potion"
+  },
+  {
+    "id": "T6_POTION_TORNADO",
+    "name": "Tornado in a Bottle",
+    "tier": 6,
+    "enchantments": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "potion"
+  },
+  {
+    "id": "T6_RANDOM_DUNGEON_ELITE_TOKEN_1",
+    "name": "Master's Dungeon Map (Large Group)",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T6_RANDOM_DUNGEON_ELITE_TOKEN_2",
+    "name": "Uncommon Master's Dungeon Map (Large Group)",
+    "tier": 6,
+    "enchantments": [
+      1
+    ],
+    "maxEnchantment": 1,
+    "category": "other"
+  },
+  {
+    "id": "T6_RANDOM_DUNGEON_ELITE_TOKEN_3",
+    "name": "Rare Master's Dungeon Map (Large Group)",
+    "tier": 6,
+    "enchantments": [
+      2
+    ],
+    "maxEnchantment": 2,
+    "category": "other"
+  },
+  {
+    "id": "T6_RANDOM_DUNGEON_ELITE_TOKEN_4",
+    "name": "Exceptional Master's Dungeon Map (Large Group)",
+    "tier": 6,
+    "enchantments": [
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "other"
+  },
+  {
+    "id": "T6_RANDOM_DUNGEON_SOLO_TOKEN_1",
+    "name": "Master's Dungeon Map (Solo)",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T6_RANDOM_DUNGEON_SOLO_TOKEN_2",
+    "name": "Uncommon Master's Dungeon Map (Solo)",
+    "tier": 6,
+    "enchantments": [
+      1
+    ],
+    "maxEnchantment": 1,
+    "category": "other"
+  },
+  {
+    "id": "T6_RANDOM_DUNGEON_SOLO_TOKEN_3",
+    "name": "Rare Master's Dungeon Map (Solo)",
+    "tier": 6,
+    "enchantments": [
+      2
+    ],
+    "maxEnchantment": 2,
+    "category": "other"
+  },
+  {
+    "id": "T6_RANDOM_DUNGEON_SOLO_TOKEN_4",
+    "name": "Exceptional Master's Dungeon Map (Solo)",
+    "tier": 6,
+    "enchantments": [
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "other"
+  },
+  {
+    "id": "T6_RANDOM_DUNGEON_TOKEN_1",
+    "name": "Master's Dungeon Map (Group)",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T6_RANDOM_DUNGEON_TOKEN_2",
+    "name": "Uncommon Master's Dungeon Map (Group)",
+    "tier": 6,
+    "enchantments": [
+      1
+    ],
+    "maxEnchantment": 1,
+    "category": "other"
+  },
+  {
+    "id": "T6_RANDOM_DUNGEON_TOKEN_3",
+    "name": "Rare Master's Dungeon Map (Group)",
+    "tier": 6,
+    "enchantments": [
+      2
+    ],
+    "maxEnchantment": 2,
+    "category": "other"
+  },
+  {
+    "id": "T6_RANDOM_DUNGEON_TOKEN_4",
+    "name": "Exceptional Master's Dungeon Map (Group)",
+    "tier": 6,
+    "enchantments": [
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "other"
+  },
+  {
+    "id": "T6_SIEGE_BANNER",
+    "name": "Master's Siege Banner",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T6_TRASH",
+    "name": "Trash",
+    "tier": 6,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T7_ALCHEMY_RARE_DIREBEAR",
+    "name": "Excellent Spirit Paws",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T7_ALCHEMY_RARE_EAGLE",
+    "name": "Excellent Dawnfeather",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T7_ALCHEMY_RARE_ELEMENTAL",
+    "name": "Excellent Runestone Tooth",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T7_ALCHEMY_RARE_ENT",
+    "name": "Excellent Sylvian Root",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T7_ALCHEMY_RARE_IMP",
+    "name": "Excellent Imp's Horn",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T7_ALCHEMY_RARE_PANTHER",
+    "name": "Excellent Shadow Claws",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T7_ALCHEMY_RARE_WEREWOLF",
+    "name": "Excellent Werewolf Fangs",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T7_ALCOHOL",
+    "name": "Corn Hooch",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T7_BACKPACK_GATHERER_FISH",
+    "name": "Grandmaster's Fisherman Backpack",
+    "tier": 7,
+    "enchantments": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "maxEnchantment": 4,
+    "category": "other"
+  },
+  {
+    "id": "T7_CORN",
+    "name": "Bundle of Corn",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T7_ESSENCE",
+    "name": "Grandmaster's Faded Essence",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T7_ESSENCE_POTION",
+    "name": "Grandmaster's Arcane Essence",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T7_FARM_CORN_SEED",
+    "name": "Corn Seeds",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "farming"
+  },
+  {
+    "id": "T7_FARM_DIREBOAR_BABY",
+    "name": "Direboar Piglet",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "farming"
+  },
+  {
+    "id": "T7_FARM_DIREBOAR_GROWN",
+    "name": "Tame Direboar",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "farming"
+  },
+  {
+    "id": "T7_FARM_HORSE_BABY",
+    "name": "Grandmaster's Foal",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "farming"
+  },
+  {
+    "id": "T7_FARM_HORSE_GROWN",
+    "name": "Grandmaster's Horse",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "farming"
+  },
+  {
+    "id": "T7_FARM_MULLEIN_SEED",
+    "name": "Firetouched Mullein Seeds",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "farming"
+  },
+  {
+    "id": "T7_FARM_OX_BABY",
+    "name": "Grandmaster's Ox Calf",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "farming"
+  },
+  {
+    "id": "T7_FARM_OX_GROWN",
+    "name": "Grandmaster's Ox",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "farming"
+  },
+  {
+    "id": "T7_FARM_PIG_BABY",
+    "name": "Piglet",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "farming"
+  },
+  {
+    "id": "T7_FARM_PIG_GROWN",
+    "name": "Pig",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "farming"
+  },
+  {
+    "id": "T7_FARM_SWAMPDRAGON_BABY",
+    "name": "Swamp Dragon Pup",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "farming"
+  },
+  {
+    "id": "T7_FARM_SWAMPDRAGON_GROWN",
+    "name": "Tame Swamp Dragon",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "farming"
+  },
+  {
+    "id": "T7_FISH_FRESHWATER_ALL_COMMON",
+    "name": "Danglemouth Catfish",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "fish"
+  },
+  {
+    "id": "T7_FISH_FRESHWATER_AVALON_RARE",
+    "name": "Puremist Snapper",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "fish"
+  },
+  {
+    "id": "T7_FISH_FRESHWATER_FOREST_RARE",
+    "name": "Deadwater Eel",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "fish"
+  },
+  {
+    "id": "T7_FISH_FRESHWATER_HIGHLANDS_RARE",
+    "name": "Thunderfall Lurcher",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "fish"
+  },
+  {
+    "id": "T7_FISH_FRESHWATER_MOUNTAIN_RARE",
+    "name": "Frostpeak Deadeye",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "fish"
+  },
+  {
+    "id": "T7_FISH_FRESHWATER_STEPPE_RARE",
+    "name": "Dusthole Crab",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "fish"
+  },
+  {
+    "id": "T7_FISH_FRESHWATER_SWAMP_RARE",
+    "name": "Blackbog Clam",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "fish"
+  },
+  {
+    "id": "T7_FISH_SALTWATER_ALL_COMMON",
+    "name": "Bluefin Tuna",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "fish"
+  },
+  {
+    "id": "T7_FISH_SALTWATER_ALL_RARE",
+    "name": "Deepwater Kraken",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "fish"
+  },
+  {
+    "id": "T7_FURNITUREITEM_BED",
+    "name": "Grandmaster's Bed",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T7_FURNITUREITEM_REPAIRKIT",
+    "name": "Grandmaster's Repair Kit",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T7_FURNITUREITEM_TABLE",
+    "name": "Grandmaster's Table",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T7_FURNITUREITEM_TROPHY_FISH",
+    "name": "Catfish Trophy",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T7_FURNITUREITEM_TROPHY_GENERAL",
+    "name": "Occult Octavo",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T7_FURNITUREITEM_TROPHY_MERCENARY",
+    "name": "Grandmaster Mercenary's Trophy",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T7_GVGSEASONREWARD_FAMEBUFF",
+    "name": "Grandmaster's Knight's Vow",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T7_HELLGATE_5V5_LETHAL_1_MAP",
+    "name": "Grandmaster's Hellgate Ritual (5v5 - Lethal)",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T7_JOURNAL_FISHING",
+    "name": "Grandmaster Fisherman's Journal (Partially Full)",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T7_JOURNAL_FISHING_EMPTY",
+    "name": "Grandmaster Fisherman's Journal (Empty)",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T7_JOURNAL_FISHING_FULL",
+    "name": "Grandmaster Fisherman's Journal (Full)",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T7_JOURNAL_HUNTER",
+    "name": "Grandmaster Fletcher's Journal (Partially Full)",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T7_JOURNAL_HUNTER_EMPTY",
+    "name": "Grandmaster Fletcher's Journal (Empty)",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T7_JOURNAL_HUNTER_FULL",
+    "name": "Grandmaster Fletcher's Journal (Full)",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T7_JOURNAL_MAGE",
+    "name": "Grandmaster Imbuer's Journal (Partially Full)",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T7_JOURNAL_MAGE_EMPTY",
+    "name": "Grandmaster Imbuer's Journal (Empty)",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T7_JOURNAL_MAGE_FULL",
+    "name": "Grandmaster Imbuer's Journal (Full)",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T7_JOURNAL_MERCENARY",
+    "name": "Grandmaster Mercenary's Journal (Partially Full)",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T7_JOURNAL_MERCENARY_EMPTY",
+    "name": "Grandmaster Mercenary's Journal (Empty)",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T7_JOURNAL_MERCENARY_FULL",
+    "name": "Grandmaster Mercenary's Journal (Full)",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T7_JOURNAL_STONE",
+    "name": "Grandmaster Stonecutter's Journal (Partially Full)",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T7_JOURNAL_STONE_EMPTY",
+    "name": "Grandmaster Stonecutter's Journal (Empty)",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T7_JOURNAL_STONE_FULL",
+    "name": "Grandmaster Stonecutter's Journal (Full)",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T7_JOURNAL_TOOLMAKER",
+    "name": "Grandmaster Tinker's Journal (Partially Full)",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T7_JOURNAL_TOOLMAKER_EMPTY",
+    "name": "Grandmaster Tinker's Journal (Empty)",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T7_JOURNAL_TOOLMAKER_FULL",
+    "name": "Grandmaster Tinker's Journal (Full)",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T7_JOURNAL_TROPHY_FISHING",
+    "name": "Grandmaster Fisherman's Trophy Journal (Partially Full)",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T7_JOURNAL_TROPHY_FISHING_EMPTY",
+    "name": "Grandmaster Fisherman's Trophy Journal (Empty)",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T7_JOURNAL_TROPHY_FISHING_FULL",
+    "name": "Grandmaster Fisherman's Trophy Journal (Full)",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T7_JOURNAL_TROPHY_GENERAL",
+    "name": "Grandmaster's Generalist Trophy Journal (Partially Full)",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T7_JOURNAL_TROPHY_GENERAL_EMPTY",
+    "name": "Grandmaster's Generalist Trophy Journal (Empty)",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T7_JOURNAL_TROPHY_GENERAL_FULL",
+    "name": "Grandmaster's Generalist Trophy Journal (Full)",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T7_JOURNAL_TROPHY_MERCENARY",
+    "name": "Grandmaster Mercenary's Trophy Journal (Partially Full)",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T7_JOURNAL_TROPHY_MERCENARY_EMPTY",
+    "name": "Grandmaster Mercenary's Trophy Journal (Empty)",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T7_JOURNAL_TROPHY_MERCENARY_FULL",
+    "name": "Grandmaster Mercenary's Trophy Journal (Full)",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T7_JOURNAL_TROPHY_STONE",
+    "name": "Grandmaster Stonecutter's Trophy Journal (Partially Full)",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T7_JOURNAL_TROPHY_STONE_EMPTY",
+    "name": "Grandmaster Stonecutter's Trophy Journal (Empty)",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T7_JOURNAL_TROPHY_STONE_FULL",
+    "name": "Grandmaster Stonecutter's Trophy Journal (Full)",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T7_JOURNAL_WARRIOR",
+    "name": "Grandmaster Blacksmith's Journal (Partially Full)",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T7_JOURNAL_WARRIOR_EMPTY",
+    "name": "Grandmaster Blacksmith's Journal (Empty)",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T7_JOURNAL_WARRIOR_FULL",
+    "name": "Grandmaster Blacksmith's Journal (Full)",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T7_LABOURER_CONTRACT_FISHERMAN",
+    "name": "Grandmaster Fisherman Contract",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T7_LABOURER_CONTRACT_HUNTER",
+    "name": "Grandmaster Fletcher Contract",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T7_LABOURER_CONTRACT_MAGE",
+    "name": "Grandmaster Imbuer Contract",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T7_LABOURER_CONTRACT_MERCENARY",
+    "name": "Grandmaster Mercenary Contract",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T7_LABOURER_CONTRACT_STONE",
+    "name": "Grandmaster Stonecutter Contract",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T7_LABOURER_CONTRACT_TOOLMAKER",
+    "name": "Grandmaster Tinker Contract",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T7_LABOURER_CONTRACT_WARRIOR",
+    "name": "Grandmaster Blacksmith Contract",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T7_LOOTCHEST_CRYSTAL_LEAGUE",
+    "name": "Grandmaster's Crystal League Chest",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T7_MEAL_OMELETTE",
+    "name": "Pork Omelette",
+    "tier": 7,
+    "enchantments": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "meal"
+  },
+  {
+    "id": "T7_MEAL_OMELETTE_AVALON",
+    "name": "Avalonian Pork Omelette",
+    "tier": 7,
+    "enchantments": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "meal"
+  },
+  {
+    "id": "T7_MEAL_OMELETTE_FISH",
+    "name": "Dusthole Crab Omelette",
+    "tier": 7,
+    "enchantments": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "meal"
+  },
+  {
+    "id": "T7_MEAL_PIE",
+    "name": "Pork Pie",
+    "tier": 7,
+    "enchantments": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "meal"
+  },
+  {
+    "id": "T7_MEAL_PIE_FISH",
+    "name": "Frostpeak Deadeye Pie",
+    "tier": 7,
+    "enchantments": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "meal"
+  },
+  {
+    "id": "T7_MEAL_ROAST",
+    "name": "Roast Pork",
+    "tier": 7,
+    "enchantments": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "meal"
+  },
+  {
+    "id": "T7_MEAL_ROAST_FISH",
+    "name": "Roasted Puremist Snapper",
+    "tier": 7,
+    "enchantments": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "meal"
+  },
+  {
+    "id": "T7_MEAT",
+    "name": "Raw Pork",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T7_MULLEIN",
+    "name": "Firetouched Mullein",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T7_POTION_ACID",
+    "name": "Major Acid Potion",
+    "tier": 7,
+    "enchantments": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "potion"
+  },
+  {
+    "id": "T7_POTION_CLEANSE2",
+    "name": "Major Cleansing Potion",
+    "tier": 7,
+    "enchantments": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "potion"
+  },
+  {
+    "id": "T7_POTION_MOB_RESET",
+    "name": "Major Calming Potion",
+    "tier": 7,
+    "enchantments": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "potion"
+  },
+  {
+    "id": "T7_POTION_REVIVE",
+    "name": "Major Gigantify Potion",
+    "tier": 7,
+    "enchantments": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "potion"
+  },
+  {
+    "id": "T7_POTION_SLOWFIELD",
+    "name": "Major Sticky Potion",
+    "tier": 7,
+    "enchantments": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "potion"
+  },
+  {
+    "id": "T7_POTION_STONESKIN",
+    "name": "Major Resistance Potion",
+    "tier": 7,
+    "enchantments": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "potion"
+  },
+  {
+    "id": "T7_RANDOM_DUNGEON_ELITE_TOKEN_1",
+    "name": "Grandmaster's Dungeon Map (Large Group)",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T7_RANDOM_DUNGEON_ELITE_TOKEN_2",
+    "name": "Uncommon Grandmaster's Dungeon Map (Large Group)",
+    "tier": 7,
+    "enchantments": [
+      1
+    ],
+    "maxEnchantment": 1,
+    "category": "other"
+  },
+  {
+    "id": "T7_RANDOM_DUNGEON_ELITE_TOKEN_3",
+    "name": "Rare Grandmaster's Dungeon Map (Large Group)",
+    "tier": 7,
+    "enchantments": [
+      2
+    ],
+    "maxEnchantment": 2,
+    "category": "other"
+  },
+  {
+    "id": "T7_RANDOM_DUNGEON_ELITE_TOKEN_4",
+    "name": "Exceptional Grandmaster's Dungeon Map (Large Group)",
+    "tier": 7,
+    "enchantments": [
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "other"
+  },
+  {
+    "id": "T7_RANDOM_DUNGEON_SOLO_TOKEN_1",
+    "name": "Grandmaster's Dungeon Map (Solo)",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T7_RANDOM_DUNGEON_SOLO_TOKEN_2",
+    "name": "Uncommon Grandmaster's Dungeon Map (Solo)",
+    "tier": 7,
+    "enchantments": [
+      1
+    ],
+    "maxEnchantment": 1,
+    "category": "other"
+  },
+  {
+    "id": "T7_RANDOM_DUNGEON_SOLO_TOKEN_3",
+    "name": "Rare Grandmaster's Dungeon Map (Solo)",
+    "tier": 7,
+    "enchantments": [
+      2
+    ],
+    "maxEnchantment": 2,
+    "category": "other"
+  },
+  {
+    "id": "T7_RANDOM_DUNGEON_SOLO_TOKEN_4",
+    "name": "Exceptional Grandmaster's Dungeon Map (Solo)",
+    "tier": 7,
+    "enchantments": [
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "other"
+  },
+  {
+    "id": "T7_RANDOM_DUNGEON_TOKEN_1",
+    "name": "Grandmaster's Dungeon Map (Group)",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T7_RANDOM_DUNGEON_TOKEN_2",
+    "name": "Uncommon Grandmaster's Dungeon Map (Group)",
+    "tier": 7,
+    "enchantments": [
+      1
+    ],
+    "maxEnchantment": 1,
+    "category": "other"
+  },
+  {
+    "id": "T7_RANDOM_DUNGEON_TOKEN_3",
+    "name": "Rare Grandmaster's Dungeon Map (Group)",
+    "tier": 7,
+    "enchantments": [
+      2
+    ],
+    "maxEnchantment": 2,
+    "category": "other"
+  },
+  {
+    "id": "T7_RANDOM_DUNGEON_TOKEN_4",
+    "name": "Exceptional Grandmaster's Dungeon Map (Group)",
+    "tier": 7,
+    "enchantments": [
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "other"
+  },
+  {
+    "id": "T7_SIEGE_BANNER",
+    "name": "Grandmaster's Siege Banner",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T7_TRASH",
+    "name": "Trash",
+    "tier": 7,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T8_ALCOHOL",
+    "name": "Pumpkin Moonshine",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T8_BACKPACK_GATHERER_FISH",
+    "name": "Elder's Fisherman Backpack",
+    "tier": 8,
+    "enchantments": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "maxEnchantment": 4,
+    "category": "other"
+  },
+  {
+    "id": "T8_BUTTER",
+    "name": "Cow's Butter",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T8_ESSENCE",
+    "name": "Elder's Faded Essence",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T8_ESSENCE_POTION",
+    "name": "Elder's Arcane Essence",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T8_FARM_COW_BABY",
+    "name": "Calf",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "farming"
+  },
+  {
+    "id": "T8_FARM_COW_GROWN",
+    "name": "Cow",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "farming"
+  },
+  {
+    "id": "T8_FARM_DIREBEAR_BABY",
+    "name": "Direbear Cub",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "farming"
+  },
+  {
+    "id": "T8_FARM_DIREBEAR_FW_FORTSTERLING_BABY",
+    "name": "Elite Winter Bear Cub",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "farming"
+  },
+  {
+    "id": "T8_FARM_DIREBEAR_FW_FORTSTERLING_GROWN",
+    "name": "Tame Elite Winter Bear",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "farming"
+  },
+  {
+    "id": "T8_FARM_DIREBEAR_GROWN",
+    "name": "Tame Direbear",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "farming"
+  },
+  {
+    "id": "T8_FARM_DIREBOAR_FW_LYMHURST_BABY",
+    "name": "Elite Wild Boarlet",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "farming"
+  },
+  {
+    "id": "T8_FARM_DIREBOAR_FW_LYMHURST_GROWN",
+    "name": "Tame Elite Wild Boar",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "farming"
+  },
+  {
+    "id": "T8_FARM_DIREWOLF_BABY",
+    "name": "Ghostwolf Pup",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "farming"
+  },
+  {
+    "id": "T8_FARM_DIREWOLF_GROWN",
+    "name": "Tame Ghostwolf",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "farming"
+  },
+  {
+    "id": "T8_FARM_GREYWOLF_FW_CAERLEON_BABY",
+    "name": "Elite Greywolf Pup",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "farming"
+  },
+  {
+    "id": "T8_FARM_GREYWOLF_FW_CAERLEON_GROWN",
+    "name": "Tame Elite Greywolf",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "farming"
+  },
+  {
+    "id": "T8_FARM_HORSE_BABY",
+    "name": "Elder's Foal",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "farming"
+  },
+  {
+    "id": "T8_FARM_HORSE_GROWN",
+    "name": "Elder's Horse",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "farming"
+  },
+  {
+    "id": "T8_FARM_MAMMOTH_BABY",
+    "name": "Mammoth Calf",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "farming"
+  },
+  {
+    "id": "T8_FARM_MAMMOTH_GROWN",
+    "name": "Tame Mammoth",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "farming"
+  },
+  {
+    "id": "T8_FARM_MOABIRD_FW_BRIDGEWATCH_BABY",
+    "name": "Baby Elite Terrorbird",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "farming"
+  },
+  {
+    "id": "T8_FARM_MOABIRD_FW_BRIDGEWATCH_GROWN",
+    "name": "Tame Elite Terrorbird",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "farming"
+  },
+  {
+    "id": "T8_FARM_OWL_FW_BRECILIEN_BABY",
+    "name": "Elite Mystic Owlet",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "farming"
+  },
+  {
+    "id": "T8_FARM_OWL_FW_BRECILIEN_GROWN",
+    "name": "Tame Elite Mystic Owl",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "farming"
+  },
+  {
+    "id": "T8_FARM_OX_BABY",
+    "name": "Elder's Ox Calf",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "farming"
+  },
+  {
+    "id": "T8_FARM_OX_GROWN",
+    "name": "Elder's Ox",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "farming"
+  },
+  {
+    "id": "T8_FARM_PUMPKIN_SEED",
+    "name": "Pumpkin Seeds",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "farming"
+  },
+  {
+    "id": "T8_FARM_RABBIT_EASTER_BABY",
+    "name": "Vibrant Spring Cottontail Egg",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "farming"
+  },
+  {
+    "id": "T8_FARM_RABBIT_EASTER_BABY_DARK",
+    "name": "Eerie Cottontail Egg",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "farming"
+  },
+  {
+    "id": "T8_FARM_RABBIT_EASTER_GROWN",
+    "name": "Tame Spring Cottontail",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "farming"
+  },
+  {
+    "id": "T8_FARM_RABBIT_EASTER_GROWN_DARK",
+    "name": "\"Tame\" Caerleon Cottontail",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "farming"
+  },
+  {
+    "id": "T8_FARM_RAM_FW_MARTLOCK_BABY",
+    "name": "Elite Bighorn Ram Lamb",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "farming"
+  },
+  {
+    "id": "T8_FARM_RAM_FW_MARTLOCK_GROWN",
+    "name": "Tame Elite Bighorn Ram",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "farming"
+  },
+  {
+    "id": "T8_FARM_SPIDER_HELL_BABY",
+    "name": "Soulspinner Baby",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "farming"
+  },
+  {
+    "id": "T8_FARM_SPIDER_HELL_GROWN",
+    "name": "Tame Soulspinner",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "farming"
+  },
+  {
+    "id": "T8_FARM_SWAMPDRAGON_FW_THETFORD_BABY",
+    "name": "Baby Elite Swamp Salamander",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "farming"
+  },
+  {
+    "id": "T8_FARM_SWAMPDRAGON_FW_THETFORD_GROWN",
+    "name": "Tame Elite Swamp Salamander",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "farming"
+  },
+  {
+    "id": "T8_FARM_YARROW_SEED",
+    "name": "Ghoul Yarrow Seeds",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "farming"
+  },
+  {
+    "id": "T8_FISH_FRESHWATER_ALL_COMMON",
+    "name": "River Sturgeon",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "fish"
+  },
+  {
+    "id": "T8_FISH_SALTWATER_ALL_BOSS_SHARK",
+    "name": "Shark",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "fish"
+  },
+  {
+    "id": "T8_FISH_SALTWATER_ALL_COMMON",
+    "name": "Steelscale Swordfish",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "fish"
+  },
+  {
+    "id": "T8_FURNITUREITEM_BED",
+    "name": "Elder's Bed",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T8_FURNITUREITEM_REPAIRKIT",
+    "name": "Elder's Repair Kit",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T8_FURNITUREITEM_TABLE",
+    "name": "Elder's Table",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T8_FURNITUREITEM_TROPHY_FISH",
+    "name": "Swordfish Trophy",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T8_FURNITUREITEM_TROPHY_FISHING_BOSS",
+    "name": "Trophy Shark",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T8_FURNITUREITEM_TROPHY_GENERAL",
+    "name": "Ledger of Truths",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T8_FURNITUREITEM_TROPHY_MERCENARY",
+    "name": "Elder Mercenary's Trophy",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T8_GVGSEASONREWARD_FAMEBUFF",
+    "name": "Elder's Knight's Vow",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T8_HELLGATE_10V10_LETHAL_1_MAP",
+    "name": "Elder's Hellgate Ritual (10v10 - Lethal)",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T8_JOURNAL_FISHING",
+    "name": "Elder Fisherman's Journal (Partially Full)",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T8_JOURNAL_FISHING_EMPTY",
+    "name": "Elder Fisherman's Journal (Empty)",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T8_JOURNAL_FISHING_FULL",
+    "name": "Elder Fisherman's Journal (Full)",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T8_JOURNAL_HUNTER",
+    "name": "Elder Fletcher's Journal (Partially Full)",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T8_JOURNAL_HUNTER_EMPTY",
+    "name": "Elder Fletcher's Journal (Empty)",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T8_JOURNAL_HUNTER_FULL",
+    "name": "Elder Fletcher's Journal (Full)",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T8_JOURNAL_MAGE",
+    "name": "Elder Imbuer's Journal (Partially Full)",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T8_JOURNAL_MAGE_EMPTY",
+    "name": "Elder Imbuer's Journal (Empty)",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T8_JOURNAL_MAGE_FULL",
+    "name": "Elder Imbuer's Journal (Full)",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T8_JOURNAL_MERCENARY",
+    "name": "Elder Mercenary's Journal (Partially Full)",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T8_JOURNAL_MERCENARY_EMPTY",
+    "name": "Elder Mercenary's Journal (Empty)",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T8_JOURNAL_MERCENARY_FULL",
+    "name": "Elder Mercenary's Journal (Full)",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T8_JOURNAL_STONE",
+    "name": "Elder Stonecutter's Journal (Partially Full)",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T8_JOURNAL_STONE_EMPTY",
+    "name": "Elder Stonecutter's Journal (Empty)",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T8_JOURNAL_STONE_FULL",
+    "name": "Elder Stonecutter's Journal (Full)",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T8_JOURNAL_TOOLMAKER",
+    "name": "Elder Tinker's Journal (Partially Full)",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T8_JOURNAL_TOOLMAKER_EMPTY",
+    "name": "Elder Tinker's Journal (Empty)",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T8_JOURNAL_TOOLMAKER_FULL",
+    "name": "Elder Tinker's Journal (Full)",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T8_JOURNAL_TROPHY_FISHING",
+    "name": "Elder Fisherman's Trophy Journal (Partially Full)",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T8_JOURNAL_TROPHY_FISHING_EMPTY",
+    "name": "Elder Fisherman's Trophy Journal (Empty)",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T8_JOURNAL_TROPHY_FISHING_FULL",
+    "name": "Elder Fisherman's Trophy Journal (Full)",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T8_JOURNAL_TROPHY_GENERAL",
+    "name": "Elder's Generalist Trophy Journal (Partially Full)",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T8_JOURNAL_TROPHY_GENERAL_EMPTY",
+    "name": "Elder's Generalist Trophy Journal (Empty)",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T8_JOURNAL_TROPHY_GENERAL_FULL",
+    "name": "Elder's Generalist Trophy Journal (Full)",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T8_JOURNAL_TROPHY_MERCENARY",
+    "name": "Elder Mercenary's Trophy Journal (Partially Full)",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T8_JOURNAL_TROPHY_MERCENARY_EMPTY",
+    "name": "Elder Mercenary's Trophy Journal (Empty)",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T8_JOURNAL_TROPHY_MERCENARY_FULL",
+    "name": "Elder Mercenary's Trophy Journal (Full)",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T8_JOURNAL_TROPHY_STONE",
+    "name": "Elder Stonecutter's Trophy Journal (Partially Full)",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T8_JOURNAL_TROPHY_STONE_EMPTY",
+    "name": "Elder Stonecutter's Trophy Journal (Empty)",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T8_JOURNAL_TROPHY_STONE_FULL",
+    "name": "Elder Stonecutter's Trophy Journal (Full)",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T8_JOURNAL_WARRIOR",
+    "name": "Elder Blacksmith's Journal (Partially Full)",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T8_JOURNAL_WARRIOR_EMPTY",
+    "name": "Elder Blacksmith's Journal (Empty)",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T8_JOURNAL_WARRIOR_FULL",
+    "name": "Elder Blacksmith's Journal (Full)",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "journal"
+  },
+  {
+    "id": "T8_LABOURER_CONTRACT_FISHERMAN",
+    "name": "Elder Fisherman Contract",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T8_LABOURER_CONTRACT_HUNTER",
+    "name": "Elder Fletcher Contract",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T8_LABOURER_CONTRACT_MAGE",
+    "name": "Elder Imbuer Contract",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T8_LABOURER_CONTRACT_MERCENARY",
+    "name": "Elder Mercenary Contract",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T8_LABOURER_CONTRACT_STONE",
+    "name": "Elder Stonecutter Contract",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T8_LABOURER_CONTRACT_TOOLMAKER",
+    "name": "Elder Tinker Contract",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T8_LABOURER_CONTRACT_WARRIOR",
+    "name": "Elder Blacksmith Contract",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T8_LOOTCHEST_CRYSTAL_LEAGUE",
+    "name": "Elder's Crystal League Chest",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T8_MEAL_SANDWICH",
+    "name": "Beef Sandwich",
+    "tier": 8,
+    "enchantments": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "meal"
+  },
+  {
+    "id": "T8_MEAL_SANDWICH_AVALON",
+    "name": "Avalonian Beef Sandwich",
+    "tier": 8,
+    "enchantments": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "meal"
+  },
+  {
+    "id": "T8_MEAL_SANDWICH_FISH",
+    "name": "Thunderfall Lurcher Sandwich",
+    "tier": 8,
+    "enchantments": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "meal"
+  },
+  {
+    "id": "T8_MEAL_STEW",
+    "name": "Beef Stew",
+    "tier": 8,
+    "enchantments": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "meal"
+  },
+  {
+    "id": "T8_MEAL_STEW_AVALON",
+    "name": "Avalonian Beef Stew",
+    "tier": 8,
+    "enchantments": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "meal"
+  },
+  {
+    "id": "T8_MEAL_STEW_FISH",
+    "name": "Deadwater Eel Stew",
+    "tier": 8,
+    "enchantments": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "meal"
+  },
+  {
+    "id": "T8_MEAT",
+    "name": "Raw Beef",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T8_MILK",
+    "name": "Cow's Milk",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T8_POTION_BERSERK",
+    "name": "Major Berserk Potion",
+    "tier": 8,
+    "enchantments": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "potion"
+  },
+  {
+    "id": "T8_POTION_CLEANSE",
+    "name": "Invisibility Potion",
+    "tier": 8,
+    "enchantments": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "potion"
+  },
+  {
+    "id": "T8_POTION_COOLDOWN",
+    "name": "Major Poison Potion",
+    "tier": 8,
+    "enchantments": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "potion"
+  },
+  {
+    "id": "T8_POTION_GATHER",
+    "name": "Major Gathering Potion",
+    "tier": 8,
+    "enchantments": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "potion"
+  },
+  {
+    "id": "T8_POTION_LAVA",
+    "name": "Major Hellfire Potion",
+    "tier": 8,
+    "enchantments": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "potion"
+  },
+  {
+    "id": "T8_POTION_TORNADO",
+    "name": "Major Tornado in a Bottle",
+    "tier": 8,
+    "enchantments": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "potion"
+  },
+  {
+    "id": "T8_PUMPKIN",
+    "name": "Pumpkin",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T8_RANDOM_DUNGEON_ELITE_TOKEN_1",
+    "name": "Elder's Dungeon Map (Large Group)",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T8_RANDOM_DUNGEON_ELITE_TOKEN_2",
+    "name": "Uncommon Elder's Dungeon Map (Large Group)",
+    "tier": 8,
+    "enchantments": [
+      1
+    ],
+    "maxEnchantment": 1,
+    "category": "other"
+  },
+  {
+    "id": "T8_RANDOM_DUNGEON_ELITE_TOKEN_3",
+    "name": "Rare Elder's Dungeon Map (Large Group)",
+    "tier": 8,
+    "enchantments": [
+      2
+    ],
+    "maxEnchantment": 2,
+    "category": "other"
+  },
+  {
+    "id": "T8_RANDOM_DUNGEON_ELITE_TOKEN_4",
+    "name": "Exceptional Elder's Dungeon Map (Large Group)",
+    "tier": 8,
+    "enchantments": [
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "other"
+  },
+  {
+    "id": "T8_RANDOM_DUNGEON_SOLO_TOKEN_1",
+    "name": "Elder's Dungeon Map (Solo)",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T8_RANDOM_DUNGEON_SOLO_TOKEN_2",
+    "name": "Uncommon Elder's Dungeon Map (Solo)",
+    "tier": 8,
+    "enchantments": [
+      1
+    ],
+    "maxEnchantment": 1,
+    "category": "other"
+  },
+  {
+    "id": "T8_RANDOM_DUNGEON_SOLO_TOKEN_3",
+    "name": "Rare Elder's Dungeon Map (Solo)",
+    "tier": 8,
+    "enchantments": [
+      2
+    ],
+    "maxEnchantment": 2,
+    "category": "other"
+  },
+  {
+    "id": "T8_RANDOM_DUNGEON_SOLO_TOKEN_4",
+    "name": "Exceptional Elder's Dungeon Map (Solo)",
+    "tier": 8,
+    "enchantments": [
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "other"
+  },
+  {
+    "id": "T8_RANDOM_DUNGEON_TOKEN_1",
+    "name": "Elder's Dungeon Map (Group)",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T8_RANDOM_DUNGEON_TOKEN_2",
+    "name": "Uncommon Elder's Dungeon Map (Group)",
+    "tier": 8,
+    "enchantments": [
+      1
+    ],
+    "maxEnchantment": 1,
+    "category": "other"
+  },
+  {
+    "id": "T8_RANDOM_DUNGEON_TOKEN_3",
+    "name": "Rare Elder's Dungeon Map (Group)",
+    "tier": 8,
+    "enchantments": [
+      2
+    ],
+    "maxEnchantment": 2,
+    "category": "other"
+  },
+  {
+    "id": "T8_RANDOM_DUNGEON_TOKEN_4",
+    "name": "Exceptional Elder's Dungeon Map (Group)",
+    "tier": 8,
+    "enchantments": [
+      3
+    ],
+    "maxEnchantment": 3,
+    "category": "other"
+  },
+  {
+    "id": "T8_SIEGE_BANNER",
+    "name": "Elder's Siege Banner",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T8_TRASH",
+    "name": "Trash",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  },
+  {
+    "id": "T8_YARROW",
+    "name": "Ghoul Yarrow",
+    "tier": 8,
+    "enchantments": [
+      0
+    ],
+    "maxEnchantment": 0,
+    "category": "other"
+  }
+]
