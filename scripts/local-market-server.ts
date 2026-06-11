@@ -106,6 +106,46 @@ async function handleIngest(req: IncomingMessage, res: ServerResponse) {
   sendJson(res, 200, { ok: true, stored: incoming.length, total: Object.keys(store).length })
 }
 
+async function handleCacheFetch(url: URL, res: ServerResponse) {
+  const itemIds = url.searchParams.get('itemIds')
+  const locations = url.searchParams.get('locations') ?? 'Fort Sterling,Lymhurst,Bridgewatch,Martlock,Thetford,Caerleon,Brecilien,Black Market'
+  const qualities = url.searchParams.get('qualities') ?? '1'
+  const region = url.searchParams.get('region') ?? 'europe'
+
+  if (!itemIds) {
+    sendJson(res, 400, { error: 'itemIds query param required' })
+    return
+  }
+
+  const serverUrls: Record<string, string> = {
+    europe: 'https://europe.albion-online-data.com',
+    americas: 'https://west.albion-online-data.com',
+    asia: 'https://east.albion-online-data.com',
+  }
+  const baseUrl = serverUrls[region] ?? serverUrls.europe
+  const apiUrl = `${baseUrl}/api/v2/stats/prices/${itemIds}.json?locations=${locations}&qualities=${qualities}`
+
+  console.log(`[cache-fetch] Fetching from public API: ${apiUrl.substring(0, 120)}...`)
+
+  const apiResponse = await fetch(apiUrl)
+  if (!apiResponse.ok) {
+    sendJson(res, 502, { error: `Public API returned ${apiResponse.status}` })
+    return
+  }
+
+  const prices = await apiResponse.json() as MarketPrice[]
+  const store = await readPrices()
+
+  for (const price of prices) {
+    store[keyOf(price)] = price
+  }
+
+  await writePrices(store)
+  console.log(`[cache-fetch] Cached ${prices.length} price entries`)
+
+  sendJson(res, 200, { ok: true, fetched: prices.length, cached: prices.length, total: Object.keys(store).length })
+}
+
 const server = createServer(async (req, res) => {
   try {
     res.setHeader('access-control-allow-origin', '*')
@@ -129,6 +169,11 @@ const server = createServer(async (req, res) => {
 
     if (req.method === 'POST' && url.pathname === '/ingest/prices') {
       await handleIngest(req, res)
+      return
+    }
+
+    if (req.method === 'GET' && url.pathname === '/cache/fetch') {
+      await handleCacheFetch(url, res)
       return
     }
 
@@ -157,4 +202,6 @@ server.listen(PORT, () => {
   console.log(`Local Albion market cache listening on http://localhost:${PORT}`)
   console.log(`GET  /api/v2/stats/prices/{itemIds}.json?locations=...&qualities=...`)
   console.log(`POST /ingest/prices with Albion Data Project MarketPrice[] JSON`)
+  console.log(`GET  /cache/fetch?itemIds=...&locations=...&qualities=...&region=europe`)
+  console.log(`GET  /health`)
 })

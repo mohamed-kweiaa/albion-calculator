@@ -6,6 +6,7 @@ import { ScanFilters } from '@/components/scanner/ScanFilters'
 import { ScanProgress } from '@/components/scanner/ScanProgress'
 import { FlipResultsTable } from '@/components/scanner/FlipResultsTable'
 import { RefreshHelper } from '@/components/scanner/RefreshHelper'
+import { VerifyCapture } from '@/components/scanner/VerifyCapture'
 import { CITIES } from '@/lib/constants'
 import { buildItemId } from '@/lib/itemUtils'
 import { useFlipScanner } from '@/hooks/useFlipScanner'
@@ -74,6 +75,7 @@ export function ScannerPage() {
           onRescan={handleScan}
         />
       )}
+      <VerifyCapture />
     </div>
   )
 }
