@@ -9,10 +9,12 @@ export function usePriceHistory(
   timeScale: number = 6
 ) {
   const serverRegion = useSettingsStore((s) => s.serverRegion)
+  const useLocalMarketData = useSettingsStore((s) => s.useLocalMarketData)
+  const localApiUrl = useSettingsStore((s) => s.localApiUrl)
 
   return useQuery({
-    queryKey: ['price-history', itemIds, locations, timeScale, serverRegion],
-    queryFn: () => fetchPriceHistory(itemIds, locations, serverRegion, timeScale),
+    queryKey: ['price-history', itemIds, locations, timeScale, serverRegion, useLocalMarketData, localApiUrl],
+    queryFn: () => fetchPriceHistory(itemIds, locations, serverRegion, timeScale, { useLocalMarketData, localApiUrl }),
     enabled: itemIds.length > 0,
     staleTime: 10 * 60 * 1000,
   })

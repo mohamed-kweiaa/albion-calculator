@@ -5,6 +5,7 @@ import otherItems from '@/data/other-items.json'
 import { ScanFilters } from '@/components/scanner/ScanFilters'
 import { ScanProgress } from '@/components/scanner/ScanProgress'
 import { FlipResultsTable } from '@/components/scanner/FlipResultsTable'
+import { RefreshHelper } from '@/components/scanner/RefreshHelper'
 import { CITIES } from '@/lib/constants'
 import { buildItemId } from '@/lib/itemUtils'
 import { useFlipScanner } from '@/hooks/useFlipScanner'
@@ -27,6 +28,7 @@ export function ScannerPage() {
   const [qualities, setQualities] = useState<QualityLevel[]>([1])
   const [minProfit, setMinProfit] = useState(1000)
   const [minMargin, setMinMargin] = useState(5)
+  const [maxDataAgeHours, setMaxDataAgeHours] = useState<number | null>(6)
   const isPremium = useSettingsStore((state) => state.isPremium)
   const { results, progress, startScan, cancelScan } = useFlipScanner()
 
@@ -39,7 +41,7 @@ export function ScannerPage() {
       itemsById.set(item.id, item)
       item.enchantments.filter((level) => enchantments.includes(level)).forEach((level) => itemIds.push(buildItemId(item.id, level)))
     })
-    startScan({ itemIds, itemsById, buyCities, sellCities, qualities, isPremium, minProfit, minMargin })
+    startScan({ itemIds, itemsById, buyCities, sellCities, qualities, isPremium, minProfit, minMargin, maxDataAgeHours })
   }
 
   const exportJson = () => download('albion-flips.json', JSON.stringify(results, null, 2), 'application/json')
@@ -60,11 +62,18 @@ export function ScannerPage() {
         {(['equipment', 'resource', 'other'] as ItemCategory[]).map((tab) => <button key={tab} onClick={() => setActiveTab(tab)} className={activeTab === tab ? 'rounded-lg bg-primary px-4 py-2 text-sm capitalize text-primary-foreground' : 'rounded-lg bg-secondary px-4 py-2 text-sm capitalize'}>{tab}</button>)}
       </div>
 
-      <ScanFilters buyCities={buyCities} setBuyCities={setBuyCities} sellCities={sellCities} setSellCities={setSellCities} tiers={tiers} setTiers={setTiers} enchantments={enchantments} setEnchantments={setEnchantments} qualities={qualities} setQualities={setQualities} minProfit={minProfit} setMinProfit={setMinProfit} minMargin={minMargin} setMinMargin={setMinMargin} />
+      <ScanFilters buyCities={buyCities} setBuyCities={setBuyCities} sellCities={sellCities} setSellCities={setSellCities} tiers={tiers} setTiers={setTiers} enchantments={enchantments} setEnchantments={setEnchantments} qualities={qualities} setQualities={setQualities} minProfit={minProfit} setMinProfit={setMinProfit} minMargin={minMargin} setMinMargin={setMinMargin} maxDataAgeHours={maxDataAgeHours} setMaxDataAgeHours={setMaxDataAgeHours} />
       <ScanProgress progress={progress} onCancel={cancelScan} />
 
       <div className="flex items-center justify-between"><div className="text-sm text-muted-foreground">Scanning {selectedItems.length.toLocaleString()} base items in {activeTab}.</div><div className="flex gap-2"><button onClick={exportCsv} disabled={results.length === 0} className="rounded bg-secondary px-3 py-1 text-xs disabled:opacity-50">Export CSV</button><button onClick={exportJson} disabled={results.length === 0} className="rounded bg-secondary px-3 py-1 text-xs disabled:opacity-50">Export JSON</button></div></div>
       <FlipResultsTable results={results} />
+      {results.length > 0 && (
+        <RefreshHelper
+          results={results}
+          staleThresholdHours={maxDataAgeHours ?? 6}
+          onRescan={handleScan}
+        />
+      )}
     </div>
   )
 }

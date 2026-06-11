@@ -37,7 +37,7 @@ export function FlipResultsTable({ results }: FlipResultsTableProps) {
         header: 'Item',
         cell: ({ row }) => {
           const result = row.original
-          const searchableName = `${result.item.name}${result.enchantment > 0 ? ` .${result.enchantment}` : ''}`
+          const searchableName = buildMarketSearchName(result.item.name, result.enchantment)
 
           return (
             <div className="flex min-w-64 items-center gap-3">
@@ -254,4 +254,12 @@ function CopyNameButton({ value }: { value: string }) {
       {copied ? <Check className="h-3.5 w-3.5" /> : <Copy className="h-3.5 w-3.5" />}
     </button>
   )
+}
+
+function buildMarketSearchName(name: string, enchantment: number): string {
+  const trimmedName = name.replace(
+    /\s+(Staff|Bow|Crossbow|Sword|Axe|Dagger|Hammer|Mace|Spear|Quarterstaff|Gloves|Armor|Helmet|Hood|Cowl|Shoes|Boots|Sandals|Cape|Bag|Shield|Torch|Book|Orb|Horn|Totem)$/i,
+    '',
+  )
+  return `${trimmedName}${enchantment > 0 ? ` .${enchantment}` : ''}`
 }

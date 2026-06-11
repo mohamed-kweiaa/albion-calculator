@@ -10,6 +10,7 @@ interface ScanFiltersProps {
   qualities: QualityLevel[]; setQualities: (value: QualityLevel[]) => void
   minProfit: number; setMinProfit: (value: number) => void
   minMargin: number; setMinMargin: (value: number) => void
+  maxDataAgeHours: number | null; setMaxDataAgeHours: (value: number | null) => void
 }
 
 function toggle<T>(values: T[], value: T): T[] {
@@ -61,6 +62,26 @@ export function ScanFilters(props: ScanFiltersProps) {
         <ToggleGroup title="Tiers" values={props.tiers} options={[...TIERS]} label={(value) => `T${value}`} setValues={props.setTiers} />
         <ToggleGroup title="Enchantments" values={props.enchantments} options={[...ENCHANTMENTS]} label={(value) => `.${value}`} setValues={props.setEnchantments} />
         <ToggleGroup title="Qualities" values={props.qualities} options={[1, 2, 3, 4, 5] as QualityLevel[]} label={(value) => QUALITY_NAMES[value]} setValues={props.setQualities} />
+        <div>
+          <div className="mb-2 text-sm font-medium">Max Data Age</div>
+          <div className="flex flex-wrap gap-2">
+            {[
+              { label: '1h', value: 1 },
+              { label: '6h', value: 6 },
+              { label: '24h', value: 24 },
+              { label: 'Any age', value: null },
+            ].map((option) => (
+              <button
+                key={option.label}
+                onClick={() => props.setMaxDataAgeHours(option.value)}
+                className={props.maxDataAgeHours === option.value ? 'rounded bg-primary px-2 py-1 text-xs text-primary-foreground' : 'rounded bg-secondary px-2 py-1 text-xs text-secondary-foreground'}
+              >
+                {option.label}
+              </button>
+            ))}
+          </div>
+          <p className="mt-1 text-xs text-muted-foreground">Both buy and sell prices must be newer than this.</p>
+        </div>
         <div className="grid gap-4 md:grid-cols-2">
           <label className="text-sm font-medium">Min Profit<input type="number" value={props.minProfit} onChange={(event) => props.setMinProfit(Number(event.target.value) || 0)} className="mt-2 h-9 w-full rounded border border-input bg-background px-3" /></label>
           <label className="text-sm font-medium">Min Margin %<input type="number" value={props.minMargin} onChange={(event) => props.setMinMargin(Number(event.target.value) || 0)} className="mt-2 h-9 w-full rounded border border-input bg-background px-3" /></label>

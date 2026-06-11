@@ -2,6 +2,11 @@ import type { CityName, ServerRegion, MarketPrice, PriceHistory } from '@/types/
 import { SERVER_URLS } from '@/lib/constants'
 import { rateLimitedFetch } from '@/lib/rateLimiter'
 
+export interface MarketDataSourceOptions {
+  useLocalMarketData?: boolean
+  localApiUrl?: string
+}
+
 /**
  * Returns the Albion Data Project API base URL for the given server region.
  */
@@ -24,15 +29,29 @@ export async function fetchPrices(
   itemIds: string[],
   locations: CityName[],
   qualities: number[],
-  region: ServerRegion
+  region: ServerRegion,
+  options: MarketDataSourceOptions = {}
 ): Promise<MarketPrice[]> {
   if (itemIds.length === 0 || locations.length === 0) return []
 
-  const baseUrl = getApiBaseUrl(region)
   const ids = itemIds.join(',')
   const locs = locations.join(',')
   const qs = qualities.join(',')
 
+  if (options.useLocalMarketData && options.localApiUrl) {
+    const localUrl = `${options.localApiUrl.replace(/\/$/, '')}/api/v2/stats/prices/${ids}.json?locations=${locs}&qualities=${qs}&region=${region}`
+    try {
+      const response = await fetch(localUrl)
+      if (response.ok) {
+        const data: MarketPrice[] = await response.json()
+        if (data.length > 0) return data
+      }
+    } catch (error) {
+      console.warn('[api] local market data unavailable, falling back to public API:', error)
+    }
+  }
+
+  const baseUrl = getApiBaseUrl(region)
   const url = `${baseUrl}/api/v2/stats/prices/${ids}.json?locations=${locs}&qualities=${qs}`
 
   try {
@@ -68,14 +87,28 @@ export async function fetchPriceHistory(
   itemIds: string[],
   locations: CityName[],
   region: ServerRegion,
-  timeScale: number = 6
+  timeScale: number = 6,
+  options: MarketDataSourceOptions = {}
 ): Promise<PriceHistory[]> {
   if (itemIds.length === 0 || locations.length === 0) return []
 
-  const baseUrl = getApiBaseUrl(region)
   const ids = itemIds.join(',')
   const locs = locations.join(',')
 
+  if (options.useLocalMarketData && options.localApiUrl) {
+    const localUrl = `${options.localApiUrl.replace(/\/$/, '')}/api/v2/stats/history/${ids}.json?locations=${locs}&time-scale=${timeScale}&region=${region}`
+    try {
+      const response = await fetch(localUrl)
+      if (response.ok) {
+        const data: PriceHistory[] = await response.json()
+        if (data.length > 0) return data
+      }
+    } catch (error) {
+      console.warn('[api] local market history unavailable, falling back to public API:', error)
+    }
+  }
+
+  const baseUrl = getApiBaseUrl(region)
   const url = `${baseUrl}/api/v2/stats/history/${ids}.json?locations=${locs}&time-scale=${timeScale}`
 
   try {

@@ -6,10 +6,14 @@ interface SettingsState {
   theme: 'light' | 'dark'
   isPremium: boolean
   serverRegion: ServerRegion
+  useLocalMarketData: boolean
+  localApiUrl: string
   toggleTheme: () => void
   setTheme: (theme: 'light' | 'dark') => void
   togglePremium: () => void
   setServerRegion: (region: ServerRegion) => void
+  toggleLocalMarketData: () => void
+  setLocalApiUrl: (url: string) => void
 }
 
 export const useSettingsStore = create<SettingsState>()(
@@ -18,6 +22,8 @@ export const useSettingsStore = create<SettingsState>()(
       theme: 'dark',
       isPremium: true,
       serverRegion: 'europe',
+      useLocalMarketData: false,
+      localApiUrl: 'http://localhost:8787',
       toggleTheme: () =>
         set((state) => {
           const newTheme = state.theme === 'dark' ? 'light' : 'dark'
@@ -31,6 +37,8 @@ export const useSettingsStore = create<SettingsState>()(
         }),
       togglePremium: () => set((state) => ({ isPremium: !state.isPremium })),
       setServerRegion: (region) => set({ serverRegion: region }),
+      toggleLocalMarketData: () => set((state) => ({ useLocalMarketData: !state.useLocalMarketData })),
+      setLocalApiUrl: (url) => set({ localApiUrl: url }),
     }),
     {
       name: 'albion-settings',

@@ -9,10 +9,12 @@ export function useMarketPrices(
   qualities: number[] = [1]
 ) {
   const serverRegion = useSettingsStore((s) => s.serverRegion)
+  const useLocalMarketData = useSettingsStore((s) => s.useLocalMarketData)
+  const localApiUrl = useSettingsStore((s) => s.localApiUrl)
 
   return useQuery({
-    queryKey: ['market-prices', itemIds, locations, qualities, serverRegion],
-    queryFn: () => fetchPrices(itemIds, locations, qualities, serverRegion),
+    queryKey: ['market-prices', itemIds, locations, qualities, serverRegion, useLocalMarketData, localApiUrl],
+    queryFn: () => fetchPrices(itemIds, locations, qualities, serverRegion, { useLocalMarketData, localApiUrl }),
     enabled: itemIds.length > 0,
     staleTime: 5 * 60 * 1000,
   })

@@ -12,8 +12,10 @@ export function Header() {
   const serverRegion = useSettingsStore((s) => s.serverRegion)
   const isPremium = useSettingsStore((s) => s.isPremium)
   const theme = useSettingsStore((s) => s.theme)
+  const useLocalMarketData = useSettingsStore((s) => s.useLocalMarketData)
   const togglePremium = useSettingsStore((s) => s.togglePremium)
   const toggleTheme = useSettingsStore((s) => s.toggleTheme)
+  const toggleLocalMarketData = useSettingsStore((s) => s.toggleLocalMarketData)
 
   return (
     <header className="sticky top-0 z-50 w-full h-14 flex items-center justify-between px-4 bg-background border-b border-border">
@@ -37,6 +39,19 @@ export function Header() {
         >
           <Crown className="h-3.5 w-3.5" />
           {isPremium ? 'Premium' : 'Non-Premium'}
+        </button>
+
+        <button
+          onClick={toggleLocalMarketData}
+          className={cn(
+            'inline-flex items-center rounded-md px-2.5 py-0.5 text-xs font-medium transition-colors',
+            useLocalMarketData
+              ? 'bg-blue-500/15 text-blue-600 dark:text-blue-400'
+              : 'bg-muted text-muted-foreground',
+          )}
+          title="Use local market cache first, then public API fallback"
+        >
+          {useLocalMarketData ? 'Local Data' : 'Public API'}
         </button>
 
         <button

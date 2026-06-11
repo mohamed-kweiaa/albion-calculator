@@ -8,6 +8,7 @@ import {
 } from '@/lib/profitCalculator'
 import { getTransportRisk } from '@/lib/transportRisk'
 import { parseItemId } from '@/lib/itemUtils'
+import { getDataAgeMs } from '@/lib/formatters'
 import type { AlbionItem } from '@/types/items'
 import type { FlipResult, ScanProgress } from '@/types/flip'
 import type { CityName, MarketPrice, QualityLevel } from '@/types/market'
@@ -23,6 +24,7 @@ interface ScanParams {
   isPremium: boolean
   minProfit: number
   minMargin: number
+  maxDataAgeHours: number | null
 }
 
 function batchItems<T>(items: T[], size: number): T[][] {
@@ -43,6 +45,8 @@ export function useFlipScanner() {
   })
   const cancelRef = useRef(false)
   const serverRegion = useSettingsStore((s) => s.serverRegion)
+  const useLocalMarketData = useSettingsStore((s) => s.useLocalMarketData)
+  const localApiUrl = useSettingsStore((s) => s.localApiUrl)
 
   const startScan = useCallback(
     async ({
@@ -54,6 +58,7 @@ export function useFlipScanner() {
       isPremium,
       minProfit,
       minMargin,
+      maxDataAgeHours,
     }: ScanParams) => {
       cancelRef.current = false
       setResults([])
@@ -84,7 +89,8 @@ export function useFlipScanner() {
             batch,
             allLocations,
             qualities,
-            serverRegion
+            serverRegion,
+            { useLocalMarketData, localApiUrl }
           )
         } catch {
           setProgress((prev) => ({
@@ -127,6 +133,16 @@ export function useFlipScanner() {
                     : sellEntry.sell_price_min_date
 
                   if (!isValidPrice(sellPrice, sellDate)) continue
+
+                  if (maxDataAgeHours !== null) {
+                    const maxAgeMs = maxDataAgeHours * 60 * 60 * 1000
+                    if (
+                      getDataAgeMs(buyEntry.sell_price_min_date) > maxAgeMs ||
+                      getDataAgeMs(sellDate) > maxAgeMs
+                    ) {
+                      continue
+                    }
+                  }
 
                   const profitInfo = isBlackMarket
                     ? calculateBlackMarketProfit(buyPrice, sellPrice, isPremium)
@@ -183,7 +199,7 @@ export function useFlipScanner() {
         scanned: cancelRef.current ? prev.scanned : prev.total,
       }))
     },
-    [serverRegion]
+    [serverRegion, useLocalMarketData, localApiUrl]
   )
 
   const cancelScan = useCallback(() => {

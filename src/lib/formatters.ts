@@ -57,6 +57,13 @@ export function getFreshnessColor(
   return 'red'
 }
 
+export function getDataAgeMs(dateStr: string): number {
+  if (!dateStr || dateStr.startsWith('0001-01-01')) return Number.POSITIVE_INFINITY
+  const timestamp = new Date(dateStr).getTime()
+  if (Number.isNaN(timestamp)) return Number.POSITIVE_INFINITY
+  return Date.now() - timestamp
+}
+
 /**
  * Formats a number as a percentage string with sign.
  * e.g., 12.5 -> "+12.5%", -3.2 -> "-3.2%"
